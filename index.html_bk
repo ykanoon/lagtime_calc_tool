@@ -12,7 +12,7 @@
     html, body { height: 100%; margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
     #app { display: grid; grid-template-columns: var(--panel-w) 1fr; height: 100%; }
     #panel { padding: 12px; border-right: 1px solid #ddd; overflow: auto; }
-    #panel h2 { margin: 0 0 8px; font-size: 18px; }
+    #panel h2 { margin: 0 0 8px; font-size: 18px; display:flex; gap:8px; align-items:center; flex-wrap: wrap; }
     #panel .hint { color: #555; font-size: 12px; margin: 6px 0 10px; }
     #station-list { display: grid; gap: 6px; max-height: 45vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
     #actions { margin-top: 10px; display: grid; gap: 8px; }
@@ -20,7 +20,7 @@
     #showBtn { background: #2563eb; color: #fff; }
     #clearBtn { background: #f1f5f9; }
     #map { width: 100%; height: 100%; }
-    .badge { display:inline-block; padding:2px 6px; border-radius:6px; background:#eef2ff; color:#3730a3; font-size:11px; margin-left:6px; }
+    .badge { display:inline-block; padding:2px 6px; border-radius:6px; background:#eef2ff; color:#3730a3; font-size:11px; }
     .popup-table { border-collapse: collapse; font-size: 12px; }
     .popup-table td { padding: 2px 6px; border-bottom: 1px solid #eee; }
     .legend { position: absolute; bottom: 12px; left: 12px; background: rgba(255,255,255,0.9); padding: 8px 10px; border-radius: 8px; border:1px solid #ddd; font-size: 12px; }
@@ -29,14 +29,22 @@
 <body>
   <div id="app">
     <aside id="panel">
-      <h2>観測点リスト <span class="badge">2点選択</span></h2>
+      <h2>
+        観測点リスト
+        <span class="badge">2点選択</span>
+        <span id="countBadge" class="badge" style="display:none"></span>
+      </h2>
       <div id="station-list">読み込み中…</div>
       <div id="actions">
         <button id="showBtn">表示</button>
         <button id="clearBtn">クリア</button>
       </div>
-      <div class="hint">地図上をクリックすると、その地点→選択した各観測点までの<strong>水平距離</strong>と、音速 <b>340 m/s</b> と仮定した到達時間、および到達時間差をポップアップ表示します。</div>
-      <div class="hint">タイル: 地理院地図（淡色） / 測地線距離: Leaflet の球面近似</div>
+      <div class="hint">
+        地図上をクリックすると、その地点→選択した各観測点までの<strong>水平距離</strong>と、
+        音速 <b>340 m/s</b> と仮定した到達時間、および
+        <b>ch1 − ch2（符号付き）</b> の時間差をポップアップ表示します。
+      </div>
+      <div class="hint">タイル: 地理院タイル（淡色） / 測地線距離: Leaflet の球面近似</div>
     </aside>
     <div style="position:relative">
       <div id="map"></div>
@@ -49,7 +57,7 @@
     const SPEED = 340.0; // m/s
 
     // === 地図初期化 ===
-    const map = L.map('map', { zoomControl: true }).setView([31.90, 130.88], 12);
+    const map = L.map('map', { zoomControl: true }).setView([35.0, 135.0], 5);
     L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
       attribution: '地理院タイル'
     }).addTo(map);
@@ -59,31 +67,57 @@
     const linkLayer = L.layerGroup().addTo(map);
 
     // 状態
-    let allStations = []; // [{id,name,lat,lon}]
+    let allStations = []; // [{id,code,number,name,altName,latDec,lonDec,hyoukou,shozokuno}]
     let selected = [];    // 選択中 station objects (最大2)
 
-    // === 駅リスト読み込み ===
+    // === 初期化 ===
     init();
+
     async function init() {
       try {
-        const res = await fetch('stations.json');
-        if (!res.ok) throw new Error('stations.json の取得に失敗');
+        const res = await fetch('station_all.json');
+        if (!res.ok) throw new Error(`station_all.json の取得に失敗: ${res.status} ${res.statusText}`);
         const raw = await res.json();
-        // DMS → 十進変換
-        allStations = raw.map(s => ({
-          ...s,
-          latDec: dmsToDec(s.lat),
-          lonDec: dmsToDec(s.lon),
+
+        if (!Array.isArray(raw)) {
+          throw new Error('JSON形式が配列ではありません。配列に変換してください。');
+        }
+
+        // station_all.json を正規化して内部表現へ
+        allStations = raw.map((s, idx) => ({
+          id: String(s.kansokutencd ?? s.kansokutenno ?? idx),
+          code: s.kansokutencd ?? '',
+          number: Number(s.kansokutenno),
+          name: s.kansokutennm ?? '',
+          altName: s.siryoukansokutennm ?? '',
+          latDec: Number(s.lat),
+          lonDec: Number(s.lon),
+          hyoukou: Number(s.hyoukou),
+          shozokuno: Number(s.shozokuno)
         })).filter(s => Number.isFinite(s.latDec) && Number.isFinite(s.lonDec));
+
+        if (allStations.length === 0) {
+          console.error('読み込み結果が0件です。最初の要素のキー確認用:', raw[0] ? Object.keys(raw[0]) : '(なし)');
+          const wrap = document.getElementById('station-list');
+          wrap.innerHTML = '<span style="color:#b91c1c">観測点を1件も取り込めませんでした。JSONのキー名（lat, lon など）をご確認ください。</span>';
+          return;
+        }
+
         renderStationList(allStations);
+
+        // 件数バッジ
+        const countBadge = document.getElementById('countBadge');
+        countBadge.textContent = `${allStations.length}件`;
+        countBadge.style.display = 'inline-block';
+
         // 地図の初期表示を観測点の重心に
-        if (allStations.length) {
-          const latAvg = allStations.reduce((a,b)=>a+b.latDec,0)/allStations.length;
-          const lonAvg = allStations.reduce((a,b)=>a+b.lonDec,0)/allStations.length;
-          map.setView([latAvg, lonAvg], 12);
+        const latAvg = allStations.reduce((a,b)=>a+b.latDec,0)/allStations.length;
+        const lonAvg = allStations.reduce((a,b)=>a+b.lonDec,0)/allStations.length;
+        if (Number.isFinite(latAvg) && Number.isFinite(lonAvg)) {
+          map.setView([latAvg, lonAvg], 10);
         }
       } catch (e) {
-        document.getElementById('station-list').textContent = '観測点の読み込みに失敗しました。';
+        document.getElementById('station-list').textContent = '観測点の読み込みに失敗しました。コンソールを確認してください。';
         console.error(e);
       }
     }
@@ -97,8 +131,8 @@
         div.innerHTML = `
           <label style="display:flex;gap:8px;align-items:center">
             <input type="checkbox" id="${id}" value="${s.id}">
-            <span>${s.name}</span>
-            <span style="color:#64748b;font-size:11px">(${s.id})</span>
+            <span>${escapeHtml(s.name)}</span>
+            <span style="color:#64748b;font-size:11px">(${escapeHtml(s.code)})</span>
           </label>`;
         const cb = div.querySelector('input');
         cb.addEventListener('change', () => handleCheckChange(cb, s));
@@ -112,8 +146,7 @@
     function handleCheckChange(cb, station) {
       if (cb.checked) {
         if (selected.length >= 2) {
-          // 2つまで
-          cb.checked = false;
+          cb.checked = false; // 2つまで
           alert('選択できる観測点は2つまでです。');
           return;
         }
@@ -130,7 +163,7 @@
 
       selected.forEach((s, i) => {
         const mk = L.marker([s.latDec, s.lonDec], { title: s.name })
-          .bindPopup(`<b>${s.name}</b><br>Lat: ${s.latDec.toFixed(5)}<br>Lon: ${s.lonDec.toFixed(5)}`)
+          .bindPopup(`<b>${escapeHtml(s.name)}</b><br>Lat: ${s.latDec.toFixed(5)}<br>Lon: ${s.lonDec.toFixed(5)}`)
           .addTo(stationLayer);
         if (i === 0) mk.openPopup();
       });
@@ -140,7 +173,6 @@
     }
 
     function clearAll() {
-      // チェック解除
       document.querySelectorAll('#station-list input[type="checkbox"]').forEach(cb => cb.checked = false);
       selected = [];
       stationLayer.clearLayers();
@@ -152,42 +184,44 @@
       const p = e.latlng; // クリック点
       linkLayer.clearLayers();
 
-      // クリック → 各観測点の距離&時間
-      const rows = selected.map((s, idx) => {
-        const dist_m = L.latLng(p.lat, p.lng).distanceTo([s.latDec, s.lonDec]); // m
-        const t_s = dist_m / SPEED;
-        // 線を引く
-        L.polyline([[p.lat, p.lng], [s.latDec, s.lonDec]], { weight: 2, dashArray: '4 4' }).addTo(linkLayer);
-        return { name: s.name, id: s.id, dist_m, t_s };
-      });
+      const [ch1, ch2] = selected; // 選択順＝ch1,ch2
 
-      // 差 [秒]
-      const dt = Math.abs(rows[0].t_s - rows[1].t_s);
+      const r1_dist = L.latLng(p.lat, p.lng).distanceTo([ch1.latDec, ch1.lonDec]); // m
+      const r2_dist = L.latLng(p.lat, p.lng).distanceTo([ch2.latDec, ch2.lonDec]); // m
+      const r1_time = r1_dist / SPEED;
+      const r2_time = r2_dist / SPEED;
+
+      L.polyline([[p.lat, p.lng], [ch1.latDec, ch1.lonDec]], { weight: 2, dashArray: '4 4' }).addTo(linkLayer);
+      L.polyline([[p.lat, p.lng], [ch2.latDec, ch2.lonDec]], { weight: 2, dashArray: '4 4' }).addTo(linkLayer);
+
+      const dt = r1_time - r2_time; // ch1 - ch2（符号付き）
 
       const html = `
         <div style="min-width:260px">
           <div style="font-weight:700;margin-bottom:6px">クリック地点からの到達時間</div>
           <table class="popup-table">
-            ${rows.map(r => `
-              <tr><td>${r.name}</td><td>${(r.dist_m/1000).toFixed(3)} km</td><td>${r.t_s.toFixed(2)} s</td></tr>
-            `).join('')}
-            <tr><td style="font-weight:700">時間差</td><td colspan="2" style="font-weight:700">${dt.toFixed(2)} s</td></tr>
+            <tr><td>ch1: ${escapeHtml(ch1.name)}</td><td>${(r1_dist/1000).toFixed(3)} km</td><td>${r1_time.toFixed(2)} s</td></tr>
+            <tr><td>ch2: ${escapeHtml(ch2.name)}</td><td>${(r2_dist/1000).toFixed(3)} km</td><td>${r2_time.toFixed(2)} s</td></tr>
+            <tr><td style="font-weight:700">ch1 - ch2</td><td colspan="2" style="font-weight:700">${formatSigned(dt)} s</td></tr>
           </table>
         </div>`;
 
       L.popup({ closeOnClick: true }).setLatLng(p).setContent(html).openOn(map);
     }
 
-    // "31 53.44" のような "度 分.分" 形式 → 十進
-    function dmsToDec(str) {
-      if (typeof str !== 'string') return NaN;
-      const parts = str.trim().split(/\s+/);
-      if (parts.length < 2) return NaN;
-      const d = parseFloat(parts[0]);
-      const m = parseFloat(parts[1]);
-      if (!Number.isFinite(d) || !Number.isFinite(m)) return NaN;
-      return d + (m / 60.0);
+    function formatSigned(x, digits = 2) {
+      const v = Number(x);
+      if (!Number.isFinite(v)) return String(x);
+      const s = v.toFixed(digits);
+      return (v >= 0 ? '+' : '') + s;
+    }
+
+    function escapeHtml(s) {
+      return String(s ?? '').replace(/[&<>"']/g, c => ({
+        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+      }[c]));
     }
   </script>
 </body>
 </html>
+

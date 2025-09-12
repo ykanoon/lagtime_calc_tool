@@ -8,13 +8,17 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <style>
-    :root { --panel-w: 340px; }
+    :root { --panel-w: 360px; }
     html, body { height: 100%; margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
     #app { display: grid; grid-template-columns: var(--panel-w) 1fr; height: 100%; }
     #panel { padding: 12px; border-right: 1px solid #ddd; overflow: auto; }
     #panel h2 { margin: 0 0 8px; font-size: 18px; display:flex; gap:8px; align-items:center; flex-wrap: wrap; }
     #panel .hint { color: #555; font-size: 12px; margin: 6px 0 10px; }
-    #station-list { display: grid; gap: 6px; max-height: 45vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
+    #filters { margin: 8px 0 10px; padding:10px; border:1px solid #eee; border-radius:8px; }
+    #filters .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+    #filters .chips { display:flex; gap:8px; flex-wrap:wrap; margin-top:6px; }
+    #filters .chip { display:flex; align-items:center; gap:6px; padding:6px 8px; border:1px solid #e5e7eb; border-radius:8px; background:#fafafa; }
+    #station-list { display: grid; gap: 6px; max-height: 40vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
     #actions { margin-top: 10px; display: grid; gap: 8px; }
     button { padding: 10px 12px; border: 0; border-radius: 8px; cursor: pointer; font-weight: 600; }
     #showBtn { background: #2563eb; color: #fff; }
@@ -34,18 +38,34 @@
         <span class="badge">2点選択</span>
         <span id="countBadge" class="badge" style="display:none"></span>
       </h2>
+
+      <!-- shozokuno フィルタ -->
+      <div id="filters">
+        <div class="row">
+          <strong>shozokuno フィルタ</strong>
+          <span id="filterCount" class="badge" style="display:none"></span>
+        </div>
+        <div class="chips" id="shozokuChips">読み込み中…</div>
+        <div class="row" style="margin-top:6px">
+          <button id="selectAllBtn" style="background:#e2e8f0">全選択</button>
+          <button id="unselectAllBtn" style="background:#e2e8f0">全解除</button>
+        </div>
+      </div>
+
       <div id="station-list">読み込み中…</div>
+
       <div id="actions">
         <button id="showBtn">表示</button>
         <button id="clearBtn">クリア</button>
       </div>
+
       <div class="hint">
-        地図上をクリックすると、その地点→選択した各観測点までの<strong>水平距離</strong>と、
-        音速 <b>340 m/s</b> と仮定した到達時間、および
-        <b>ch1 − ch2（符号付き）</b> の時間差をポップアップ表示します。
+        地図をクリックすると、その地点→選択観測点までの<strong>水平距離</strong>と、
+        音速 <b>340 m/s</b> 仮定の到達時間、<b>ch1 − ch2（符号付き）</b> の時間差を表示。
       </div>
-      <div class="hint">タイル: 地理院タイル（淡色） / 測地線距離: Leaflet の球面近似</div>
+      <div class="hint">タイル: 地理院タイル（淡色） / 距離: Leaflet の球面近似</div>
     </aside>
+
     <div style="position:relative">
       <div id="map"></div>
       <div class="legend">操作: 観測点を2つ選んで「表示」→地図をクリック</div>
@@ -58,19 +78,19 @@
 
     // === 地図初期化 ===
     const map = L.map('map', { zoomControl: true }).setView([35.0, 135.0], 5);
-    L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', {
-      attribution: '地理院タイル'
-    }).addTo(map);
+    L.tileLayer('https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png', { attribution: '地理院タイル' }).addTo(map);
 
     // レイヤー
     const stationLayer = L.layerGroup().addTo(map);
     const linkLayer = L.layerGroup().addTo(map);
 
     // 状態
-    let allStations = []; // [{id,code,number,name,altName,latDec,lonDec,hyoukou,shozokuno}]
-    let selected = [];    // 選択中 station objects (最大2)
+    let allStations = [];       // 全観測点
+    let filteredStations = [];  // フィルタ後に表示する観測点
+    let selected = [];          // 2点まで
+    let selectedShozoku = new Set(); // 選択中の shozokuno（数値）
 
-    // === 初期化 ===
+    // 初期化
     init();
 
     async function init() {
@@ -78,12 +98,9 @@
         const res = await fetch('station_all.json');
         if (!res.ok) throw new Error(`station_all.json の取得に失敗: ${res.status} ${res.statusText}`);
         const raw = await res.json();
+        if (!Array.isArray(raw)) throw new Error('JSON形式が配列ではありません。');
 
-        if (!Array.isArray(raw)) {
-          throw new Error('JSON形式が配列ではありません。配列に変換してください。');
-        }
-
-        // station_all.json を正規化して内部表現へ
+        // 正規化
         allStations = raw.map((s, idx) => ({
           id: String(s.kansokutencd ?? s.kansokutenno ?? idx),
           code: s.kansokutencd ?? '',
@@ -97,34 +114,95 @@
         })).filter(s => Number.isFinite(s.latDec) && Number.isFinite(s.lonDec));
 
         if (allStations.length === 0) {
-          console.error('読み込み結果が0件です。最初の要素のキー確認用:', raw[0] ? Object.keys(raw[0]) : '(なし)');
-          const wrap = document.getElementById('station-list');
-          wrap.innerHTML = '<span style="color:#b91c1c">観測点を1件も取り込めませんでした。JSONのキー名（lat, lon など）をご確認ください。</span>';
+          document.getElementById('station-list').innerHTML = '<span style="color:#b91c1c">取り込み0件。JSONのキー名をご確認ください。</span>';
           return;
         }
 
-        renderStationList(allStations);
+        // shozokuno 値を抽出し、初期は全選択
+        const uniqShozoku = [...new Set(allStations.map(s => s.shozokuno).filter(n => Number.isFinite(n)))].sort((a,b)=>a-b);
+        uniqShozoku.forEach(v => selectedShozoku.add(v));
+
+        buildShozokuFilter(uniqShozoku);
+
+        // 初回フィルタ適用
+        applyFilterAndRender();
 
         // 件数バッジ
         const countBadge = document.getElementById('countBadge');
         countBadge.textContent = `${allStations.length}件`;
         countBadge.style.display = 'inline-block';
 
-        // 地図の初期表示を観測点の重心に
+        // 地図中心
         const latAvg = allStations.reduce((a,b)=>a+b.latDec,0)/allStations.length;
         const lonAvg = allStations.reduce((a,b)=>a+b.lonDec,0)/allStations.length;
-        if (Number.isFinite(latAvg) && Number.isFinite(lonAvg)) {
-          map.setView([latAvg, lonAvg], 10);
-        }
+        if (Number.isFinite(latAvg) && Number.isFinite(lonAvg)) map.setView([latAvg, lonAvg], 10);
+
+        // 地図クリック
+        map.on('click', onMapClick);
+
       } catch (e) {
-        document.getElementById('station-list').textContent = '観測点の読み込みに失敗しました。コンソールを確認してください。';
+        document.getElementById('station-list').textContent = '観測点の読み込みに失敗。コンソールを確認してください。';
         console.error(e);
       }
     }
 
+    // === フィルタUI ===
+    function buildShozokuFilter(values) {
+      const wrap = document.getElementById('shozokuChips');
+      wrap.innerHTML = '';
+      values.forEach(v => {
+        const id = `shz-${v}`;
+        const div = document.createElement('label');
+        div.className = 'chip';
+        div.innerHTML = `
+          <input type="checkbox" id="${id}" value="${v}" checked>
+          <span>shozokuno: ${v}</span>
+        `;
+        const cb = div.querySelector('input');
+        cb.addEventListener('change', () => {
+          if (cb.checked) selectedShozoku.add(Number(v));
+          else selectedShozoku.delete(Number(v));
+          // フィルタ変更時は選択をクリア
+          selected = [];
+          stationLayer.clearLayers();
+          linkLayer.clearLayers();
+          applyFilterAndRender();
+        });
+        wrap.appendChild(div);
+      });
+
+      document.getElementById('selectAllBtn').onclick = () => {
+        values.forEach(v => selectedShozoku.add(Number(v)));
+        wrap.querySelectorAll('input[type="checkbox"]').forEach(el => el.checked = true);
+        selected = []; stationLayer.clearLayers(); linkLayer.clearLayers();
+        applyFilterAndRender();
+      };
+      document.getElementById('unselectAllBtn').onclick = () => {
+        selectedShozoku.clear();
+        wrap.querySelectorAll('input[type="checkbox"]').forEach(el => el.checked = false);
+        selected = []; stationLayer.clearLayers(); linkLayer.clearLayers();
+        applyFilterAndRender();
+      };
+    }
+
+    function applyFilterAndRender() {
+      filteredStations = allStations.filter(s => selectedShozoku.has(s.shozokuno));
+      renderStationList(filteredStations);
+
+      // フィルタ件数バッジ
+      const fc = document.getElementById('filterCount');
+      fc.textContent = `${filteredStations.length}件`;
+      fc.style.display = 'inline-block';
+    }
+
+    // === 観測点リスト描画 ===
     function renderStationList(stations) {
       const wrap = document.getElementById('station-list');
       wrap.innerHTML = '';
+      if (stations.length === 0) {
+        wrap.innerHTML = '<span style="color:#b91c1c">このフィルタでは観測点がありません。</span>';
+        return;
+      }
       stations.forEach(s => {
         const id = 'st-' + s.id;
         const div = document.createElement('div');
@@ -133,20 +211,21 @@
             <input type="checkbox" id="${id}" value="${s.id}">
             <span>${escapeHtml(s.name)}</span>
             <span style="color:#64748b;font-size:11px">(${escapeHtml(s.code)})</span>
+            <span class="badge" title="shozokuno">${Number.isFinite(s.shozokuno) ? s.shozokuno : '-'}</span>
           </label>`;
         const cb = div.querySelector('input');
         cb.addEventListener('change', () => handleCheckChange(cb, s));
         wrap.appendChild(div);
       });
-      document.getElementById('showBtn').addEventListener('click', onShow);
-      document.getElementById('clearBtn').addEventListener('click', clearAll);
-      map.on('click', onMapClick);
+      document.getElementById('showBtn').onclick = onShow;
+      document.getElementById('clearBtn').onclick = clearAll;
     }
 
+    // === 選択 ===
     function handleCheckChange(cb, station) {
       if (cb.checked) {
         if (selected.length >= 2) {
-          cb.checked = false; // 2つまで
+          cb.checked = false;
           alert('選択できる観測点は2つまでです。');
           return;
         }
@@ -156,6 +235,7 @@
       }
     }
 
+    // === 表示（マーカー） ===
     function onShow() {
       if (selected.length !== 2) { alert('観測点をちょうど2つ選択してください。'); return; }
       stationLayer.clearLayers();
@@ -167,11 +247,12 @@
           .addTo(stationLayer);
         if (i === 0) mk.openPopup();
       });
-      // bbox フィット
+
       const group = L.featureGroup(selected.map(s => L.marker([s.latDec, s.lonDec])));
       map.fitBounds(group.getBounds().pad(0.25));
     }
 
+    // === クリア ===
     function clearAll() {
       document.querySelectorAll('#station-list input[type="checkbox"]').forEach(cb => cb.checked = false);
       selected = [];
@@ -179,15 +260,16 @@
       linkLayer.clearLayers();
     }
 
+    // === 地図クリック：距離→時間・差 ===
     function onMapClick(e) {
       if (selected.length !== 2) { return; }
-      const p = e.latlng; // クリック点
+      const p = e.latlng;
       linkLayer.clearLayers();
 
-      const [ch1, ch2] = selected; // 選択順＝ch1,ch2
+      const [ch1, ch2] = selected;
 
-      const r1_dist = L.latLng(p.lat, p.lng).distanceTo([ch1.latDec, ch1.lonDec]); // m
-      const r2_dist = L.latLng(p.lat, p.lng).distanceTo([ch2.latDec, ch2.lonDec]); // m
+      const r1_dist = L.latLng(p.lat, p.lng).distanceTo([ch1.latDec, ch1.lonDec]);
+      const r2_dist = L.latLng(p.lat, p.lng).distanceTo([ch2.latDec, ch2.lonDec]);
       const r1_time = r1_dist / SPEED;
       const r2_time = r2_dist / SPEED;
 
@@ -205,21 +287,18 @@
             <tr><td style="font-weight:700">ch1 - ch2</td><td colspan="2" style="font-weight:700">${formatSigned(dt)} s</td></tr>
           </table>
         </div>`;
-
       L.popup({ closeOnClick: true }).setLatLng(p).setContent(html).openOn(map);
     }
 
+    // === ユーティリティ ===
     function formatSigned(x, digits = 2) {
       const v = Number(x);
       if (!Number.isFinite(v)) return String(x);
       const s = v.toFixed(digits);
       return (v >= 0 ? '+' : '') + s;
     }
-
     function escapeHtml(s) {
-      return String(s ?? '').replace(/[&<>"']/g, c => ({
-        '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
-      }[c]));
+      return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
     }
   </script>
 </body>
