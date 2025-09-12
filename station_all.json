@@ -7,7 +7,8 @@
     "lat": 36.54583,
     "lon": 138.20383,
     "hyoukou": 406,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 184,
@@ -17,7 +18,8 @@
     "lat": 34.9285,
     "lon": 139.06083,
     "hyoukou": 175,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 204,
@@ -27,7 +29,8 @@
     "lat": 33.281,
     "lon": 131.44867,
     "hyoukou": 473,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 305,
@@ -37,7 +40,8 @@
     "lat": 39.82633,
     "lon": 140.87167,
     "hyoukou": 670,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 338,
@@ -47,7 +51,8 @@
     "lat": 34.36267,
     "lon": 139.25883,
     "hyoukou": 41,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 339,
@@ -57,7 +62,8 @@
     "lat": 34.32567,
     "lon": 139.225,
     "hyoukou": 23,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 342,
@@ -67,7 +73,8 @@
     "lat": 34.0935,
     "lon": 139.50467,
     "hyoukou": 370,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 343,
@@ -77,7 +84,8 @@
     "lat": 34.081,
     "lon": 139.53317,
     "hyoukou": 680,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 349,
@@ -87,7 +95,8 @@
     "lat": 34.96417,
     "lon": 139.11917,
     "hyoukou": 211,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 384,
@@ -97,7 +106,8 @@
     "lat": 39.84133,
     "lon": 140.94567,
     "hyoukou": 1400,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 385,
@@ -107,7 +117,8 @@
     "lat": 39.88333,
     "lon": 140.93517,
     "hyoukou": 710,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 400,
@@ -117,7 +128,8 @@
     "lat": 35.00767,
     "lon": 139.09767,
     "hyoukou": 12,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 402,
@@ -127,7 +139,8 @@
     "lat": 34.79233,
     "lon": 139.36183,
     "hyoukou": 20,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 403,
@@ -137,7 +150,8 @@
     "lat": 34.6985,
     "lon": 139.39583,
     "hyoukou": 140,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 405,
@@ -147,7 +161,8 @@
     "lat": 34.73233,
     "lon": 139.35883,
     "hyoukou": 40,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 412,
@@ -157,7 +172,8 @@
     "lat": 34.852,
     "lon": 139.03933,
     "hyoukou": 946,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 420,
@@ -167,7 +183,8 @@
     "lat": 34.734,
     "lon": 139.38683,
     "hyoukou": 552,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 423,
@@ -177,7 +194,8 @@
     "lat": 34.72317,
     "lon": 139.43283,
     "hyoukou": 350,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 432,
@@ -187,7 +205,8 @@
     "lat": 34.91617,
     "lon": 138.994,
     "hyoukou": 263,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 434,
@@ -197,7 +216,8 @@
     "lat": 35.317,
     "lon": 139.02467,
     "hyoukou": 386,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 436,
@@ -207,7 +227,8 @@
     "lat": 35.51367,
     "lon": 138.94067,
     "hyoukou": 567,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 439,
@@ -217,7 +238,8 @@
     "lat": 34.741,
     "lon": 138.93117,
     "hyoukou": -13,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 441,
@@ -227,7 +249,8 @@
     "lat": 35.042,
     "lon": 139.16833,
     "hyoukou": -84,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 442,
@@ -237,7 +260,8 @@
     "lat": 34.97233,
     "lon": 139.12,
     "hyoukou": -145,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 443,
@@ -247,7 +271,8 @@
     "lat": 34.75417,
     "lon": 139.3625,
     "hyoukou": -3,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 444,
@@ -257,7 +282,8 @@
     "lat": 34.7725,
     "lon": 139.3985,
     "hyoukou": 231,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 445,
@@ -267,7 +293,8 @@
     "lat": 34.6985,
     "lon": 139.39617,
     "hyoukou": 120,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 446,
@@ -277,7 +304,8 @@
     "lat": 34.97233,
     "lon": 139.12,
     "hyoukou": 5,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 454,
@@ -287,7 +315,8 @@
     "lat": 35.65533,
     "lon": 137.46533,
     "hyoukou": 650,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 457,
@@ -297,7 +326,8 @@
     "lat": 34.9625,
     "lon": 138.80967,
     "hyoukou": 160,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 459,
@@ -307,7 +337,8 @@
     "lat": 35.89433,
     "lon": 137.15233,
     "hyoukou": 590,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 460,
@@ -317,7 +348,8 @@
     "lat": 35.98717,
     "lon": 137.52967,
     "hyoukou": 1260,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 461,
@@ -327,7 +359,8 @@
     "lat": 36.25783,
     "lon": 137.56633,
     "hyoukou": 1050,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 462,
@@ -337,7 +370,8 @@
     "lat": 35.91283,
     "lon": 137.54533,
     "hyoukou": 1340,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 507,
@@ -347,7 +381,8 @@
     "lat": 43.166,
     "lon": 142.58967,
     "hyoukou": 360,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 514,
@@ -357,7 +392,8 @@
     "lat": 41.89017,
     "lon": 141.02283,
     "hyoukou": 10,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 515,
@@ -367,7 +403,8 @@
     "lat": 42.47117,
     "lon": 141.03467,
     "hyoukou": 110,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 518,
@@ -377,7 +414,8 @@
     "lat": 43.29933,
     "lon": 143.76567,
     "hyoukou": 210,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 535,
@@ -387,7 +425,8 @@
     "lat": 39.98733,
     "lon": 141.32633,
     "hyoukou": 620,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 547,
@@ -397,7 +436,8 @@
     "lat": 37.52117,
     "lon": 140.33333,
     "hyoukou": 350,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 548,
@@ -407,7 +447,8 @@
     "lat": 37.40983,
     "lon": 139.7015,
     "hyoukou": 420,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 677,
@@ -417,7 +458,8 @@
     "lat": 42.11967,
     "lon": 140.3665,
     "hyoukou": 120,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 705,
@@ -427,7 +469,8 @@
     "lat": 34.0715,
     "lon": 139.51267,
     "hyoukou": 470,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 793,
@@ -437,7 +480,8 @@
     "lat": 34.93383,
     "lon": 139.07083,
     "hyoukou": 156,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 800,
@@ -447,7 +491,8 @@
     "lat": 34.87383,
     "lon": 139.2065,
     "hyoukou": -985,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 801,
@@ -457,7 +502,8 @@
     "lat": 34.93583,
     "lon": 139.26967,
     "hyoukou": 0,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 802,
@@ -467,7 +513,8 @@
     "lat": 34.96167,
     "lon": 139.217,
     "hyoukou": 0,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 803,
@@ -477,7 +524,8 @@
     "lat": 35.07533,
     "lon": 138.98,
     "hyoukou": 56,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 808,
@@ -487,7 +535,8 @@
     "lat": 34.8155,
     "lon": 138.825,
     "hyoukou": 160,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 820,
@@ -497,7 +546,8 @@
     "lat": 35.36667,
     "lon": 138.91017,
     "hyoukou": 370,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 821,
@@ -507,7 +557,8 @@
     "lat": 35.39833,
     "lon": 138.76183,
     "hyoukou": 1743,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 822,
@@ -517,7 +568,8 @@
     "lat": 34.90667,
     "lon": 138.93017,
     "hyoukou": 210,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 823,
@@ -527,7 +579,8 @@
     "lat": 34.76583,
     "lon": 138.98683,
     "hyoukou": 65,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 829,
@@ -537,7 +590,8 @@
     "lat": 34.10833,
     "lon": 139.50667,
     "hyoukou": 174,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 830,
@@ -547,7 +601,8 @@
     "lat": 34.06333,
     "lon": 139.542,
     "hyoukou": 112,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 831,
@@ -557,7 +612,8 @@
     "lat": 34.073,
     "lon": 139.49367,
     "hyoukou": 261,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 832,
@@ -567,7 +623,8 @@
     "lat": 33.8945,
     "lon": 139.59283,
     "hyoukou": 120,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 833,
@@ -577,7 +634,8 @@
     "lat": 34.22767,
     "lon": 139.13933,
     "hyoukou": 26,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 834,
@@ -587,7 +645,8 @@
     "lat": 34.1905,
     "lon": 139.13383,
     "hyoukou": 137,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 835,
@@ -597,7 +656,8 @@
     "lat": 34.42183,
     "lon": 139.284,
     "hyoukou": 25,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 836,
@@ -607,7 +667,8 @@
     "lat": 34.393,
     "lon": 139.26783,
     "hyoukou": 384,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 837,
@@ -617,7 +678,8 @@
     "lat": 34.356,
     "lon": 139.274,
     "hyoukou": 66,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 838,
@@ -627,7 +689,8 @@
     "lat": 34.32617,
     "lon": 139.21517,
     "hyoukou": 41,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 839,
@@ -637,7 +700,8 @@
     "lat": 34.52633,
     "lon": 139.27667,
     "hyoukou": 170,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 840,
@@ -647,7 +711,8 @@
     "lat": 33.1535,
     "lon": 139.74733,
     "hyoukou": 90,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 841,
@@ -657,7 +722,8 @@
     "lat": 33.07167,
     "lon": 139.802,
     "hyoukou": 141,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 842,
@@ -667,7 +733,8 @@
     "lat": 33.0835,
     "lon": 139.85083,
     "hyoukou": 100,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 843,
@@ -677,7 +744,8 @@
     "lat": 33.11117,
     "lon": 139.75967,
     "hyoukou": 33,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 844,
@@ -687,7 +755,8 @@
     "lat": 33.12983,
     "lon": 139.79783,
     "hyoukou": 22,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 845,
@@ -697,7 +766,8 @@
     "lat": 32.45483,
     "lon": 139.77017,
     "hyoukou": 106,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 846,
@@ -707,7 +777,8 @@
     "lat": 32.451,
     "lon": 139.76267,
     "hyoukou": 105,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 847,
@@ -717,7 +788,8 @@
     "lat": 32.46833,
     "lon": 139.75883,
     "hyoukou": 265,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 848,
@@ -727,7 +799,8 @@
     "lat": 32.4625,
     "lon": 139.76483,
     "hyoukou": 334,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 855,
@@ -737,7 +810,8 @@
     "lat": 37.05183,
     "lon": 138.02683,
     "hyoukou": 210,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 3
   },
   {
     "kansokutenno": 857,
@@ -747,7 +821,8 @@
     "lat": 35.4465,
     "lon": 138.7585,
     "hyoukou": 1090,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 858,
@@ -757,7 +832,8 @@
     "lat": 35.42483,
     "lon": 138.64517,
     "hyoukou": 1190,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 859,
@@ -767,7 +843,8 @@
     "lat": 34.074,
     "lon": 139.51467,
     "hyoukou": 497,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 861,
@@ -777,7 +854,8 @@
     "lat": 36.25783,
     "lon": 137.56633,
     "hyoukou": 1142,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 863,
@@ -787,7 +865,8 @@
     "lat": 36.1155,
     "lon": 137.16883,
     "hyoukou": 664,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 864,
@@ -797,7 +876,8 @@
     "lat": 35.825,
     "lon": 137.60183,
     "hyoukou": 885,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 865,
@@ -807,7 +887,8 @@
     "lat": 35.87017,
     "lon": 137.50633,
     "hyoukou": 2170,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 866,
@@ -817,7 +898,8 @@
     "lat": 35.92333,
     "lon": 137.45017,
     "hyoukou": 1794,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 874,
@@ -827,7 +909,8 @@
     "lat": 34.5235,
     "lon": 139.2885,
     "hyoukou": 142,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 876,
@@ -837,7 +920,8 @@
     "lat": 33.89417,
     "lon": 139.593,
     "hyoukou": 120,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 879,
@@ -847,7 +931,8 @@
     "lat": 32.4685,
     "lon": 139.75867,
     "hyoukou": 283,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 913,
@@ -857,7 +942,8 @@
     "lat": 36.1845,
     "lon": 138.561,
     "hyoukou": 970,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 915,
@@ -867,7 +953,8 @@
     "lat": 35.16083,
     "lon": 138.843,
     "hyoukou": 114,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 919,
@@ -877,7 +964,8 @@
     "lat": 35.31367,
     "lon": 138.67567,
     "hyoukou": 1040,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 922,
@@ -887,7 +975,8 @@
     "lat": 34.1075,
     "lon": 139.55017,
     "hyoukou": 109,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 925,
@@ -897,7 +986,8 @@
     "lat": 34.20267,
     "lon": 139.1515,
     "hyoukou": 44,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 934,
@@ -907,7 +997,8 @@
     "lat": 36.98633,
     "lon": 139.693,
     "hyoukou": 665,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 936,
@@ -917,7 +1008,8 @@
     "lat": 35.7305,
     "lon": 137.30217,
     "hyoukou": 620,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 937,
@@ -927,7 +1019,8 @@
     "lat": 34.738,
     "lon": 139.38067,
     "hyoukou": 558,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 938,
@@ -937,7 +1030,8 @@
     "lat": 33.07717,
     "lon": 139.83967,
     "hyoukou": 36,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 939,
@@ -947,7 +1041,8 @@
     "lat": 34.96783,
     "lon": 138.80167,
     "hyoukou": -46,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 941,
@@ -957,7 +1052,8 @@
     "lat": 35.22,
     "lon": 139.033,
     "hyoukou": 948,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 943,
@@ -967,7 +1063,8 @@
     "lat": 36.46317,
     "lon": 138.85317,
     "hyoukou": 980,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 944,
@@ -977,7 +1074,8 @@
     "lat": 35.32017,
     "lon": 139.30883,
     "hyoukou": -19,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 946,
@@ -987,7 +1085,8 @@
     "lat": 34.95233,
     "lon": 139.13833,
     "hyoukou": -84,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 956,
@@ -997,7 +1096,8 @@
     "lat": 34.10917,
     "lon": 139.506,
     "hyoukou": 69,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 959,
@@ -1007,7 +1107,8 @@
     "lat": 35.14567,
     "lon": 139.15017,
     "hyoukou": -114,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 963,
@@ -1017,7 +1118,8 @@
     "lat": 37.1295,
     "lon": 139.97383,
     "hyoukou": 1515,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 966,
@@ -1027,7 +1129,8 @@
     "lat": 35.06317,
     "lon": 138.95967,
     "hyoukou": -91,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 967,
@@ -1037,7 +1140,8 @@
     "lat": 34.79033,
     "lon": 138.80083,
     "hyoukou": -422,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 968,
@@ -1047,7 +1151,8 @@
     "lat": 34.75767,
     "lon": 139.43533,
     "hyoukou": 140,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 969,
@@ -1057,7 +1162,8 @@
     "lat": 35.25233,
     "lon": 139.10417,
     "hyoukou": 192,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 971,
@@ -1067,7 +1173,8 @@
     "lat": 36.49467,
     "lon": 137.72383,
     "hyoukou": 1070,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 973,
@@ -1077,7 +1184,8 @@
     "lat": 34.754,
     "lon": 139.40317,
     "hyoukou": 490,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 974,
@@ -1087,7 +1195,8 @@
     "lat": 34.69117,
     "lon": 139.4395,
     "hyoukou": 57,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 977,
@@ -1097,7 +1206,8 @@
     "lat": 35.49567,
     "lon": 138.6085,
     "hyoukou": 950,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 979,
@@ -1107,7 +1217,8 @@
     "lat": 35.419,
     "lon": 138.48033,
     "hyoukou": 202,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 980,
@@ -1117,7 +1228,8 @@
     "lat": 35.2655,
     "lon": 138.80683,
     "hyoukou": 900,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 989,
@@ -1127,7 +1239,8 @@
     "lat": 35.51517,
     "lon": 138.88383,
     "hyoukou": 151,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 1004,
@@ -1137,7 +1250,8 @@
     "lat": 43.46883,
     "lon": 143.12483,
     "hyoukou": 695,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1005,
@@ -1147,7 +1261,8 @@
     "lat": 43.635,
     "lon": 144.38667,
     "hyoukou": 180,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1006,
@@ -1157,7 +1272,8 @@
     "lat": 44.10667,
     "lon": 145.24367,
     "hyoukou": 70,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1015,
@@ -1167,7 +1283,8 @@
     "lat": 41.88667,
     "lon": 141.0075,
     "hyoukou": 40,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1037,
@@ -1177,7 +1294,8 @@
     "lat": 43.48567,
     "lon": 144.39883,
     "hyoukou": 220,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1056,
@@ -1187,7 +1305,8 @@
     "lat": 43.49517,
     "lon": 144.50683,
     "hyoukou": 168,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1057,
@@ -1197,7 +1316,8 @@
     "lat": 43.54067,
     "lon": 144.3385,
     "hyoukou": 198,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1060,
@@ -1207,7 +1327,8 @@
     "lat": 43.67233,
     "lon": 144.62933,
     "hyoukou": 368,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1062,
@@ -1217,7 +1338,8 @@
     "lat": 43.554,
     "lon": 144.5105,
     "hyoukou": 434,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 1105,
@@ -1227,7 +1349,8 @@
     "lat": 38.75583,
     "lon": 140.7565,
     "hyoukou": 260,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 1124,
@@ -1237,7 +1360,8 @@
     "lat": 37.2205,
     "lon": 139.9215,
     "hyoukou": 885,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 3
   },
   {
     "kansokutenno": 1155,
@@ -1247,7 +1371,8 @@
     "lat": 40.4425,
     "lon": 140.95083,
     "hyoukou": 340,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 2
   },
   {
     "kansokutenno": 1156,
@@ -1257,7 +1382,8 @@
     "lat": 40.62967,
     "lon": 140.799,
     "hyoukou": 805,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 2
   },
   {
     "kansokutenno": 1174,
@@ -1267,7 +1393,8 @@
     "lat": 37.40367,
     "lon": 139.55567,
     "hyoukou": 405,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 1232,
@@ -1277,7 +1404,8 @@
     "lat": 36.13967,
     "lon": 136.82283,
     "hyoukou": 1238,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 3
   },
   {
     "kansokutenno": 1233,
@@ -1287,7 +1415,8 @@
     "lat": 35.22017,
     "lon": 139.033,
     "hyoukou": 1051,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1234,
@@ -1297,7 +1426,8 @@
     "lat": 35.24633,
     "lon": 139.01867,
     "hyoukou": 985,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1235,
@@ -1307,7 +1437,8 @@
     "lat": 35.27867,
     "lon": 139.01067,
     "hyoukou": 717,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1236,
@@ -1317,7 +1448,8 @@
     "lat": 35.1985,
     "lon": 139.0315,
     "hyoukou": 768,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1237,
@@ -1327,7 +1459,8 @@
     "lat": 35.24083,
     "lon": 138.9985,
     "hyoukou": 786,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1238,
@@ -1337,7 +1470,8 @@
     "lat": 35.25883,
     "lon": 139.0315,
     "hyoukou": 551,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1239,
@@ -1347,7 +1481,8 @@
     "lat": 35.24817,
     "lon": 139.09017,
     "hyoukou": 559,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1240,
@@ -1357,7 +1492,8 @@
     "lat": 35.222,
     "lon": 138.942,
     "hyoukou": 360,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1241,
@@ -1367,7 +1503,8 @@
     "lat": 35.2505,
     "lon": 139.02667,
     "hyoukou": 794,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1242,
@@ -1377,7 +1514,8 @@
     "lat": 35.24383,
     "lon": 139.03683,
     "hyoukou": 760,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1243,
@@ -1387,7 +1525,8 @@
     "lat": 35.24283,
     "lon": 139.02,
     "hyoukou": 1045,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1244,
@@ -1397,7 +1536,8 @@
     "lat": 35.1665,
     "lon": 139.08983,
     "hyoukou": 187,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1245,
@@ -1407,7 +1547,8 @@
     "lat": 35.23833,
     "lon": 139.1205,
     "hyoukou": 57,
-    "shozokuno": 90
+    "shozokuno": 90,
+    "centerno": 3
   },
   {
     "kansokutenno": 1253,
@@ -1417,7 +1558,8 @@
     "lat": 35.82517,
     "lon": 137.39233,
     "hyoukou": 1310,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 1254,
@@ -1427,7 +1569,8 @@
     "lat": 35.92383,
     "lon": 137.451,
     "hyoukou": 1797,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 1257,
@@ -1437,7 +1580,8 @@
     "lat": 35.93,
     "lon": 137.48117,
     "hyoukou": 2174,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 1259,
@@ -1447,7 +1591,8 @@
     "lat": 35.82233,
     "lon": 137.4135,
     "hyoukou": 1233,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 1260,
@@ -1457,7 +1602,8 @@
     "lat": 35.84,
     "lon": 137.5295,
     "hyoukou": 1232,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 1261,
@@ -1467,7 +1613,8 @@
     "lat": 35.89567,
     "lon": 137.5205,
     "hyoukou": 1810,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 1262,
@@ -1477,7 +1624,8 @@
     "lat": 35.88583,
     "lon": 137.32283,
     "hyoukou": 747,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 1315,
@@ -1487,7 +1635,8 @@
     "lat": 36.05183,
     "lon": 136.52517,
     "hyoukou": 300,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 3
   },
   {
     "kansokutenno": 1367,
@@ -1497,7 +1646,8 @@
     "lat": 36.58883,
     "lon": 137.48917,
     "hyoukou": 785,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 3
   },
   {
     "kansokutenno": 1412,
@@ -1507,7 +1657,8 @@
     "lat": 32.03117,
     "lon": 130.73417,
     "hyoukou": 240,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 5
   },
   {
     "kansokutenno": 1416,
@@ -1517,7 +1668,8 @@
     "lat": 32.52867,
     "lon": 130.03267,
     "hyoukou": -12,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 1421,
@@ -1527,7 +1679,8 @@
     "lat": 33.47017,
     "lon": 131.30633,
     "hyoukou": 215,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 1427,
@@ -1537,7 +1690,8 @@
     "lat": 30.37767,
     "lon": 130.41083,
     "hyoukou": 305,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 5
   },
   {
     "kansokutenno": 1430,
@@ -1547,7 +1701,8 @@
     "lat": 30.838,
     "lon": 129.92067,
     "hyoukou": 140,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 5
   },
   {
     "kansokutenno": 1431,
@@ -1557,7 +1712,8 @@
     "lat": 31.51583,
     "lon": 130.783,
     "hyoukou": 535,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 5
   },
   {
     "kansokutenno": 1526,
@@ -1567,7 +1723,8 @@
     "lat": 43.38217,
     "lon": 143.89833,
     "hyoukou": 328,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1540,
@@ -1577,7 +1734,8 @@
     "lat": 44.06433,
     "lon": 144.99333,
     "hyoukou": 65,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1553,
@@ -1587,7 +1745,8 @@
     "lat": 43.25567,
     "lon": 144.23383,
     "hyoukou": 114,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1554,
@@ -1597,7 +1756,8 @@
     "lat": 43.43617,
     "lon": 144.08433,
     "hyoukou": 431,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1571,
@@ -1607,7 +1767,8 @@
     "lat": 42.56283,
     "lon": 141.34967,
     "hyoukou": 20,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1572,
@@ -1617,7 +1778,8 @@
     "lat": 42.888,
     "lon": 141.63983,
     "hyoukou": 10,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1577,
@@ -1627,7 +1789,8 @@
     "lat": 43.50383,
     "lon": 142.60067,
     "hyoukou": 450,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1579,
@@ -1637,7 +1800,8 @@
     "lat": 43.38417,
     "lon": 142.5245,
     "hyoukou": 389,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1591,
@@ -1647,7 +1811,8 @@
     "lat": 43.33367,
     "lon": 142.94483,
     "hyoukou": 365,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1592,
@@ -1657,7 +1822,8 @@
     "lat": 43.85467,
     "lon": 142.76567,
     "hyoukou": 340,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1597,
@@ -1667,7 +1833,8 @@
     "lat": 42.41167,
     "lon": 141.00167,
     "hyoukou": 400,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1601,
@@ -1677,7 +1844,8 @@
     "lat": 42.763,
     "lon": 140.80833,
     "hyoukou": 228,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1604,
@@ -1687,7 +1855,8 @@
     "lat": 42.6415,
     "lon": 140.665,
     "hyoukou": 214,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1605,
@@ -1697,7 +1866,8 @@
     "lat": 42.6475,
     "lon": 141.06433,
     "hyoukou": 350,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1607,
@@ -1707,7 +1877,8 @@
     "lat": 41.83733,
     "lon": 140.63317,
     "hyoukou": 10,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 1611,
@@ -1717,7 +1888,8 @@
     "lat": 41.98583,
     "lon": 140.30833,
     "hyoukou": 85,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 2004,
@@ -1727,7 +1899,8 @@
     "lat": 38.969,
     "lon": 141.00133,
     "hyoukou": 125,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2005,
@@ -1737,7 +1910,8 @@
     "lat": 39.009,
     "lon": 140.86317,
     "hyoukou": 386,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2031,
@@ -1747,7 +1921,8 @@
     "lat": 38.85867,
     "lon": 140.65133,
     "hyoukou": 345,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2033,
@@ -1757,7 +1932,8 @@
     "lat": 38.57933,
     "lon": 140.78033,
     "hyoukou": 59,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2035,
@@ -1767,7 +1943,8 @@
     "lat": 38.00917,
     "lon": 140.60267,
     "hyoukou": 130,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2036,
@@ -1777,7 +1954,8 @@
     "lat": 38.18017,
     "lon": 140.6405,
     "hyoukou": 186,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2037,
@@ -1787,7 +1965,8 @@
     "lat": 38.269,
     "lon": 140.25767,
     "hyoukou": 130,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2041,
@@ -1797,7 +1976,8 @@
     "lat": 38.97017,
     "lon": 140.03333,
     "hyoukou": 115,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2046,
@@ -1807,7 +1987,8 @@
     "lat": 38.71317,
     "lon": 140.55467,
     "hyoukou": 255,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2047,
@@ -1817,7 +1998,8 @@
     "lat": 38.08133,
     "lon": 140.29783,
     "hyoukou": 315,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2050,
@@ -1827,7 +2009,8 @@
     "lat": 38.1035,
     "lon": 140.15533,
     "hyoukou": 278,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2054,
@@ -1837,7 +2020,8 @@
     "lat": 39.22233,
     "lon": 140.12833,
     "hyoukou": 145,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2055,
@@ -1847,7 +2031,8 @@
     "lat": 39.07183,
     "lon": 140.3185,
     "hyoukou": 275,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2060,
@@ -1857,7 +2042,8 @@
     "lat": 39.81467,
     "lon": 140.579,
     "hyoukou": 318,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2063,
@@ -1867,7 +2053,8 @@
     "lat": 39.174,
     "lon": 140.71283,
     "hyoukou": 280,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2066,
@@ -1877,7 +2064,8 @@
     "lat": 40.30017,
     "lon": 140.58117,
     "hyoukou": 85,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2068,
@@ -1887,7 +2075,8 @@
     "lat": 39.98183,
     "lon": 140.40717,
     "hyoukou": 145,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2069,
@@ -1897,7 +2086,8 @@
     "lat": 40.45633,
     "lon": 140.8395,
     "hyoukou": 405,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2070,
@@ -1907,7 +2097,8 @@
     "lat": 40.06217,
     "lon": 140.80833,
     "hyoukou": 320,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2071,
@@ -1917,7 +2108,8 @@
     "lat": 40.85233,
     "lon": 140.67583,
     "hyoukou": 10,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2073,
@@ -1927,7 +2119,8 @@
     "lat": 40.58467,
     "lon": 141.15467,
     "hyoukou": 85,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2074,
@@ -1937,7 +2130,8 @@
     "lat": 40.85633,
     "lon": 141.10333,
     "hyoukou": 45,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2077,
@@ -1947,7 +2141,8 @@
     "lat": 41.234,
     "lon": 140.98967,
     "hyoukou": 20,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2079,
@@ -1957,7 +2152,8 @@
     "lat": 40.29617,
     "lon": 141.0145,
     "hyoukou": 235,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2081,
@@ -1967,7 +2163,8 @@
     "lat": 40.58,
     "lon": 140.995,
     "hyoukou": 240,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2082,
@@ -1977,7 +2174,8 @@
     "lat": 40.46233,
     "lon": 141.09233,
     "hyoukou": 315,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2083,
@@ -1987,7 +2185,8 @@
     "lat": 40.76183,
     "lon": 140.31217,
     "hyoukou": 50,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2084,
@@ -1997,7 +2196,8 @@
     "lat": 40.74517,
     "lon": 140.02333,
     "hyoukou": 35,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2085,
@@ -2007,7 +2207,8 @@
     "lat": 40.60917,
     "lon": 140.66467,
     "hyoukou": 102,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2086,
@@ -2017,7 +2218,8 @@
     "lat": 40.62,
     "lon": 140.34967,
     "hyoukou": 160,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2087,
@@ -2027,7 +2229,8 @@
     "lat": 40.48417,
     "lon": 140.5565,
     "hyoukou": 130,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2088,
@@ -2037,7 +2240,8 @@
     "lat": 40.54883,
     "lon": 140.27267,
     "hyoukou": 158,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2092,
@@ -2047,7 +2251,8 @@
     "lat": 37.76417,
     "lon": 140.37667,
     "hyoukou": 135,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2095,
@@ -2057,7 +2262,8 @@
     "lat": 37.1615,
     "lon": 140.093,
     "hyoukou": 565,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2097,
@@ -2067,7 +2273,8 @@
     "lat": 37.28233,
     "lon": 140.2145,
     "hyoukou": 343,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2104,
@@ -2077,7 +2284,8 @@
     "lat": 37.25433,
     "lon": 139.8725,
     "hyoukou": 496,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2108,
@@ -2087,7 +2295,8 @@
     "lat": 37.64617,
     "lon": 140.1735,
     "hyoukou": 757,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2115,
@@ -2097,7 +2306,8 @@
     "lat": 39.0095,
     "lon": 140.864,
     "hyoukou": 380,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 2504,
@@ -2107,7 +2317,8 @@
     "lat": 35.9415,
     "lon": 136.699,
     "hyoukou": 510,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2506,
@@ -2117,7 +2328,8 @@
     "lat": 36.26667,
     "lon": 136.71667,
     "hyoukou": 560,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2515,
@@ -2127,7 +2339,8 @@
     "lat": 36.25417,
     "lon": 137.85917,
     "hyoukou": 668,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2529,
@@ -2137,7 +2350,8 @@
     "lat": 36.74317,
     "lon": 138.37583,
     "hyoukou": 380,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2541,
@@ -2147,7 +2361,8 @@
     "lat": 36.23567,
     "lon": 138.729,
     "hyoukou": 340,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2543,
@@ -2157,7 +2372,8 @@
     "lat": 36.62133,
     "lon": 138.90683,
     "hyoukou": 455,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2544,
@@ -2167,7 +2383,8 @@
     "lat": 36.49167,
     "lon": 138.52433,
     "hyoukou": 1040,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2545,
@@ -2177,7 +2394,8 @@
     "lat": 36.69983,
     "lon": 139.21033,
     "hyoukou": 646,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2557,
@@ -2187,7 +2405,8 @@
     "lat": 36.88167,
     "lon": 139.45333,
     "hyoukou": 1085,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2568,
@@ -2197,7 +2416,8 @@
     "lat": 36.93767,
     "lon": 137.848,
     "hyoukou": 149,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2570,
@@ -2207,7 +2427,8 @@
     "lat": 36.9425,
     "lon": 138.25933,
     "hyoukou": 240,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2571,
@@ -2217,7 +2438,8 @@
     "lat": 36.81133,
     "lon": 138.78483,
     "hyoukou": 985,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2577,
@@ -2227,7 +2449,8 @@
     "lat": 36.37783,
     "lon": 137.37167,
     "hyoukou": 910,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2580,
@@ -2237,7 +2460,8 @@
     "lat": 36.857,
     "lon": 138.09667,
     "hyoukou": 1305,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2602,
@@ -2247,7 +2471,8 @@
     "lat": 36.06533,
     "lon": 136.94783,
     "hyoukou": 839,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2650,
@@ -2257,7 +2482,8 @@
     "lat": 34.94667,
     "lon": 139.0855,
     "hyoukou": 140,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2658,
@@ -2267,7 +2493,8 @@
     "lat": 35.93233,
     "lon": 137.595,
     "hyoukou": 1150,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2666,
@@ -2277,7 +2504,8 @@
     "lat": 36.27433,
     "lon": 136.898,
     "hyoukou": 480,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2667,
@@ -2287,7 +2515,8 @@
     "lat": 36.24933,
     "lon": 137.51733,
     "hyoukou": 810,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2670,
@@ -2297,7 +2526,8 @@
     "lat": 35.95133,
     "lon": 136.87317,
     "hyoukou": 610,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2695,
@@ -2307,7 +2537,8 @@
     "lat": 36.91017,
     "lon": 138.44083,
     "hyoukou": 570,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2696,
@@ -2317,7 +2548,8 @@
     "lat": 36.064,
     "lon": 137.68483,
     "hyoukou": 1095,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2714,
@@ -2327,7 +2559,8 @@
     "lat": 36.33083,
     "lon": 138.49667,
     "hyoukou": 845,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2718,
@@ -2337,7 +2570,8 @@
     "lat": 35.2655,
     "lon": 138.80683,
     "hyoukou": 900,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2723,
@@ -2347,7 +2581,8 @@
     "lat": 36.63433,
     "lon": 139.46133,
     "hyoukou": 750,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2732,
@@ -2357,7 +2592,8 @@
     "lat": 35.14583,
     "lon": 139.15,
     "hyoukou": 50,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2734,
@@ -2367,7 +2603,8 @@
     "lat": 33.07717,
     "lon": 139.83967,
     "hyoukou": 40,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2736,
@@ -2377,7 +2614,8 @@
     "lat": 34.10917,
     "lon": 139.506,
     "hyoukou": 170,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2740,
@@ -2387,7 +2625,8 @@
     "lat": 36.49467,
     "lon": 137.72383,
     "hyoukou": 1070,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2751,
@@ -2397,7 +2636,8 @@
     "lat": 34.95217,
     "lon": 139.13783,
     "hyoukou": 10,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2752,
@@ -2407,7 +2647,8 @@
     "lat": 34.91617,
     "lon": 138.99367,
     "hyoukou": 255,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2756,
@@ -2417,7 +2658,8 @@
     "lat": 35.06317,
     "lon": 138.95967,
     "hyoukou": 15,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2775,
@@ -2427,7 +2669,8 @@
     "lat": 36.46317,
     "lon": 138.85317,
     "hyoukou": 980,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2812,
@@ -2437,7 +2680,8 @@
     "lat": 36.644,
     "lon": 137.85933,
     "hyoukou": 750,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2817,
@@ -2447,7 +2691,8 @@
     "lat": 36.80883,
     "lon": 137.90383,
     "hyoukou": 590,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2818,
@@ -2457,7 +2702,8 @@
     "lat": 36.6705,
     "lon": 137.424,
     "hyoukou": 290,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2821,
@@ -2467,7 +2713,8 @@
     "lat": 35.04167,
     "lon": 139.1685,
     "hyoukou": 20,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 2950,
@@ -2477,7 +2724,8 @@
     "lat": 32.45083,
     "lon": 139.774,
     "hyoukou": 84,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 3072,
@@ -2487,7 +2735,8 @@
     "lat": 35.16333,
     "lon": 132.85583,
     "hyoukou": 380,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 3073,
@@ -2497,7 +2746,8 @@
     "lat": 35.22433,
     "lon": 132.72233,
     "hyoukou": 110,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 3074,
@@ -2507,7 +2757,8 @@
     "lat": 35.09183,
     "lon": 132.53083,
     "hyoukou": 240,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 3521,
@@ -2517,7 +2768,8 @@
     "lat": 31.86433,
     "lon": 130.94533,
     "hyoukou": 422,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3524,
@@ -2527,7 +2779,8 @@
     "lat": 32.04217,
     "lon": 131.06183,
     "hyoukou": 234,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3527,
@@ -2537,7 +2790,8 @@
     "lat": 32.95133,
     "lon": 131.01983,
     "hyoukou": 347,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3529,
@@ -2547,7 +2801,8 @@
     "lat": 33.122,
     "lon": 131.06283,
     "hyoukou": 306,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3530,
@@ -2557,7 +2812,8 @@
     "lat": 32.95533,
     "lon": 131.22067,
     "hyoukou": 592,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3531,
@@ -2567,7 +2823,8 @@
     "lat": 32.81133,
     "lon": 131.101,
     "hyoukou": 380,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3536,
@@ -2577,7 +2834,8 @@
     "lat": 32.20517,
     "lon": 130.737,
     "hyoukou": -19,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3550,
@@ -2587,7 +2845,8 @@
     "lat": 31.08983,
     "lon": 130.699,
     "hyoukou": -114,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3551,
@@ -2597,7 +2856,8 @@
     "lat": 31.20667,
     "lon": 130.61833,
     "hyoukou": -123,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3555,
@@ -2607,7 +2867,8 @@
     "lat": 31.714,
     "lon": 130.61483,
     "hyoukou": -297,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3556,
@@ -2617,7 +2878,8 @@
     "lat": 33.41217,
     "lon": 131.03267,
     "hyoukou": 51,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3558,
@@ -2627,7 +2889,8 @@
     "lat": 33.45817,
     "lon": 131.44283,
     "hyoukou": 67,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3559,
@@ -2637,7 +2900,8 @@
     "lat": 33.13067,
     "lon": 131.34733,
     "hyoukou": 273,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3560,
@@ -2647,7 +2911,8 @@
     "lat": 32.97267,
     "lon": 131.39833,
     "hyoukou": 159,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3561,
@@ -2657,7 +2922,8 @@
     "lat": 33.1525,
     "lon": 131.542,
     "hyoukou": 62,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3590,
@@ -2667,7 +2933,8 @@
     "lat": 33.28433,
     "lon": 131.21183,
     "hyoukou": 298,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 3595,
@@ -2677,7 +2944,8 @@
     "lat": 33.00317,
     "lon": 131.00717,
     "hyoukou": 852,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 4500,
@@ -2687,7 +2955,8 @@
     "lat": 34.07367,
     "lon": 139.5585,
     "hyoukou": 29,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4501,
@@ -2697,7 +2966,8 @@
     "lat": 34.07083,
     "lon": 139.51183,
     "hyoukou": 463,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4502,
@@ -2707,7 +2977,8 @@
     "lat": 34.12417,
     "lon": 139.522,
     "hyoukou": 48,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4503,
@@ -2717,7 +2988,8 @@
     "lat": 34.07567,
     "lon": 139.48,
     "hyoukou": 34,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4505,
@@ -2727,7 +2999,8 @@
     "lat": 34.21933,
     "lon": 139.13383,
     "hyoukou": 34,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4506,
@@ -2737,7 +3010,8 @@
     "lat": 33.103,
     "lon": 131.229,
     "hyoukou": 1280,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4511,
@@ -2747,7 +3021,8 @@
     "lat": 32.79333,
     "lon": 130.2725,
     "hyoukou": 655,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4512,
@@ -2757,7 +3032,8 @@
     "lat": 32.80867,
     "lon": 130.13117,
     "hyoukou": 52,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4513,
@@ -2767,7 +3043,8 @@
     "lat": 37.584,
     "lon": 140.07983,
     "hyoukou": 1000,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4514,
@@ -2777,7 +3054,8 @@
     "lat": 37.61033,
     "lon": 140.11833,
     "hyoukou": 620,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4515,
@@ -2787,7 +3065,8 @@
     "lat": 37.64317,
     "lon": 140.0515,
     "hyoukou": 870,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4516,
@@ -2797,7 +3076,8 @@
     "lat": 34.11067,
     "lon": 139.53833,
     "hyoukou": 210,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4517,
@@ -2807,7 +3087,8 @@
     "lat": 35.36067,
     "lon": 138.72733,
     "hyoukou": 3772,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4518,
@@ -2817,7 +3098,8 @@
     "lat": 37.10633,
     "lon": 139.99067,
     "hyoukou": 1083,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4519,
@@ -2827,7 +3109,8 @@
     "lat": 34.09833,
     "lon": 139.496,
     "hyoukou": 135,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4520,
@@ -2837,7 +3120,8 @@
     "lat": 43.4755,
     "lon": 142.64983,
     "hyoukou": 651,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4521,
@@ -2847,7 +3131,8 @@
     "lat": 43.46083,
     "lon": 142.65267,
     "hyoukou": 763,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4522,
@@ -2857,7 +3142,8 @@
     "lat": 43.43267,
     "lon": 142.66917,
     "hyoukou": 1355,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4524,
@@ -2867,7 +3153,8 @@
     "lat": 43.43533,
     "lon": 142.65667,
     "hyoukou": 1125,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4527,
@@ -2877,7 +3164,8 @@
     "lat": 43.3955,
     "lon": 143.98667,
     "hyoukou": 740,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4528,
@@ -2887,7 +3175,8 @@
     "lat": 43.37967,
     "lon": 143.9775,
     "hyoukou": 685,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4529,
@@ -2897,7 +3186,8 @@
     "lat": 43.38033,
     "lon": 143.9725,
     "hyoukou": 643,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4530,
@@ -2907,7 +3197,8 @@
     "lat": 43.3905,
     "lon": 144.00417,
     "hyoukou": 1277,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4533,
@@ -2917,7 +3208,8 @@
     "lat": 42.696,
     "lon": 141.39183,
     "hyoukou": 750,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4534,
@@ -2927,7 +3219,8 @@
     "lat": 42.70383,
     "lon": 141.37733,
     "hyoukou": 638,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4535,
@@ -2937,7 +3230,8 @@
     "lat": 42.7,
     "lon": 141.36817,
     "hyoukou": 875,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4536,
@@ -2947,7 +3241,8 @@
     "lat": 42.6955,
     "lon": 141.374,
     "hyoukou": 905,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4537,
@@ -2957,7 +3252,8 @@
     "lat": 42.6905,
     "lon": 141.3805,
     "hyoukou": 930,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4538,
@@ -2967,7 +3263,8 @@
     "lat": 42.68833,
     "lon": 141.3715,
     "hyoukou": 885,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4539,
@@ -2977,7 +3274,8 @@
     "lat": 42.52833,
     "lon": 140.83617,
     "hyoukou": 246,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4540,
@@ -2987,7 +3285,8 @@
     "lat": 42.533,
     "lon": 140.8075,
     "hyoukou": 152,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4541,
@@ -2997,7 +3296,8 @@
     "lat": 42.56583,
     "lon": 140.80883,
     "hyoukou": 90,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4542,
@@ -3007,7 +3307,8 @@
     "lat": 42.56283,
     "lon": 140.80433,
     "hyoukou": 180,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4543,
@@ -3017,7 +3318,8 @@
     "lat": 42.56267,
     "lon": 140.8885,
     "hyoukou": 160,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4544,
@@ -3027,7 +3329,8 @@
     "lat": 42.55517,
     "lon": 140.85383,
     "hyoukou": 118,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4545,
@@ -3037,7 +3340,8 @@
     "lat": 42.05317,
     "lon": 140.63817,
     "hyoukou": 265,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4546,
@@ -3047,7 +3351,8 @@
     "lat": 42.10317,
     "lon": 140.666,
     "hyoukou": 130,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4547,
@@ -3057,7 +3362,8 @@
     "lat": 42.07083,
     "lon": 140.6825,
     "hyoukou": 980,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4548,
@@ -3067,7 +3373,8 @@
     "lat": 42.06233,
     "lon": 140.68333,
     "hyoukou": 920,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4549,
@@ -3077,7 +3384,8 @@
     "lat": 42.031,
     "lon": 140.813,
     "hyoukou": 45,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4550,
@@ -3087,7 +3395,8 @@
     "lat": 42.0925,
     "lon": 140.72117,
     "hyoukou": 270,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4551,
@@ -3097,7 +3406,8 @@
     "lat": 42.04283,
     "lon": 140.68133,
     "hyoukou": 490,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4552,
@@ -3107,7 +3417,8 @@
     "lat": 39.832,
     "lon": 141.04067,
     "hyoukou": 600,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4553,
@@ -3117,7 +3428,8 @@
     "lat": 39.89517,
     "lon": 140.98783,
     "hyoukou": 570,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4554,
@@ -3127,7 +3439,8 @@
     "lat": 39.84433,
     "lon": 141.006,
     "hyoukou": 1768,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4555,
@@ -3137,7 +3450,8 @@
     "lat": 39.80867,
     "lon": 140.99417,
     "hyoukou": 610,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4556,
@@ -3147,7 +3461,8 @@
     "lat": 39.81433,
     "lon": 140.93483,
     "hyoukou": 640,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4557,
@@ -3157,7 +3472,8 @@
     "lat": 39.69883,
     "lon": 141.16567,
     "hyoukou": 155,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4558,
@@ -3167,7 +3483,8 @@
     "lat": 39.87883,
     "lon": 141.05,
     "hyoukou": 550,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 4559,
@@ -3177,7 +3494,8 @@
     "lat": 39.79933,
     "lon": 141.02333,
     "hyoukou": 470,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 4560,
@@ -3187,7 +3505,8 @@
     "lat": 39.85117,
     "lon": 140.9645,
     "hyoukou": 1510,
-    "shozokuno": 103
+    "shozokuno": 103,
+    "centerno": 2
   },
   {
     "kansokutenno": 4561,
@@ -3197,7 +3516,8 @@
     "lat": 39.85067,
     "lon": 140.96033,
     "hyoukou": 1460,
-    "shozokuno": 103
+    "shozokuno": 103,
+    "centerno": 2
   },
   {
     "kansokutenno": 4562,
@@ -3207,7 +3527,8 @@
     "lat": 37.72233,
     "lon": 140.2755,
     "hyoukou": 1295,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4563,
@@ -3217,7 +3538,8 @@
     "lat": 37.748,
     "lon": 140.2845,
     "hyoukou": 1220,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4564,
@@ -3227,7 +3549,8 @@
     "lat": 37.73133,
     "lon": 140.246,
     "hyoukou": 1875,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4565,
@@ -3237,7 +3560,8 @@
     "lat": 37.69967,
     "lon": 140.257,
     "hyoukou": 1795,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4566,
@@ -3247,7 +3571,8 @@
     "lat": 37.64633,
     "lon": 140.33217,
     "hyoukou": 890,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4567,
@@ -3257,7 +3582,8 @@
     "lat": 37.63417,
     "lon": 140.3035,
     "hyoukou": 1320,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4568,
@@ -3267,7 +3593,8 @@
     "lat": 37.6585,
     "lon": 140.07883,
     "hyoukou": 810,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4569,
@@ -3277,7 +3604,8 @@
     "lat": 37.57967,
     "lon": 140.03017,
     "hyoukou": 690,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4570,
@@ -3287,7 +3615,8 @@
     "lat": 37.613,
     "lon": 140.036,
     "hyoukou": 1260,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4571,
@@ -3297,7 +3626,8 @@
     "lat": 36.37583,
     "lon": 138.536,
     "hyoukou": 1388,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4572,
@@ -3307,7 +3637,8 @@
     "lat": 36.3895,
     "lon": 138.51883,
     "hyoukou": 1864,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4573,
@@ -3317,7 +3648,8 @@
     "lat": 36.38383,
     "lon": 138.54183,
     "hyoukou": 1579,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4574,
@@ -3327,7 +3659,8 @@
     "lat": 36.43533,
     "lon": 138.514,
     "hyoukou": 1440,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4575,
@@ -3337,7 +3670,8 @@
     "lat": 36.41833,
     "lon": 138.5365,
     "hyoukou": 1695,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4576,
@@ -3347,7 +3681,8 @@
     "lat": 36.40417,
     "lon": 138.505,
     "hyoukou": 2180,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4577,
@@ -3357,7 +3692,8 @@
     "lat": 36.34217,
     "lon": 138.54717,
     "hyoukou": 1001,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4578,
@@ -3367,7 +3703,8 @@
     "lat": 34.09883,
     "lon": 139.5325,
     "hyoukou": 525,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4579,
@@ -3377,7 +3714,8 @@
     "lat": 34.736,
     "lon": 139.38683,
     "hyoukou": 553,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4580,
@@ -3387,7 +3725,8 @@
     "lat": 34.772,
     "lon": 139.414,
     "hyoukou": 240,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4581,
@@ -3397,7 +3736,8 @@
     "lat": 34.758,
     "lon": 139.37133,
     "hyoukou": 165,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4582,
@@ -3407,7 +3747,8 @@
     "lat": 34.70217,
     "lon": 139.37,
     "hyoukou": 31,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4583,
@@ -3417,7 +3758,8 @@
     "lat": 34.68633,
     "lon": 139.42383,
     "hyoukou": 46,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4584,
@@ -3427,7 +3769,8 @@
     "lat": 35.36067,
     "lon": 138.72733,
     "hyoukou": 3772,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4585,
@@ -3437,7 +3780,8 @@
     "lat": 35.87683,
     "lon": 137.4955,
     "hyoukou": 2228,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4586,
@@ -3447,7 +3791,8 @@
     "lat": 36.648,
     "lon": 138.5455,
     "hyoukou": 1933,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4588,
@@ -3457,7 +3802,8 @@
     "lat": 32.88033,
     "lon": 131.0735,
     "hyoukou": 1143,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4589,
@@ -3467,7 +3813,8 @@
     "lat": 32.88583,
     "lon": 131.07617,
     "hyoukou": 1152,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4590,
@@ -3477,7 +3824,8 @@
     "lat": 32.87983,
     "lon": 131.05867,
     "hyoukou": 1149,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4591,
@@ -3487,7 +3835,8 @@
     "lat": 32.89583,
     "lon": 131.07183,
     "hyoukou": 1040,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4592,
@@ -3497,7 +3846,8 @@
     "lat": 32.875,
     "lon": 131.08917,
     "hyoukou": 1250,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4593,
@@ -3507,7 +3857,8 @@
     "lat": 32.8975,
     "lon": 131.10117,
     "hyoukou": 956,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4594,
@@ -3517,7 +3868,8 @@
     "lat": 32.88083,
     "lon": 131.08383,
     "hyoukou": 1260,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4595,
@@ -3527,7 +3879,8 @@
     "lat": 32.88033,
     "lon": 131.07817,
     "hyoukou": 1160,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4596,
@@ -3537,7 +3890,8 @@
     "lat": 32.8845,
     "lon": 131.0895,
     "hyoukou": 1270,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4597,
@@ -3547,7 +3901,8 @@
     "lat": 32.89,
     "lon": 131.086,
     "hyoukou": 1222,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4598,
@@ -3557,7 +3912,8 @@
     "lat": 32.88167,
     "lon": 131.1,
     "hyoukou": 1450,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4599,
@@ -3567,7 +3923,8 @@
     "lat": 33.0125,
     "lon": 131.19633,
     "hyoukou": 670,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4600,
@@ -3577,7 +3934,8 @@
     "lat": 33.0165,
     "lon": 130.89667,
     "hyoukou": 300,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4601,
@@ -3587,7 +3945,8 @@
     "lat": 32.79967,
     "lon": 131.09067,
     "hyoukou": 700,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4602,
@@ -3597,7 +3956,8 @@
     "lat": 32.73767,
     "lon": 130.2625,
     "hyoukou": 677,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4603,
@@ -3607,7 +3967,8 @@
     "lat": 32.73483,
     "lon": 130.266,
     "hyoukou": 763,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4604,
@@ -3617,7 +3978,8 @@
     "lat": 32.74167,
     "lon": 130.31417,
     "hyoukou": 400,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4605,
@@ -3627,7 +3989,8 @@
     "lat": 32.76,
     "lon": 130.25083,
     "hyoukou": 420,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4606,
@@ -3637,7 +4000,8 @@
     "lat": 32.755,
     "lon": 130.29083,
     "hyoukou": 1075,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4607,
@@ -3647,7 +4011,8 @@
     "lat": 32.79333,
     "lon": 130.3345,
     "hyoukou": 185,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4608,
@@ -3657,7 +4022,8 @@
     "lat": 32.705,
     "lon": 130.2595,
     "hyoukou": 400,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4609,
@@ -3667,7 +4033,8 @@
     "lat": 32.77867,
     "lon": 130.3505,
     "hyoukou": 180,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 4610,
@@ -3677,7 +4044,8 @@
     "lat": 32.681,
     "lon": 130.19967,
     "hyoukou": 241,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 4611,
@@ -3687,7 +4055,8 @@
     "lat": 32.78733,
     "lon": 130.30217,
     "hyoukou": 449,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 4613,
@@ -3697,7 +4066,8 @@
     "lat": 31.89817,
     "lon": 130.87,
     "hyoukou": 1036,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4614,
@@ -3707,7 +4077,8 @@
     "lat": 31.89067,
     "lon": 130.86767,
     "hyoukou": 855,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4615,
@@ -3717,7 +4088,8 @@
     "lat": 31.888,
     "lon": 130.8995,
     "hyoukou": 995,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 5
   },
   {
     "kansokutenno": 4619,
@@ -3727,7 +4099,8 @@
     "lat": 31.89133,
     "lon": 130.88667,
     "hyoukou": 1030,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 5
   },
   {
     "kansokutenno": 4620,
@@ -3737,7 +4110,8 @@
     "lat": 31.90967,
     "lon": 130.87,
     "hyoukou": 1115,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 5
   },
   {
     "kansokutenno": 4621,
@@ -3747,7 +4121,8 @@
     "lat": 31.55433,
     "lon": 130.5485,
     "hyoukou": 4,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4622,
@@ -3757,7 +4132,8 @@
     "lat": 31.592,
     "lon": 130.61283,
     "hyoukou": 46,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4623,
@@ -3767,7 +4143,8 @@
     "lat": 31.593,
     "lon": 130.63883,
     "hyoukou": 451,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4624,
@@ -3777,7 +4154,8 @@
     "lat": 31.55517,
     "lon": 130.64217,
     "hyoukou": 121,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4625,
@@ -3787,7 +4165,8 @@
     "lat": 31.57383,
     "lon": 130.69483,
     "hyoukou": 113,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4626,
@@ -3797,7 +4176,8 @@
     "lat": 31.5705,
     "lon": 130.7075,
     "hyoukou": 50,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4627,
@@ -3807,7 +4187,8 @@
     "lat": 31.612,
     "lon": 130.68417,
     "hyoukou": 135,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4628,
@@ -3817,7 +4198,8 @@
     "lat": 30.78383,
     "lon": 130.27917,
     "hyoukou": 20,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4629,
@@ -3827,7 +4209,8 @@
     "lat": 30.78783,
     "lon": 130.302,
     "hyoukou": 394,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4631,
@@ -3837,7 +4220,8 @@
     "lat": 30.46367,
     "lon": 130.19033,
     "hyoukou": 14,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4632,
@@ -3847,7 +4231,8 @@
     "lat": 30.44767,
     "lon": 130.21433,
     "hyoukou": 566,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4634,
@@ -3857,7 +4242,8 @@
     "lat": 29.613,
     "lon": 129.704,
     "hyoukou": 100,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4635,
@@ -3867,7 +4253,8 @@
     "lat": 29.6275,
     "lon": 129.70633,
     "hyoukou": 440,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4638,
@@ -3877,7 +4264,8 @@
     "lat": 31.928,
     "lon": 131.00583,
     "hyoukou": 210,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4639,
@@ -3887,7 +4275,8 @@
     "lat": 31.90633,
     "lon": 130.96033,
     "hyoukou": 341,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4640,
@@ -3897,7 +4286,8 @@
     "lat": 31.88617,
     "lon": 130.91967,
     "hyoukou": 1540,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4641,
@@ -3907,7 +4297,8 @@
     "lat": 31.89967,
     "lon": 130.89383,
     "hyoukou": 1310,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4644,
@@ -3917,7 +4308,8 @@
     "lat": 42.07233,
     "lon": 140.68283,
     "hyoukou": 1035,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4645,
@@ -3927,7 +4319,8 @@
     "lat": 35.354,
     "lon": 138.73967,
     "hyoukou": 3235,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4646,
@@ -3937,7 +4330,8 @@
     "lat": 42.05283,
     "lon": 140.70033,
     "hyoukou": 677,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4647,
@@ -3947,7 +4341,8 @@
     "lat": 42.073,
     "lon": 140.71933,
     "hyoukou": 458,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4650,
@@ -3957,7 +4352,8 @@
     "lat": 30.7925,
     "lon": 130.29417,
     "hyoukou": 130,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4651,
@@ -3967,7 +4363,8 @@
     "lat": 30.79283,
     "lon": 130.29283,
     "hyoukou": 112,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4652,
@@ -3977,7 +4374,8 @@
     "lat": 30.793,
     "lon": 130.29467,
     "hyoukou": 128,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4658,
@@ -3987,7 +4385,8 @@
     "lat": 33.09167,
     "lon": 131.22033,
     "hyoukou": 1610,
-    "shozokuno": 144
+    "shozokuno": 144,
+    "centerno": 5
   },
   {
     "kansokutenno": 4659,
@@ -3997,7 +4396,8 @@
     "lat": 33.095,
     "lon": 131.25717,
     "hyoukou": 1265,
-    "shozokuno": 144
+    "shozokuno": 144,
+    "centerno": 5
   },
   {
     "kansokutenno": 4660,
@@ -4007,7 +4407,8 @@
     "lat": 30.45117,
     "lon": 130.2175,
     "hyoukou": 590,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4661,
@@ -4017,7 +4418,8 @@
     "lat": 43.38183,
     "lon": 144.00167,
     "hyoukou": 1265,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4662,
@@ -4027,7 +4429,8 @@
     "lat": 43.3695,
     "lon": 144.016,
     "hyoukou": 1096,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4663,
@@ -4037,7 +4440,8 @@
     "lat": 43.39167,
     "lon": 144.028,
     "hyoukou": 1290,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4664,
@@ -4047,7 +4451,8 @@
     "lat": 39.77883,
     "lon": 140.763,
     "hyoukou": 670,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4665,
@@ -4057,7 +4462,8 @@
     "lat": 39.75683,
     "lon": 140.75367,
     "hyoukou": 525,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 4666,
@@ -4067,7 +4473,8 @@
     "lat": 39.72733,
     "lon": 140.89017,
     "hyoukou": 417,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 4667,
@@ -4077,7 +4484,8 @@
     "lat": 39.80033,
     "lon": 140.7905,
     "hyoukou": 795,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4668,
@@ -4087,7 +4495,8 @@
     "lat": 39.75933,
     "lon": 140.7805,
     "hyoukou": 1090,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4673,
@@ -4097,7 +4506,8 @@
     "lat": 43.43233,
     "lon": 142.68067,
     "hyoukou": 1685,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4674,
@@ -4107,7 +4517,8 @@
     "lat": 43.42167,
     "lon": 142.67767,
     "hyoukou": 1802,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4675,
@@ -4117,7 +4528,8 @@
     "lat": 43.41233,
     "lon": 142.647,
     "hyoukou": 1285,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4676,
@@ -4127,7 +4539,8 @@
     "lat": 43.43117,
     "lon": 142.6425,
     "hyoukou": 1017,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4677,
@@ -4137,7 +4550,8 @@
     "lat": 42.54833,
     "lon": 140.82667,
     "hyoukou": 537,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4678,
@@ -4147,7 +4561,8 @@
     "lat": 42.69517,
     "lon": 141.36217,
     "hyoukou": 632,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4679,
@@ -4157,7 +4572,8 @@
     "lat": 36.44217,
     "lon": 138.53667,
     "hyoukou": 1341,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4680,
@@ -4167,7 +4583,8 @@
     "lat": 30.44033,
     "lon": 130.2135,
     "hyoukou": 645,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4681,
@@ -4177,7 +4594,8 @@
     "lat": 30.445,
     "lon": 130.198,
     "hyoukou": 149,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4682,
@@ -4187,7 +4605,8 @@
     "lat": 35.44633,
     "lon": 138.69017,
     "hyoukou": 1245,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4683,
@@ -4197,7 +4616,8 @@
     "lat": 35.28333,
     "lon": 138.71817,
     "hyoukou": 1060,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4684,
@@ -4207,7 +4627,8 @@
     "lat": 35.38083,
     "lon": 138.85717,
     "hyoukou": 917,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4685,
@@ -4217,7 +4638,8 @@
     "lat": 35.35483,
     "lon": 138.6185,
     "hyoukou": 772,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4686,
@@ -4227,7 +4649,8 @@
     "lat": 35.38467,
     "lon": 138.69533,
     "hyoukou": 2090,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4687,
@@ -4237,7 +4660,8 @@
     "lat": 35.33017,
     "lon": 138.7275,
     "hyoukou": 2010,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4688,
@@ -4247,7 +4671,8 @@
     "lat": 34.07617,
     "lon": 139.49833,
     "hyoukou": 321,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4689,
@@ -4257,7 +4682,8 @@
     "lat": 34.10067,
     "lon": 139.55217,
     "hyoukou": 126,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4690,
@@ -4267,7 +4693,8 @@
     "lat": 34.07433,
     "lon": 139.54183,
     "hyoukou": 338,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4691,
@@ -4277,7 +4704,8 @@
     "lat": 34.10917,
     "lon": 139.5345,
     "hyoukou": 272,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4693,
@@ -4287,7 +4715,8 @@
     "lat": 34.0795,
     "lon": 139.52267,
     "hyoukou": 687,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4694,
@@ -4297,7 +4726,8 @@
     "lat": 34.07167,
     "lon": 139.48717,
     "hyoukou": 192,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4695,
@@ -4307,7 +4737,8 @@
     "lat": 34.09383,
     "lon": 139.5615,
     "hyoukou": 37,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4696,
@@ -4317,7 +4748,8 @@
     "lat": 34.06,
     "lon": 139.53633,
     "hyoukou": 61,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4697,
@@ -4327,7 +4759,8 @@
     "lat": 34.09167,
     "lon": 139.48733,
     "hyoukou": 112,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4700,
@@ -4337,7 +4770,8 @@
     "lat": 42.481,
     "lon": 141.1475,
     "hyoukou": 200,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4701,
@@ -4347,7 +4781,8 @@
     "lat": 42.50467,
     "lon": 141.14683,
     "hyoukou": 325,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4702,
@@ -4357,7 +4792,8 @@
     "lat": 42.51183,
     "lon": 141.1635,
     "hyoukou": 370,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4703,
@@ -4367,7 +4803,8 @@
     "lat": 42.502,
     "lon": 141.123,
     "hyoukou": 570,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4704,
@@ -4377,7 +4814,8 @@
     "lat": 33.1005,
     "lon": 131.24417,
     "hyoukou": 1655,
-    "shozokuno": 144
+    "shozokuno": 144,
+    "centerno": 5
   },
   {
     "kansokutenno": 4705,
@@ -4387,7 +4825,8 @@
     "lat": 33.08667,
     "lon": 131.23883,
     "hyoukou": 1640,
-    "shozokuno": 144
+    "shozokuno": 144,
+    "centerno": 5
   },
   {
     "kansokutenno": 4706,
@@ -4397,7 +4836,8 @@
     "lat": 43.433,
     "lon": 142.64683,
     "hyoukou": 1044,
-    "shozokuno": 101
+    "shozokuno": 101,
+    "centerno": 1
   },
   {
     "kansokutenno": 4709,
@@ -4407,7 +4847,8 @@
     "lat": 36.40217,
     "lon": 138.53267,
     "hyoukou": 2256,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4710,
@@ -4417,7 +4858,8 @@
     "lat": 36.40233,
     "lon": 138.53783,
     "hyoukou": 2132,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4711,
@@ -4427,7 +4869,8 @@
     "lat": 36.4045,
     "lon": 138.5485,
     "hyoukou": 1825,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4712,
@@ -4437,7 +4880,8 @@
     "lat": 36.40467,
     "lon": 138.5685,
     "hyoukou": 1382,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4713,
@@ -4447,7 +4891,8 @@
     "lat": 36.42317,
     "lon": 138.54233,
     "hyoukou": 1556,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4714,
@@ -4457,7 +4902,8 @@
     "lat": 36.44767,
     "lon": 138.51783,
     "hyoukou": 1284,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4715,
@@ -4467,7 +4913,8 @@
     "lat": 36.43317,
     "lon": 138.493,
     "hyoukou": 1520,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4716,
@@ -4477,7 +4924,8 @@
     "lat": 36.40383,
     "lon": 138.477,
     "hyoukou": 2021,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4717,
@@ -4487,7 +4935,8 @@
     "lat": 36.379,
     "lon": 138.47767,
     "hyoukou": 1385,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 4718,
@@ -4497,7 +4946,8 @@
     "lat": 36.40517,
     "lon": 138.4885,
     "hyoukou": 2386,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4721,
@@ -4507,7 +4957,8 @@
     "lat": 35.45567,
     "lon": 138.82417,
     "hyoukou": 891,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 4725,
@@ -4517,7 +4968,8 @@
     "lat": 42.12033,
     "lon": 140.67,
     "hyoukou": 17,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4727,
@@ -4527,7 +4979,8 @@
     "lat": 42.052,
     "lon": 140.73517,
     "hyoukou": 310,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4728,
@@ -4537,7 +4990,8 @@
     "lat": 42.12667,
     "lon": 140.71267,
     "hyoukou": 5,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4729,
@@ -4547,7 +5001,8 @@
     "lat": 42.072,
     "lon": 140.70117,
     "hyoukou": 727,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4730,
@@ -4557,7 +5012,8 @@
     "lat": 42.05783,
     "lon": 140.68417,
     "hyoukou": 895,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4733,
@@ -4567,7 +5023,8 @@
     "lat": 42.53517,
     "lon": 140.87767,
     "hyoukou": 123,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4734,
@@ -4577,7 +5034,8 @@
     "lat": 42.5725,
     "lon": 140.7805,
     "hyoukou": 228,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4735,
@@ -4587,7 +5045,8 @@
     "lat": 42.52767,
     "lon": 140.80383,
     "hyoukou": 76,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4740,
@@ -4597,7 +5056,8 @@
     "lat": 42.52633,
     "lon": 140.777,
     "hyoukou": 17,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4741,
@@ -4607,7 +5067,8 @@
     "lat": 42.4815,
     "lon": 140.856,
     "hyoukou": -57,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4743,
@@ -4617,7 +5078,8 @@
     "lat": 42.566,
     "lon": 140.89417,
     "hyoukou": 199,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4744,
@@ -4627,7 +5089,8 @@
     "lat": 42.59217,
     "lon": 140.85867,
     "hyoukou": 85,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4747,
@@ -4637,7 +5100,8 @@
     "lat": 42.67733,
     "lon": 141.37783,
     "hyoukou": 645,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4749,
@@ -4647,7 +5111,8 @@
     "lat": 42.70333,
     "lon": 141.395,
     "hyoukou": 580,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4751,
@@ -4657,7 +5122,8 @@
     "lat": 42.69933,
     "lon": 141.36883,
     "hyoukou": 880,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4752,
@@ -4667,7 +5133,8 @@
     "lat": 42.69,
     "lon": 141.42867,
     "hyoukou": 325,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4753,
@@ -4677,7 +5144,8 @@
     "lat": 42.6705,
     "lon": 141.33467,
     "hyoukou": 490,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4754,
@@ -4687,7 +5155,8 @@
     "lat": 42.71317,
     "lon": 141.33067,
     "hyoukou": 324,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4756,
@@ -4697,7 +5166,8 @@
     "lat": 42.65417,
     "lon": 141.415,
     "hyoukou": 261,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4759,
@@ -4707,7 +5177,8 @@
     "lat": 43.3955,
     "lon": 143.98467,
     "hyoukou": 711,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4760,
@@ -4717,7 +5188,8 @@
     "lat": 42.79367,
     "lon": 141.39367,
     "hyoukou": 844,
-    "shozokuno": 101
+    "shozokuno": 101,
+    "centerno": 1
   },
   {
     "kansokutenno": 4761,
@@ -4727,7 +5199,8 @@
     "lat": 42.72533,
     "lon": 141.26367,
     "hyoukou": 249,
-    "shozokuno": 101
+    "shozokuno": 101,
+    "centerno": 1
   },
   {
     "kansokutenno": 4762,
@@ -4737,7 +5210,8 @@
     "lat": 42.7425,
     "lon": 141.40217,
     "hyoukou": 252,
-    "shozokuno": 101
+    "shozokuno": 101,
+    "centerno": 1
   },
   {
     "kansokutenno": 4763,
@@ -4747,7 +5221,8 @@
     "lat": 42.59,
     "lon": 141.41633,
     "hyoukou": 49,
-    "shozokuno": 64
+    "shozokuno": 64,
+    "centerno": 1
   },
   {
     "kansokutenno": 4764,
@@ -4757,7 +5232,8 @@
     "lat": 42.68383,
     "lon": 141.3695,
     "hyoukou": 988,
-    "shozokuno": 64
+    "shozokuno": 64,
+    "centerno": 1
   },
   {
     "kansokutenno": 4765,
@@ -4767,7 +5243,8 @@
     "lat": 42.64533,
     "lon": 141.48633,
     "hyoukou": 87,
-    "shozokuno": 64
+    "shozokuno": 64,
+    "centerno": 1
   },
   {
     "kansokutenno": 4766,
@@ -4777,7 +5254,8 @@
     "lat": 36.4465,
     "lon": 138.51733,
     "hyoukou": 1290,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4768,
@@ -4787,7 +5265,8 @@
     "lat": 41.8115,
     "lon": 141.16217,
     "hyoukou": 369,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4769,
@@ -4797,7 +5276,8 @@
     "lat": 41.81183,
     "lon": 141.18,
     "hyoukou": 51,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4770,
@@ -4807,7 +5287,8 @@
     "lat": 41.79367,
     "lon": 141.1535,
     "hyoukou": 78,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4771,
@@ -4817,7 +5298,8 @@
     "lat": 39.8045,
     "lon": 140.80833,
     "hyoukou": 809,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 2
   },
   {
     "kansokutenno": 4772,
@@ -4827,7 +5309,8 @@
     "lat": 39.757,
     "lon": 140.74533,
     "hyoukou": 414,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 2
   },
   {
     "kansokutenno": 4773,
@@ -4837,7 +5320,8 @@
     "lat": 39.70883,
     "lon": 140.7975,
     "hyoukou": 870,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 2
   },
   {
     "kansokutenno": 4774,
@@ -4847,7 +5331,8 @@
     "lat": 36.14633,
     "lon": 136.76433,
     "hyoukou": 2345,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4775,
@@ -4857,7 +5342,8 @@
     "lat": 36.95583,
     "lon": 138.0385,
     "hyoukou": 1150,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4776,
@@ -4867,7 +5353,8 @@
     "lat": 39.8775,
     "lon": 140.95917,
     "hyoukou": 763,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4777,
@@ -4877,7 +5364,8 @@
     "lat": 36.64383,
     "lon": 138.5445,
     "hyoukou": 1893,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 4778,
@@ -4887,7 +5375,8 @@
     "lat": 36.64717,
     "lon": 138.52667,
     "hyoukou": 1883,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 4779,
@@ -4897,7 +5386,8 @@
     "lat": 36.63883,
     "lon": 138.5345,
     "hyoukou": 1906,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 4780,
@@ -4907,7 +5397,8 @@
     "lat": 36.64967,
     "lon": 138.53667,
     "hyoukou": 1985,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 4781,
@@ -4917,7 +5408,8 @@
     "lat": 36.63967,
     "lon": 138.546,
     "hyoukou": 1990,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 4782,
@@ -4927,7 +5419,8 @@
     "lat": 37.614,
     "lon": 140.1155,
     "hyoukou": 650,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4783,
@@ -4937,7 +5430,8 @@
     "lat": 31.875,
     "lon": 130.9045,
     "hyoukou": 877,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 5
   },
   {
     "kansokutenno": 4784,
@@ -4947,7 +5441,8 @@
     "lat": 31.60467,
     "lon": 130.665,
     "hyoukou": 399,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4785,
@@ -4957,7 +5452,8 @@
     "lat": 31.55667,
     "lon": 130.66333,
     "hyoukou": 90,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4786,
@@ -4967,7 +5463,8 @@
     "lat": 43.456,
     "lon": 142.64067,
     "hyoukou": 821,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4787,
@@ -4977,7 +5474,8 @@
     "lat": 38.94133,
     "lon": 140.82,
     "hyoukou": 848,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4788,
@@ -4987,7 +5485,8 @@
     "lat": 43.35167,
     "lon": 144.04483,
     "hyoukou": 820,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4789,
@@ -4997,7 +5496,8 @@
     "lat": 35.38517,
     "lon": 138.7475,
     "hyoukou": 2403,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4790,
@@ -5007,7 +5507,8 @@
     "lat": 35.36683,
     "lon": 138.68517,
     "hyoukou": 1761,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4791,
@@ -5017,7 +5518,8 @@
     "lat": 30.4465,
     "lon": 130.21067,
     "hyoukou": 408,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4792,
@@ -5027,7 +5529,8 @@
     "lat": 30.46283,
     "lon": 130.19683,
     "hyoukou": 36,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4793,
@@ -5037,7 +5540,8 @@
     "lat": 30.44767,
     "lon": 130.214,
     "hyoukou": 550,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4794,
@@ -5047,7 +5551,8 @@
     "lat": 30.448,
     "lon": 130.2165,
     "hyoukou": 577,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4795,
@@ -5057,7 +5562,8 @@
     "lat": 30.44183,
     "lon": 130.215,
     "hyoukou": 613,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4796,
@@ -5067,7 +5573,8 @@
     "lat": 30.44767,
     "lon": 130.24,
     "hyoukou": 239,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4797,
@@ -5077,7 +5584,8 @@
     "lat": 35.82283,
     "lon": 137.457,
     "hyoukou": 1365,
-    "shozokuno": 120
+    "shozokuno": 120,
+    "centerno": 3
   },
   {
     "kansokutenno": 4798,
@@ -5087,7 +5595,8 @@
     "lat": 35.891,
     "lon": 137.47833,
     "hyoukou": 2925,
-    "shozokuno": 120
+    "shozokuno": 120,
+    "centerno": 3
   },
   {
     "kansokutenno": 4799,
@@ -5097,7 +5606,8 @@
     "lat": 35.902,
     "lon": 137.5095,
     "hyoukou": 2080,
-    "shozokuno": 120
+    "shozokuno": 120,
+    "centerno": 3
   },
   {
     "kansokutenno": 4800,
@@ -5107,7 +5617,8 @@
     "lat": 35.917,
     "lon": 137.32583,
     "hyoukou": 690,
-    "shozokuno": 121
+    "shozokuno": 121,
+    "centerno": 3
   },
   {
     "kansokutenno": 4801,
@@ -5117,7 +5628,8 @@
     "lat": 35.9315,
     "lon": 137.48133,
     "hyoukou": 2190,
-    "shozokuno": 121
+    "shozokuno": 121,
+    "centerno": 3
   },
   {
     "kansokutenno": 4802,
@@ -5127,7 +5639,8 @@
     "lat": 43.41,
     "lon": 142.657,
     "hyoukou": 1416,
-    "shozokuno": 101
+    "shozokuno": 101,
+    "centerno": 1
   },
   {
     "kansokutenno": 4803,
@@ -5137,7 +5650,8 @@
     "lat": 40.62,
     "lon": 140.32333,
     "hyoukou": 240,
-    "shozokuno": 21
+    "shozokuno": 21,
+    "centerno": 2
   },
   {
     "kansokutenno": 4804,
@@ -5147,7 +5661,8 @@
     "lat": 40.71817,
     "lon": 140.234,
     "hyoukou": 92,
-    "shozokuno": 21
+    "shozokuno": 21,
+    "centerno": 2
   },
   {
     "kansokutenno": 4805,
@@ -5157,7 +5672,8 @@
     "lat": 40.79483,
     "lon": 140.57017,
     "hyoukou": 240,
-    "shozokuno": 21
+    "shozokuno": 21,
+    "centerno": 2
   },
   {
     "kansokutenno": 4806,
@@ -5167,7 +5683,8 @@
     "lat": 31.55933,
     "lon": 130.66933,
     "hyoukou": 88,
-    "shozokuno": 65
+    "shozokuno": 65,
+    "centerno": 5
   },
   {
     "kansokutenno": 4807,
@@ -5177,7 +5694,8 @@
     "lat": 43.554,
     "lon": 144.5105,
     "hyoukou": 434,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4808,
@@ -5187,7 +5705,8 @@
     "lat": 42.49733,
     "lon": 141.14583,
     "hyoukou": 210,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4809,
@@ -5197,7 +5716,8 @@
     "lat": 42.50117,
     "lon": 141.1445,
     "hyoukou": 245,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4810,
@@ -5207,7 +5727,8 @@
     "lat": 43.4125,
     "lon": 144.03383,
     "hyoukou": 820,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4811,
@@ -5217,7 +5738,8 @@
     "lat": 39.01133,
     "lon": 140.65917,
     "hyoukou": 335,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4812,
@@ -5227,7 +5749,8 @@
     "lat": 39.7775,
     "lon": 140.7655,
     "hyoukou": 690,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4813,
@@ -5237,7 +5760,8 @@
     "lat": 43.61617,
     "lon": 144.44367,
     "hyoukou": 210,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4814,
@@ -5247,7 +5771,8 @@
     "lat": 43.61867,
     "lon": 144.4505,
     "hyoukou": 152,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4815,
@@ -5257,7 +5782,8 @@
     "lat": 43.3785,
     "lon": 143.99383,
     "hyoukou": 975,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 4816,
@@ -5267,7 +5793,8 @@
     "lat": 43.475,
     "lon": 142.65017,
     "hyoukou": 652,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4817,
@@ -5277,7 +5804,8 @@
     "lat": 43.43317,
     "lon": 142.6675,
     "hyoukou": 1323,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4818,
@@ -5287,7 +5815,8 @@
     "lat": 35.31017,
     "lon": 138.601,
     "hyoukou": 485,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4819,
@@ -5297,7 +5826,8 @@
     "lat": 43.6185,
     "lon": 144.45017,
     "hyoukou": 156,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4820,
@@ -5307,7 +5837,8 @@
     "lat": 43.35167,
     "lon": 144.04483,
     "hyoukou": 790,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4821,
@@ -5317,7 +5848,8 @@
     "lat": 43.661,
     "lon": 142.827,
     "hyoukou": 1607,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4822,
@@ -5327,7 +5859,8 @@
     "lat": 43.66183,
     "lon": 142.82517,
     "hyoukou": 1592,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4823,
@@ -5337,7 +5870,8 @@
     "lat": 43.44867,
     "lon": 142.65017,
     "hyoukou": 919,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4824,
@@ -5347,7 +5881,8 @@
     "lat": 43.41967,
     "lon": 142.6305,
     "hyoukou": 1001,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4825,
@@ -5357,7 +5892,8 @@
     "lat": 43.40717,
     "lon": 142.67483,
     "hyoukou": 1828,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4826,
@@ -5367,7 +5903,8 @@
     "lat": 42.671,
     "lon": 141.33433,
     "hyoukou": 495,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4827,
@@ -5377,7 +5914,8 @@
     "lat": 42.49167,
     "lon": 141.128,
     "hyoukou": 327,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4828,
@@ -5387,7 +5925,8 @@
     "lat": 42.53667,
     "lon": 140.8715,
     "hyoukou": 50,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4829,
@@ -5397,7 +5936,8 @@
     "lat": 42.559,
     "lon": 140.84833,
     "hyoukou": 99,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 4830,
@@ -5407,7 +5947,8 @@
     "lat": 42.10917,
     "lon": 140.6815,
     "hyoukou": 122,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4831,
@@ -5417,7 +5958,8 @@
     "lat": 41.79,
     "lon": 141.14983,
     "hyoukou": 41,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 4832,
@@ -5427,7 +5969,8 @@
     "lat": 40.66867,
     "lon": 140.2355,
     "hyoukou": 364,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4833,
@@ -5437,7 +5980,8 @@
     "lat": 39.94517,
     "lon": 140.7195,
     "hyoukou": 738,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4834,
@@ -5447,7 +5991,8 @@
     "lat": 39.83233,
     "lon": 141.04083,
     "hyoukou": 608,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4835,
@@ -5457,7 +6002,8 @@
     "lat": 39.8835,
     "lon": 140.93567,
     "hyoukou": 805,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 4836,
@@ -5467,7 +6013,8 @@
     "lat": 39.76783,
     "lon": 140.80683,
     "hyoukou": 1305,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4837,
@@ -5477,7 +6024,8 @@
     "lat": 39.12917,
     "lon": 139.93933,
     "hyoukou": 335,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4838,
@@ -5487,7 +6035,8 @@
     "lat": 38.94083,
     "lon": 140.818,
     "hyoukou": 840,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4839,
@@ -5497,7 +6046,8 @@
     "lat": 38.12217,
     "lon": 140.39483,
     "hyoukou": 1012,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4840,
@@ -5507,7 +6057,8 @@
     "lat": 37.72433,
     "lon": 140.256,
     "hyoukou": 1584,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4841,
@@ -5517,7 +6068,8 @@
     "lat": 37.6215,
     "lon": 140.228,
     "hyoukou": 890,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4842,
@@ -5527,7 +6079,8 @@
     "lat": 37.6335,
     "lon": 140.07,
     "hyoukou": 902,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 4843,
@@ -5537,7 +6090,8 @@
     "lat": 37.10683,
     "lon": 139.9315,
     "hyoukou": 1269,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4844,
@@ -5547,7 +6101,8 @@
     "lat": 36.80367,
     "lon": 139.40767,
     "hyoukou": 1642,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4845,
@@ -5557,7 +6112,8 @@
     "lat": 36.63467,
     "lon": 138.55533,
     "hyoukou": 1776,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4846,
@@ -5567,7 +6123,8 @@
     "lat": 36.37183,
     "lon": 138.5055,
     "hyoukou": 1481,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4847,
@@ -5577,7 +6134,8 @@
     "lat": 36.41,
     "lon": 138.47017,
     "hyoukou": 1907,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4848,
@@ -5587,7 +6145,8 @@
     "lat": 36.43867,
     "lon": 138.53417,
     "hyoukou": 1388,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4849,
@@ -5597,7 +6156,8 @@
     "lat": 36.95583,
     "lon": 138.03817,
     "hyoukou": 1147,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4850,
@@ -5607,7 +6167,8 @@
     "lat": 36.25783,
     "lon": 137.57417,
     "hyoukou": 1151,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4851,
@@ -5617,7 +6178,8 @@
     "lat": 36.23517,
     "lon": 137.60917,
     "hyoukou": 1587,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 4852,
@@ -5627,7 +6189,8 @@
     "lat": 36.20767,
     "lon": 137.60483,
     "hyoukou": 1380,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 4853,
@@ -5637,7 +6200,8 @@
     "lat": 36.11417,
     "lon": 137.59683,
     "hyoukou": 1804,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4854,
@@ -5647,7 +6211,8 @@
     "lat": 35.87317,
     "lon": 137.5035,
     "hyoukou": 2196,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4855,
@@ -5657,7 +6222,8 @@
     "lat": 36.12867,
     "lon": 136.75283,
     "hyoukou": 1540,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4856,
@@ -5667,7 +6233,8 @@
     "lat": 35.33317,
     "lon": 138.80467,
     "hyoukou": 1284,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4857,
@@ -5677,7 +6244,8 @@
     "lat": 35.246,
     "lon": 139.05017,
     "hyoukou": 549,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4858,
@@ -5687,7 +6255,8 @@
     "lat": 34.97133,
     "lon": 139.08417,
     "hyoukou": 87,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4859,
@@ -5697,7 +6266,8 @@
     "lat": 34.7155,
     "lon": 139.41217,
     "hyoukou": 602,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4860,
@@ -5707,7 +6277,8 @@
     "lat": 34.77467,
     "lon": 139.41067,
     "hyoukou": 231,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4861,
@@ -5717,7 +6288,8 @@
     "lat": 34.7785,
     "lon": 139.361,
     "hyoukou": 41,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4862,
@@ -5727,7 +6299,8 @@
     "lat": 34.36267,
     "lon": 139.24867,
     "hyoukou": 41,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4863,
@@ -5737,7 +6310,8 @@
     "lat": 34.22067,
     "lon": 139.1485,
     "hyoukou": 372,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4864,
@@ -5747,7 +6321,8 @@
     "lat": 34.073,
     "lon": 139.51433,
     "hyoukou": 472,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4865,
@@ -5757,7 +6332,8 @@
     "lat": 33.122,
     "lon": 139.7795,
     "hyoukou": 151,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4866,
@@ -5767,7 +6343,8 @@
     "lat": 32.467,
     "lon": 139.76067,
     "hyoukou": 273,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4867,
@@ -5777,7 +6354,8 @@
     "lat": 33.3255,
     "lon": 131.45117,
     "hyoukou": 401,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4868,
@@ -5787,7 +6365,8 @@
     "lat": 33.10333,
     "lon": 131.22967,
     "hyoukou": 1282,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4869,
@@ -5797,7 +6376,8 @@
     "lat": 32.8805,
     "lon": 131.07333,
     "hyoukou": 1143,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4870,
@@ -5807,7 +6387,8 @@
     "lat": 32.91583,
     "lon": 131.11467,
     "hyoukou": 645,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 4871,
@@ -5817,7 +6398,8 @@
     "lat": 32.85367,
     "lon": 131.07067,
     "hyoukou": 747,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 4872,
@@ -5827,7 +6409,8 @@
     "lat": 32.77183,
     "lon": 130.2885,
     "hyoukou": 833,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4873,
@@ -5837,7 +6420,8 @@
     "lat": 31.8865,
     "lon": 130.897,
     "hyoukou": 973,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4874,
@@ -5847,7 +6431,8 @@
     "lat": 31.93,
     "lon": 130.81017,
     "hyoukou": 936,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 4875,
@@ -5857,7 +6442,8 @@
     "lat": 31.92983,
     "lon": 130.93933,
     "hyoukou": 659,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 4876,
@@ -5867,7 +6453,8 @@
     "lat": 31.59117,
     "lon": 130.612,
     "hyoukou": 41,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4877,
@@ -5877,7 +6464,8 @@
     "lat": 31.60467,
     "lon": 130.665,
     "hyoukou": 400,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4878,
@@ -5887,7 +6475,8 @@
     "lat": 31.57083,
     "lon": 130.70733,
     "hyoukou": 62,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4879,
@@ -5897,7 +6486,8 @@
     "lat": 30.78883,
     "lon": 130.29367,
     "hyoukou": 113,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4880,
@@ -5907,7 +6497,8 @@
     "lat": 30.79317,
     "lon": 130.2925,
     "hyoukou": 100,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4882,
@@ -5917,7 +6508,8 @@
     "lat": 30.39533,
     "lon": 130.4195,
     "hyoukou": 9,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 4883,
@@ -5927,7 +6519,8 @@
     "lat": 30.461,
     "lon": 130.2315,
     "hyoukou": 231,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4884,
@@ -5937,7 +6530,8 @@
     "lat": 30.46367,
     "lon": 130.19567,
     "hyoukou": 29,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4885,
@@ -5947,7 +6541,8 @@
     "lat": 29.6255,
     "lon": 129.70167,
     "hyoukou": 313,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4886,
@@ -5957,7 +6552,8 @@
     "lat": 31.9475,
     "lon": 130.83933,
     "hyoukou": 1200,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 5
   },
   {
     "kansokutenno": 4887,
@@ -5967,7 +6563,8 @@
     "lat": 31.91883,
     "lon": 130.88183,
     "hyoukou": 1317,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 5
   },
   {
     "kansokutenno": 4888,
@@ -5977,7 +6574,8 @@
     "lat": 31.89967,
     "lon": 130.93433,
     "hyoukou": 693,
-    "shozokuno": 31
+    "shozokuno": 31,
+    "centerno": 5
   },
   {
     "kansokutenno": 4889,
@@ -5987,7 +6585,8 @@
     "lat": 32.87333,
     "lon": 131.087,
     "hyoukou": 1240,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 4890,
@@ -5997,7 +6596,8 @@
     "lat": 31.92133,
     "lon": 130.8935,
     "hyoukou": 1334,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 4891,
@@ -6007,7 +6607,8 @@
     "lat": 32.76,
     "lon": 130.26333,
     "hyoukou": 550,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 4892,
@@ -6017,7 +6618,8 @@
     "lat": 32.74083,
     "lon": 130.31517,
     "hyoukou": 370,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 4893,
@@ -6027,7 +6629,8 @@
     "lat": 24.76867,
     "lon": 141.30717,
     "hyoukou": 72,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 4894,
@@ -6037,7 +6640,8 @@
     "lat": 24.79767,
     "lon": 141.33167,
     "hyoukou": 114,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4895,
@@ -6047,7 +6651,8 @@
     "lat": 24.7905,
     "lon": 141.31533,
     "hyoukou": 104,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4896,
@@ -6057,7 +6662,8 @@
     "lat": 24.75317,
     "lon": 141.28967,
     "hyoukou": 42,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 4897,
@@ -6067,7 +6673,8 @@
     "lat": 31.8995,
     "lon": 130.8545,
     "hyoukou": 935,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 4898,
@@ -6077,7 +6684,8 @@
     "lat": 31.915,
     "lon": 130.84033,
     "hyoukou": 1065,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 4899,
@@ -6087,7 +6695,8 @@
     "lat": 31.94883,
     "lon": 130.8925,
     "hyoukou": 881,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 5555,
@@ -6097,7 +6706,8 @@
     "lat": 41.46,
     "lon": 141.1075,
     "hyoukou": 46,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 2
   },
   {
     "kansokutenno": 5556,
@@ -6107,7 +6717,8 @@
     "lat": 41.3145,
     "lon": 141.15867,
     "hyoukou": 117,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 2
   },
   {
     "kansokutenno": 5605,
@@ -6117,7 +6728,8 @@
     "lat": 37.106,
     "lon": 138.15983,
     "hyoukou": 140,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5607,
@@ -6127,7 +6739,8 @@
     "lat": 36.9715,
     "lon": 139.91667,
     "hyoukou": 460,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5608,
@@ -6137,7 +6750,8 @@
     "lat": 36.56517,
     "lon": 138.6365,
     "hyoukou": 645,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5616,
@@ -6147,7 +6761,8 @@
     "lat": 34.72117,
     "lon": 138.875,
     "hyoukou": 135,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5618,
@@ -6157,7 +6772,8 @@
     "lat": 35.50083,
     "lon": 138.54117,
     "hyoukou": 775,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5628,
@@ -6167,7 +6783,8 @@
     "lat": 36.22633,
     "lon": 137.31233,
     "hyoukou": 775,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5635,
@@ -6177,7 +6794,8 @@
     "lat": 34.19,
     "lon": 139.1335,
     "hyoukou": 138,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5657,
@@ -6187,7 +6805,8 @@
     "lat": 36.76983,
     "lon": 139.24567,
     "hyoukou": 933,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5658,
@@ -6197,7 +6816,8 @@
     "lat": 35.2665,
     "lon": 139.085,
     "hyoukou": 380,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5664,
@@ -6207,7 +6827,8 @@
     "lat": 34.72083,
     "lon": 139.428,
     "hyoukou": 405,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5684,
@@ -6217,7 +6838,8 @@
     "lat": 43.58783,
     "lon": 144.715,
     "hyoukou": 220,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 5694,
@@ -6227,7 +6849,8 @@
     "lat": 41.38467,
     "lon": 141.04467,
     "hyoukou": 80,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5695,
@@ -6237,7 +6860,8 @@
     "lat": 40.7895,
     "lon": 141.06467,
     "hyoukou": 130,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5696,
@@ -6247,7 +6871,8 @@
     "lat": 40.5955,
     "lon": 140.0035,
     "hyoukou": 330,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5697,
@@ -6257,7 +6882,8 @@
     "lat": 40.19133,
     "lon": 140.63233,
     "hyoukou": 140,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5708,
@@ -6267,7 +6893,8 @@
     "lat": 38.45733,
     "lon": 141.34533,
     "hyoukou": 40,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5717,
@@ -6277,7 +6904,8 @@
     "lat": 39.19817,
     "lon": 139.554,
     "hyoukou": 50,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5731,
@@ -6287,7 +6915,8 @@
     "lat": 33.11533,
     "lon": 139.81383,
     "hyoukou": 70,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5732,
@@ -6297,7 +6926,8 @@
     "lat": 27.09567,
     "lon": 142.1845,
     "hyoukou": 145,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5744,
@@ -6307,7 +6937,8 @@
     "lat": 33.125,
     "lon": 130.87667,
     "hyoukou": 540,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 5752,
@@ -6317,7 +6948,8 @@
     "lat": 31.50933,
     "lon": 130.45267,
     "hyoukou": 400,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 5754,
@@ -6327,7 +6959,8 @@
     "lat": 30.46567,
     "lon": 130.1935,
     "hyoukou": 20,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 5756,
@@ -6337,7 +6970,8 @@
     "lat": 29.84483,
     "lon": 129.8725,
     "hyoukou": 240,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 5782,
@@ -6347,7 +6981,8 @@
     "lat": 33.07233,
     "lon": 139.79767,
     "hyoukou": 170,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5784,
@@ -6357,7 +6992,8 @@
     "lat": 34.356,
     "lon": 139.27417,
     "hyoukou": 57,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5785,
@@ -6367,7 +7003,8 @@
     "lat": 33.33633,
     "lon": 131.40717,
     "hyoukou": 434,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 5786,
@@ -6377,7 +7014,8 @@
     "lat": 30.23783,
     "lon": 130.50967,
     "hyoukou": 90,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 5802,
@@ -6387,7 +7025,8 @@
     "lat": 41.26533,
     "lon": 141.33733,
     "hyoukou": 50,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5804,
@@ -6397,7 +7036,8 @@
     "lat": 40.65183,
     "lon": 140.359,
     "hyoukou": 220,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5808,
@@ -6407,7 +7047,8 @@
     "lat": 38.60217,
     "lon": 140.91117,
     "hyoukou": 29,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5811,
@@ -6417,7 +7058,8 @@
     "lat": 39.01617,
     "lon": 139.9305,
     "hyoukou": 28,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5818,
@@ -6427,7 +7069,8 @@
     "lat": 34.52367,
     "lon": 139.28833,
     "hyoukou": 147,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5819,
@@ -6437,7 +7080,8 @@
     "lat": 34.33467,
     "lon": 139.21067,
     "hyoukou": 39,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5820,
@@ -6447,7 +7091,8 @@
     "lat": 33.89233,
     "lon": 139.59067,
     "hyoukou": 149,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5821,
@@ -6457,7 +7102,8 @@
     "lat": 32.46367,
     "lon": 139.76383,
     "hyoukou": 336,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5855,
@@ -6467,7 +7113,8 @@
     "lat": 34.0605,
     "lon": 139.54783,
     "hyoukou": 35,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 5856,
@@ -6477,7 +7124,8 @@
     "lat": 37.55983,
     "lon": 140.33367,
     "hyoukou": 477,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 5862,
@@ -6487,7 +7135,8 @@
     "lat": 36.73017,
     "lon": 139.22333,
     "hyoukou": 722,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 7500,
@@ -6497,7 +7146,8 @@
     "lat": 36.05117,
     "lon": 136.52167,
     "hyoukou": 180,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 3
   },
   {
     "kansokutenno": 8000,
@@ -6507,7 +7157,8 @@
     "lat": 31.90417,
     "lon": 130.92933,
     "hyoukou": 763,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8001,
@@ -6517,7 +7168,8 @@
     "lat": 31.95817,
     "lon": 130.77283,
     "hyoukou": 633,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8002,
@@ -6527,7 +7179,8 @@
     "lat": 36.25,
     "lon": 137.579,
     "hyoukou": 1280,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 8003,
@@ -6537,7 +7190,8 @@
     "lat": 36.2925,
     "lon": 137.59183,
     "hyoukou": 1270,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 8004,
@@ -6547,7 +7201,8 @@
     "lat": 36.1855,
     "lon": 137.55267,
     "hyoukou": 1335,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 8005,
@@ -6557,7 +7212,8 @@
     "lat": 36.23417,
     "lon": 137.53467,
     "hyoukou": 960,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 8006,
@@ -6567,7 +7223,8 @@
     "lat": 36.22333,
     "lon": 137.56283,
     "hyoukou": 1580,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 3
   },
   {
     "kansokutenno": 8007,
@@ -6577,7 +7234,8 @@
     "lat": 37.10417,
     "lon": 139.99283,
     "hyoukou": 1020,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8008,
@@ -6587,7 +7245,8 @@
     "lat": 37.08567,
     "lon": 139.93167,
     "hyoukou": 920,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8009,
@@ -6597,7 +7256,8 @@
     "lat": 37.11617,
     "lon": 139.9045,
     "hyoukou": 840,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8010,
@@ -6607,7 +7267,8 @@
     "lat": 37.18983,
     "lon": 139.92283,
     "hyoukou": 920,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8011,
@@ -6617,7 +7278,8 @@
     "lat": 37.15567,
     "lon": 140.01783,
     "hyoukou": 1050,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8012,
@@ -6627,7 +7289,8 @@
     "lat": 31.98783,
     "lon": 130.87367,
     "hyoukou": 605,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8013,
@@ -6637,7 +7300,8 @@
     "lat": 32.03217,
     "lon": 130.8475,
     "hyoukou": 259,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8014,
@@ -6647,7 +7311,8 @@
     "lat": 31.978,
     "lon": 130.83133,
     "hyoukou": 696,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8015,
@@ -6657,7 +7322,8 @@
     "lat": 32.0215,
     "lon": 130.786,
     "hyoukou": 274,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8016,
@@ -6667,7 +7333,8 @@
     "lat": 31.945,
     "lon": 130.78167,
     "hyoukou": 763,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8017,
@@ -6677,7 +7344,8 @@
     "lat": 31.98867,
     "lon": 130.72833,
     "hyoukou": 493,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8018,
@@ -6687,7 +7355,8 @@
     "lat": 31.92483,
     "lon": 130.721,
     "hyoukou": 238,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8019,
@@ -6697,7 +7366,8 @@
     "lat": 31.88333,
     "lon": 130.78233,
     "hyoukou": 317,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8020,
@@ -6707,7 +7377,8 @@
     "lat": 31.86683,
     "lon": 130.73767,
     "hyoukou": 201,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8021,
@@ -6717,7 +7388,8 @@
     "lat": 31.89533,
     "lon": 130.81133,
     "hyoukou": 594,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8022,
@@ -6727,7 +7399,8 @@
     "lat": 43.42417,
     "lon": 142.67833,
     "hyoukou": 1740,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8023,
@@ -6737,7 +7410,8 @@
     "lat": 43.47717,
     "lon": 142.64017,
     "hyoukou": 669,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8024,
@@ -6747,7 +7421,8 @@
     "lat": 39.99767,
     "lon": 140.7955,
     "hyoukou": 721,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8025,
@@ -6757,7 +7432,8 @@
     "lat": 40.29867,
     "lon": 140.90483,
     "hyoukou": 310,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8026,
@@ -6767,7 +7443,8 @@
     "lat": 39.89233,
     "lon": 140.98417,
     "hyoukou": 604,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8027,
@@ -6777,7 +7454,8 @@
     "lat": 39.75367,
     "lon": 141.04583,
     "hyoukou": 365,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8028,
@@ -6787,7 +7465,8 @@
     "lat": 39.84867,
     "lon": 140.6635,
     "hyoukou": 415,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8029,
@@ -6797,7 +7476,8 @@
     "lat": 39.8115,
     "lon": 140.93967,
     "hyoukou": 580,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8030,
@@ -6807,7 +7487,8 @@
     "lat": 39.03233,
     "lon": 140.02517,
     "hyoukou": 520,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8031,
@@ -6817,7 +7498,8 @@
     "lat": 38.13617,
     "lon": 140.48433,
     "hyoukou": 1235,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8032,
@@ -6827,7 +7509,8 @@
     "lat": 38.02117,
     "lon": 140.38383,
     "hyoukou": 485,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8033,
@@ -6837,7 +7520,8 @@
     "lat": 37.72717,
     "lon": 140.29967,
     "hyoukou": 880,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8034,
@@ -6847,7 +7531,8 @@
     "lat": 37.66783,
     "lon": 140.16483,
     "hyoukou": 860,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8035,
@@ -6857,7 +7542,8 @@
     "lat": 37.79,
     "lon": 140.12117,
     "hyoukou": 810,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8036,
@@ -6867,7 +7553,8 @@
     "lat": 37.60267,
     "lon": 140.33117,
     "hyoukou": 750,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8037,
@@ -6877,7 +7564,8 @@
     "lat": 37.57817,
     "lon": 140.04583,
     "hyoukou": 680,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8038,
@@ -6887,7 +7575,8 @@
     "lat": 36.57733,
     "lon": 137.5955,
     "hyoukou": 2432,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8039,
@@ -6897,7 +7586,8 @@
     "lat": 31.615,
     "lon": 130.686,
     "hyoukou": 41,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8040,
@@ -6907,7 +7597,8 @@
     "lat": 31.91117,
     "lon": 130.8355,
     "hyoukou": 948,
-    "shozokuno": 1
+    "shozokuno": 1,
+    "centerno": 5
   },
   {
     "kansokutenno": 8041,
@@ -6917,7 +7608,8 @@
     "lat": 32.78767,
     "lon": 130.20867,
     "hyoukou": 88,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 8042,
@@ -6927,7 +7619,8 @@
     "lat": 36.615,
     "lon": 138.49933,
     "hyoukou": 1717,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8043,
@@ -6937,7 +7630,8 @@
     "lat": 36.40667,
     "lon": 138.51733,
     "hyoukou": 2519,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8044,
@@ -6947,7 +7641,8 @@
     "lat": 36.40667,
     "lon": 138.52283,
     "hyoukou": 2557,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8045,
@@ -6957,7 +7652,8 @@
     "lat": 36.40617,
     "lon": 138.527,
     "hyoukou": 2420,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8046,
@@ -6967,7 +7663,8 @@
     "lat": 36.40383,
     "lon": 138.52433,
     "hyoukou": 2465,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8047,
@@ -6977,7 +7674,8 @@
     "lat": 35.39817,
     "lon": 138.763,
     "hyoukou": 1641,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8048,
@@ -6987,7 +7685,8 @@
     "lat": 34.9415,
     "lon": 139.12467,
     "hyoukou": 204,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8049,
@@ -6997,7 +7696,8 @@
     "lat": 34.74283,
     "lon": 139.419,
     "hyoukou": 483,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8050,
@@ -7007,7 +7707,8 @@
     "lat": 34.734,
     "lon": 139.40333,
     "hyoukou": 544,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8051,
@@ -7017,7 +7718,8 @@
     "lat": 34.727,
     "lon": 139.38283,
     "hyoukou": 444,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8052,
@@ -7027,7 +7729,8 @@
     "lat": 34.6875,
     "lon": 139.43633,
     "hyoukou": 3,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8053,
@@ -7037,7 +7740,8 @@
     "lat": 36.399,
     "lon": 138.39,
     "hyoukou": 1155,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8054,
@@ -7047,7 +7751,8 @@
     "lat": 36.41383,
     "lon": 138.43967,
     "hyoukou": 2046,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8056,
@@ -7057,7 +7762,8 @@
     "lat": 36.417,
     "lon": 138.518,
     "hyoukou": 2039,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8058,
@@ -7067,7 +7773,8 @@
     "lat": 37.7515,
     "lon": 140.30717,
     "hyoukou": 745,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8059,
@@ -7077,7 +7784,8 @@
     "lat": 37.68383,
     "lon": 140.242,
     "hyoukou": 1295,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8060,
@@ -7087,7 +7795,8 @@
     "lat": 31.91133,
     "lon": 130.83517,
     "hyoukou": 982,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8061,
@@ -7097,7 +7806,8 @@
     "lat": 31.95333,
     "lon": 130.87533,
     "hyoukou": 969,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8062,
@@ -7107,7 +7817,8 @@
     "lat": 31.92717,
     "lon": 130.918,
     "hyoukou": 824,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8063,
@@ -7117,7 +7828,8 @@
     "lat": 31.89317,
     "lon": 130.96333,
     "hyoukou": 454,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8065,
@@ -7127,7 +7839,8 @@
     "lat": 36.57767,
     "lon": 137.5955,
     "hyoukou": 2426,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8066,
@@ -7137,7 +7850,8 @@
     "lat": 43.395,
     "lon": 143.98433,
     "hyoukou": 711,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 8067,
@@ -7147,7 +7861,8 @@
     "lat": 35.15267,
     "lon": 132.62117,
     "hyoukou": 500,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8068,
@@ -7157,7 +7872,8 @@
     "lat": 31.8855,
     "lon": 130.91983,
     "hyoukou": 1544,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8069,
@@ -7167,7 +7883,8 @@
     "lat": 31.9305,
     "lon": 131.00767,
     "hyoukou": 212,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8070,
@@ -7177,7 +7894,8 @@
     "lat": 40.70017,
     "lon": 140.91883,
     "hyoukou": 573,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8071,
@@ -7187,7 +7905,8 @@
     "lat": 40.64867,
     "lon": 140.8485,
     "hyoukou": 887,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8072,
@@ -7197,7 +7916,8 @@
     "lat": 40.63333,
     "lon": 140.92417,
     "hyoukou": 792,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8073,
@@ -7207,7 +7927,8 @@
     "lat": 40.64817,
     "lon": 140.85017,
     "hyoukou": 895,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8074,
@@ -7217,7 +7938,8 @@
     "lat": 38.15833,
     "lon": 140.42133,
     "hyoukou": 1345,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8075,
@@ -7227,7 +7949,8 @@
     "lat": 38.06667,
     "lon": 140.5125,
     "hyoukou": 886,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8076,
@@ -7237,7 +7960,8 @@
     "lat": 43.3915,
     "lon": 144.028,
     "hyoukou": 1295,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8077,
@@ -7247,7 +7971,8 @@
     "lat": 43.37983,
     "lon": 144.00483,
     "hyoukou": 1245,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8078,
@@ -7257,7 +7982,8 @@
     "lat": 39.73483,
     "lon": 140.74783,
     "hyoukou": 395,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8079,
@@ -7267,7 +7993,8 @@
     "lat": 32.89217,
     "lon": 131.08267,
     "hyoukou": 1180,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8080,
@@ -7277,7 +8004,8 @@
     "lat": 42.7605,
     "lon": 141.42283,
     "hyoukou": 262,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8081,
@@ -7287,7 +8015,8 @@
     "lat": 42.61533,
     "lon": 141.453,
     "hyoukou": 24,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8082,
@@ -7297,7 +8026,8 @@
     "lat": 30.44133,
     "lon": 130.20083,
     "hyoukou": 163,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 8083,
@@ -7307,7 +8037,8 @@
     "lat": 30.44083,
     "lon": 130.23183,
     "hyoukou": 181,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 8084,
@@ -7317,7 +8048,8 @@
     "lat": 38.12767,
     "lon": 140.44967,
     "hyoukou": 1755,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8085,
@@ -7327,7 +8059,8 @@
     "lat": 42.69517,
     "lon": 141.35467,
     "hyoukou": 558,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8086,
@@ -7337,7 +8070,8 @@
     "lat": 42.69333,
     "lon": 141.38283,
     "hyoukou": 973,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8087,
@@ -7347,7 +8081,8 @@
     "lat": 39.82567,
     "lon": 140.87267,
     "hyoukou": 629,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8088,
@@ -7357,7 +8092,8 @@
     "lat": 32.73017,
     "lon": 130.293,
     "hyoukou": 575,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8089,
@@ -7367,7 +8103,8 @@
     "lat": 32.79433,
     "lon": 130.27317,
     "hyoukou": 659,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8090,
@@ -7377,7 +8114,8 @@
     "lat": 38.1045,
     "lon": 140.52917,
     "hyoukou": 686,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8091,
@@ -7387,7 +8125,8 @@
     "lat": 43.41467,
     "lon": 142.64283,
     "hyoukou": 1261,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8092,
@@ -7397,7 +8136,8 @@
     "lat": 43.449,
     "lon": 142.8685,
     "hyoukou": 782,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8093,
@@ -7407,7 +8147,8 @@
     "lat": 43.18833,
     "lon": 142.66133,
     "hyoukou": 543,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8094,
@@ -7417,7 +8158,8 @@
     "lat": 42.71367,
     "lon": 141.32017,
     "hyoukou": 270,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8095,
@@ -7427,7 +8169,8 @@
     "lat": 42.09567,
     "lon": 140.62017,
     "hyoukou": 79,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8096,
@@ -7437,7 +8180,8 @@
     "lat": 42.0305,
     "lon": 140.81133,
     "hyoukou": 39,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8097,
@@ -7447,7 +8191,8 @@
     "lat": 41.9745,
     "lon": 140.7165,
     "hyoukou": 186,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8098,
@@ -7457,7 +8202,8 @@
     "lat": 42.50967,
     "lon": 140.8425,
     "hyoukou": 85,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8099,
@@ -7467,7 +8213,8 @@
     "lat": 42.5365,
     "lon": 140.79067,
     "hyoukou": 38,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 1
   },
   {
     "kansokutenno": 8100,
@@ -7477,7 +8224,8 @@
     "lat": 39.90433,
     "lon": 141.03967,
     "hyoukou": 392,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 8101,
@@ -7487,7 +8235,8 @@
     "lat": 39.81017,
     "lon": 140.97283,
     "hyoukou": 617,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 2
   },
   {
     "kansokutenno": 8102,
@@ -7497,7 +8246,8 @@
     "lat": 36.40817,
     "lon": 138.55717,
     "hyoukou": 1566,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8103,
@@ -7507,7 +8257,8 @@
     "lat": 36.63383,
     "lon": 138.59217,
     "hyoukou": 1254,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8104,
@@ -7517,7 +8268,8 @@
     "lat": 36.57867,
     "lon": 138.571,
     "hyoukou": 1043,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8105,
@@ -7527,7 +8279,8 @@
     "lat": 32.92133,
     "lon": 131.02483,
     "hyoukou": 536,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 8106,
@@ -7537,7 +8290,8 @@
     "lat": 32.86,
     "lon": 131.1195,
     "hyoukou": 725,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 8107,
@@ -7547,7 +8301,8 @@
     "lat": 32.774,
     "lon": 130.19433,
     "hyoukou": 235,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 8108,
@@ -7557,7 +8312,8 @@
     "lat": 32.67933,
     "lon": 130.2705,
     "hyoukou": 167,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 8109,
@@ -7567,7 +8323,8 @@
     "lat": 32.67633,
     "lon": 130.141,
     "hyoukou": 52,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 5
   },
   {
     "kansokutenno": 8110,
@@ -7577,7 +8334,8 @@
     "lat": 31.94667,
     "lon": 130.8535,
     "hyoukou": 1305,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8111,
@@ -7587,7 +8345,8 @@
     "lat": 31.9335,
     "lon": 130.86233,
     "hyoukou": 1672,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 5
   },
   {
     "kansokutenno": 8112,
@@ -7597,7 +8356,8 @@
     "lat": 30.43067,
     "lon": 130.2205,
     "hyoukou": 361,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8113,
@@ -7607,7 +8367,8 @@
     "lat": 35.24633,
     "lon": 139.01867,
     "hyoukou": 985,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8114,
@@ -7617,7 +8378,8 @@
     "lat": 30.47933,
     "lon": 130.2015,
     "hyoukou": 26,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8115,
@@ -7627,7 +8389,8 @@
     "lat": 30.4455,
     "lon": 130.23817,
     "hyoukou": 248,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8116,
@@ -7637,7 +8400,8 @@
     "lat": 35.249,
     "lon": 139.02083,
     "hyoukou": 885,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8117,
@@ -7647,7 +8411,8 @@
     "lat": 35.221,
     "lon": 139.00817,
     "hyoukou": 899,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8118,
@@ -7657,7 +8422,8 @@
     "lat": 35.22783,
     "lon": 139.04367,
     "hyoukou": 866,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8119,
@@ -7667,7 +8433,8 @@
     "lat": 35.24283,
     "lon": 139.01983,
     "hyoukou": 1042,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 3
   },
   {
     "kansokutenno": 8120,
@@ -7677,7 +8444,8 @@
     "lat": 35.891,
     "lon": 137.47833,
     "hyoukou": 2925,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8121,
@@ -7687,7 +8455,8 @@
     "lat": 35.24817,
     "lon": 139.037,
     "hyoukou": 706,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8122,
@@ -7697,7 +8466,8 @@
     "lat": 43.62183,
     "lon": 144.423,
     "hyoukou": 222,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8124,
@@ -7707,7 +8477,8 @@
     "lat": 43.67283,
     "lon": 142.83783,
     "hyoukou": 1711,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8125,
@@ -7717,7 +8488,8 @@
     "lat": 43.425,
     "lon": 142.6855,
     "hyoukou": 1814,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8127,
@@ -7727,7 +8499,8 @@
     "lat": 42.50733,
     "lon": 141.14683,
     "hyoukou": 291,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8129,
@@ -7737,7 +8510,8 @@
     "lat": 42.07233,
     "lon": 140.69967,
     "hyoukou": 783,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8130,
@@ -7747,7 +8521,8 @@
     "lat": 41.8075,
     "lon": 141.1525,
     "hyoukou": 325,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8131,
@@ -7757,7 +8532,8 @@
     "lat": 40.651,
     "lon": 140.30117,
     "hyoukou": 1500,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8132,
@@ -7767,7 +8543,8 @@
     "lat": 40.662,
     "lon": 140.82583,
     "hyoukou": 708,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8133,
@@ -7777,7 +8554,8 @@
     "lat": 40.64833,
     "lon": 140.851,
     "hyoukou": 898,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8134,
@@ -7787,7 +8565,8 @@
     "lat": 40.40233,
     "lon": 140.8645,
     "hyoukou": 599,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8135,
@@ -7797,7 +8576,8 @@
     "lat": 40.42933,
     "lon": 140.89733,
     "hyoukou": 409,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8136,
@@ -7807,7 +8587,8 @@
     "lat": 39.95733,
     "lon": 140.72067,
     "hyoukou": 813,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8137,
@@ -7817,7 +8598,8 @@
     "lat": 39.85083,
     "lon": 140.96467,
     "hyoukou": 1505,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8138,
@@ -7827,7 +8609,8 @@
     "lat": 39.73833,
     "lon": 140.78017,
     "hyoukou": 1079,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8139,
@@ -7837,7 +8620,8 @@
     "lat": 39.11783,
     "lon": 140.06117,
     "hyoukou": 1477,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8140,
@@ -7847,7 +8631,8 @@
     "lat": 38.97783,
     "lon": 140.77033,
     "hyoukou": 1140,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8141,
@@ -7857,7 +8642,8 @@
     "lat": 38.14367,
     "lon": 140.44933,
     "hyoukou": 1761,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8142,
@@ -7867,7 +8653,8 @@
     "lat": 37.722,
     "lon": 140.24633,
     "hyoukou": 1650,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8143,
@@ -7877,7 +8664,8 @@
     "lat": 37.64833,
     "lon": 140.27883,
     "hyoukou": 1675,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8144,
@@ -7887,7 +8675,8 @@
     "lat": 37.61383,
     "lon": 140.05983,
     "hyoukou": 1320,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8145,
@@ -7897,7 +8686,8 @@
     "lat": 37.12133,
     "lon": 139.96067,
     "hyoukou": 1691,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8146,
@@ -7907,7 +8697,8 @@
     "lat": 36.803,
     "lon": 139.37417,
     "hyoukou": 2338,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8147,
@@ -7917,7 +8708,8 @@
     "lat": 36.6395,
     "lon": 138.5335,
     "hyoukou": 2020,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8148,
@@ -7927,7 +8719,8 @@
     "lat": 36.93533,
     "lon": 138.03817,
     "hyoukou": 1562,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8149,
@@ -7937,7 +8730,8 @@
     "lat": 36.57667,
     "lon": 137.59583,
     "hyoukou": 2419,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8150,
@@ -7947,7 +8741,8 @@
     "lat": 36.58567,
     "lon": 137.5905,
     "hyoukou": 2375,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8151,
@@ -7957,7 +8752,8 @@
     "lat": 36.22067,
     "lon": 137.59383,
     "hyoukou": 2024,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8152,
@@ -7967,7 +8763,8 @@
     "lat": 36.12483,
     "lon": 137.55967,
     "hyoukou": 2726,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8153,
@@ -7977,7 +8774,8 @@
     "lat": 35.90017,
     "lon": 137.511,
     "hyoukou": 2130,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8154,
@@ -7987,7 +8785,8 @@
     "lat": 35.91567,
     "lon": 137.41933,
     "hyoukou": 1797,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8155,
@@ -7997,7 +8796,8 @@
     "lat": 35.92817,
     "lon": 137.4685,
     "hyoukou": 2065,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8156,
@@ -8007,7 +8807,8 @@
     "lat": 35.92483,
     "lon": 137.49983,
     "hyoukou": 2130,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8157,
@@ -8017,7 +8818,8 @@
     "lat": 35.85417,
     "lon": 137.45517,
     "hyoukou": 1663,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8158,
@@ -8027,7 +8829,8 @@
     "lat": 35.89667,
     "lon": 137.4845,
     "hyoukou": 2920,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8159,
@@ -8037,7 +8840,8 @@
     "lat": 35.85133,
     "lon": 137.41183,
     "hyoukou": 1518,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8160,
@@ -8047,7 +8851,8 @@
     "lat": 36.14333,
     "lon": 136.8075,
     "hyoukou": 1603,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8161,
@@ -8057,7 +8862,8 @@
     "lat": 35.24567,
     "lon": 139.01767,
     "hyoukou": 990,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8162,
@@ -8067,7 +8873,8 @@
     "lat": 34.97583,
     "lon": 139.131,
     "hyoukou": 4,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8163,
@@ -8077,7 +8884,8 @@
     "lat": 34.34117,
     "lon": 139.26633,
     "hyoukou": 214,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8164,
@@ -8087,7 +8895,8 @@
     "lat": 34.20933,
     "lon": 139.15017,
     "hyoukou": 219,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8165,
@@ -8097,7 +8906,8 @@
     "lat": 33.134,
     "lon": 139.75783,
     "hyoukou": 595,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8166,
@@ -8107,7 +8917,8 @@
     "lat": 32.44867,
     "lon": 139.76783,
     "hyoukou": 87,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8167,
@@ -8117,7 +8928,8 @@
     "lat": 24.7875,
     "lon": 141.33683,
     "hyoukou": 110,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8168,
@@ -8127,7 +8939,8 @@
     "lat": 33.30483,
     "lon": 131.4215,
     "hyoukou": 1194,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8169,
@@ -8137,7 +8950,8 @@
     "lat": 33.09733,
     "lon": 131.24167,
     "hyoukou": 1501,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8170,
@@ -8147,7 +8961,8 @@
     "lat": 32.76017,
     "lon": 130.29367,
     "hyoukou": 1341,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8171,
@@ -8157,7 +8972,8 @@
     "lat": 31.95033,
     "lon": 130.85683,
     "hyoukou": 1225,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8172,
@@ -8167,7 +8983,8 @@
     "lat": 30.806,
     "lon": 130.30333,
     "hyoukou": 30,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8173,
@@ -8177,7 +8994,8 @@
     "lat": 29.62833,
     "lon": 129.7165,
     "hyoukou": 358,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8175,
@@ -8187,7 +9005,8 @@
     "lat": 30.45383,
     "lon": 130.22017,
     "hyoukou": 574,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8176,
@@ -8197,7 +9016,8 @@
     "lat": 31.94517,
     "lon": 130.8535,
     "hyoukou": 1314,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8177,
@@ -8207,7 +9027,8 @@
     "lat": 32.8965,
     "lon": 131.10083,
     "hyoukou": 977,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8178,
@@ -8217,7 +9038,8 @@
     "lat": 32.87967,
     "lon": 131.07633,
     "hyoukou": 1170,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8179,
@@ -8227,7 +9049,8 @@
     "lat": 32.88367,
     "lon": 131.08267,
     "hyoukou": 1220,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8180,
@@ -8237,7 +9060,8 @@
     "lat": 32.88483,
     "lon": 131.09667,
     "hyoukou": 1453,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8181,
@@ -8247,7 +9071,8 @@
     "lat": 32.89,
     "lon": 131.09017,
     "hyoukou": 1275,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8182,
@@ -8257,7 +9082,8 @@
     "lat": 37.08483,
     "lon": 139.9355,
     "hyoukou": 881,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8183,
@@ -8267,7 +9093,8 @@
     "lat": 37.19033,
     "lon": 139.92317,
     "hyoukou": 903,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8184,
@@ -8277,7 +9104,8 @@
     "lat": 37.15883,
     "lon": 140.02233,
     "hyoukou": 959,
-    "shozokuno": 63
+    "shozokuno": 63,
+    "centerno": 3
   },
   {
     "kansokutenno": 8185,
@@ -8287,7 +9115,8 @@
     "lat": 30.45017,
     "lon": 130.21833,
     "hyoukou": 590,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8186,
@@ -8297,7 +9126,8 @@
     "lat": 30.43917,
     "lon": 130.21833,
     "hyoukou": 515,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8187,
@@ -8307,7 +9137,8 @@
     "lat": 36.8695,
     "lon": 137.97317,
     "hyoukou": 1177,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8188,
@@ -8317,7 +9148,8 @@
     "lat": 42.4985,
     "lon": 141.147,
     "hyoukou": 225,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8189,
@@ -8327,7 +9159,8 @@
     "lat": 42.498,
     "lon": 141.14567,
     "hyoukou": 216,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8190,
@@ -8337,7 +9170,8 @@
     "lat": 38.19333,
     "lon": 140.43917,
     "hyoukou": 604,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8191,
@@ -8347,7 +9181,8 @@
     "lat": 36.215,
     "lon": 137.55267,
     "hyoukou": 1314,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8192,
@@ -8357,7 +9192,8 @@
     "lat": 33.28667,
     "lon": 131.4125,
     "hyoukou": 834,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8193,
@@ -8367,7 +9203,8 @@
     "lat": 36.342,
     "lon": 138.54733,
     "hyoukou": 999,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8195,
@@ -8377,7 +9214,8 @@
     "lat": 30.47367,
     "lon": 130.20333,
     "hyoukou": 132,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8196,
@@ -8387,7 +9225,8 @@
     "lat": 33.10833,
     "lon": 131.25967,
     "hyoukou": 1163,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8198,
@@ -8397,7 +9236,8 @@
     "lat": 43.425,
     "lon": 144.08467,
     "hyoukou": 476,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8201,
@@ -8407,7 +9247,8 @@
     "lat": 36.90133,
     "lon": 138.14767,
     "hyoukou": 1081,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8203,
@@ -8417,7 +9258,8 @@
     "lat": 39.1735,
     "lon": 140.12067,
     "hyoukou": 494,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8204,
@@ -8427,7 +9269,8 @@
     "lat": 31.18783,
     "lon": 130.51233,
     "hyoukou": 40,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8205,
@@ -8437,7 +9280,8 @@
     "lat": 29.85367,
     "lon": 129.858,
     "hyoukou": 668,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8206,
@@ -8447,7 +9291,8 @@
     "lat": 36.62783,
     "lon": 138.56383,
     "hyoukou": 1547,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8207,
@@ -8457,7 +9302,8 @@
     "lat": 36.63167,
     "lon": 138.53783,
     "hyoukou": 2017,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8211,
@@ -8467,7 +9313,8 @@
     "lat": 35.92367,
     "lon": 137.451,
     "hyoukou": 1795,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 8212,
@@ -8477,7 +9324,8 @@
     "lat": 35.92833,
     "lon": 137.437,
     "hyoukou": 1676,
-    "shozokuno": 40
+    "shozokuno": 40,
+    "centerno": 3
   },
   {
     "kansokutenno": 8213,
@@ -8487,7 +9335,8 @@
     "lat": 36.23533,
     "lon": 137.60867,
     "hyoukou": 1588,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 3
   },
   {
     "kansokutenno": 8214,
@@ -8497,7 +9346,8 @@
     "lat": 36.23483,
     "lon": 137.59183,
     "hyoukou": 2111,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 3
   },
   {
     "kansokutenno": 8215,
@@ -8507,7 +9357,8 @@
     "lat": 36.2235,
     "lon": 137.6105,
     "hyoukou": 1526,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 3
   },
   {
     "kansokutenno": 8216,
@@ -8517,7 +9368,8 @@
     "lat": 36.22817,
     "lon": 137.591,
     "hyoukou": 2412,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 3
   },
   {
     "kansokutenno": 8217,
@@ -8527,7 +9379,8 @@
     "lat": 43.60617,
     "lon": 144.44583,
     "hyoukou": 210,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8218,
@@ -8537,7 +9390,8 @@
     "lat": 37.56283,
     "lon": 140.26183,
     "hyoukou": 638,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8219,
@@ -8547,7 +9401,8 @@
     "lat": 36.88017,
     "lon": 138.0535,
     "hyoukou": 1266,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8220,
@@ -8557,7 +9412,8 @@
     "lat": 36.8805,
     "lon": 138.05417,
     "hyoukou": 1262,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8221,
@@ -8567,7 +9423,8 @@
     "lat": 30.78733,
     "lon": 130.277,
     "hyoukou": 85,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   },
   {
     "kansokutenno": 8222,
@@ -8577,7 +9434,8 @@
     "lat": 36.63433,
     "lon": 138.51,
     "hyoukou": 1675,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 8223,
@@ -8587,7 +9445,8 @@
     "lat": 36.601,
     "lon": 138.571,
     "hyoukou": 1275,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 8224,
@@ -8597,7 +9456,8 @@
     "lat": 36.59683,
     "lon": 138.54367,
     "hyoukou": 1465,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 8225,
@@ -8607,7 +9467,8 @@
     "lat": 42.47767,
     "lon": 140.90967,
     "hyoukou": 178,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 8226,
@@ -8617,7 +9478,8 @@
     "lat": 43.433,
     "lon": 142.6675,
     "hyoukou": 1323,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 8227,
@@ -8627,7 +9489,8 @@
     "lat": 43.42567,
     "lon": 142.66883,
     "hyoukou": 1590,
-    "shozokuno": 10
+    "shozokuno": 10,
+    "centerno": 1
   },
   {
     "kansokutenno": 8228,
@@ -8637,7 +9500,8 @@
     "lat": 31.58417,
     "lon": 130.64183,
     "hyoukou": 544,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8229,
@@ -8647,7 +9511,8 @@
     "lat": 31.54567,
     "lon": 130.6155,
     "hyoukou": 5,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8230,
@@ -8657,7 +9522,8 @@
     "lat": 31.61883,
     "lon": 130.72417,
     "hyoukou": 14,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8231,
@@ -8667,7 +9533,8 @@
     "lat": 31.19467,
     "lon": 130.535,
     "hyoukou": 115,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8232,
@@ -8677,7 +9544,8 @@
     "lat": 29.63667,
     "lon": 129.713,
     "hyoukou": 727,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8233,
@@ -8687,7 +9555,8 @@
     "lat": 29.61567,
     "lon": 129.7055,
     "hyoukou": 105,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8234,
@@ -8697,7 +9566,8 @@
     "lat": 36.60067,
     "lon": 138.53733,
     "hyoukou": 1560,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 8235,
@@ -8707,7 +9577,8 @@
     "lat": 38.13067,
     "lon": 140.4655,
     "hyoukou": 1445,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8236,
@@ -8717,7 +9588,8 @@
     "lat": 33.28617,
     "lon": 131.42983,
     "hyoukou": 1360,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8237,
@@ -8727,7 +9599,8 @@
     "lat": 33.11717,
     "lon": 131.224,
     "hyoukou": 1060,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8238,
@@ -8737,7 +9610,8 @@
     "lat": 33.05417,
     "lon": 131.23083,
     "hyoukou": 910,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8239,
@@ -8747,7 +9621,8 @@
     "lat": 39.80817,
     "lon": 140.79883,
     "hyoukou": 810,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8240,
@@ -8757,7 +9632,8 @@
     "lat": 38.13683,
     "lon": 140.479,
     "hyoukou": 1280,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8241,
@@ -8767,7 +9643,8 @@
     "lat": 37.71183,
     "lon": 140.2305,
     "hyoukou": 1975,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8242,
@@ -8777,7 +9654,8 @@
     "lat": 36.66567,
     "lon": 138.4555,
     "hyoukou": 1447,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 8243,
@@ -8787,7 +9665,8 @@
     "lat": 36.61067,
     "lon": 138.55783,
     "hyoukou": 1585,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 8244,
@@ -8797,7 +9676,8 @@
     "lat": 36.63483,
     "lon": 138.51967,
     "hyoukou": 1810,
-    "shozokuno": 32
+    "shozokuno": 32,
+    "centerno": 3
   },
   {
     "kansokutenno": 8245,
@@ -8807,7 +9687,8 @@
     "lat": 32.8785,
     "lon": 131.0775,
     "hyoukou": 1140,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8246,
@@ -8817,7 +9698,8 @@
     "lat": 36.66583,
     "lon": 138.53467,
     "hyoukou": 2157,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8247,
@@ -8827,7 +9709,8 @@
     "lat": 39.1345,
     "lon": 140.072,
     "hyoukou": 1139,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 8248,
@@ -8837,7 +9720,8 @@
     "lat": 32.74867,
     "lon": 130.27517,
     "hyoukou": 814,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 8249,
@@ -8847,7 +9731,8 @@
     "lat": 32.74467,
     "lon": 130.23333,
     "hyoukou": 259,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 8250,
@@ -8857,7 +9742,8 @@
     "lat": 32.797,
     "lon": 130.01167,
     "hyoukou": 130,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 8251,
@@ -8867,7 +9753,8 @@
     "lat": 31.94767,
     "lon": 130.84517,
     "hyoukou": 1203,
-    "shozokuno": 52
+    "shozokuno": 52,
+    "centerno": 5
   },
   {
     "kansokutenno": 8252,
@@ -8877,7 +9764,8 @@
     "lat": 36.39733,
     "lon": 138.49667,
     "hyoukou": 2034,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8253,
@@ -8887,7 +9775,8 @@
     "lat": 36.41133,
     "lon": 138.50317,
     "hyoukou": 2105,
-    "shozokuno": 30
+    "shozokuno": 30,
+    "centerno": 3
   },
   {
     "kansokutenno": 8254,
@@ -8897,7 +9786,8 @@
     "lat": 37.72983,
     "lon": 140.25783,
     "hyoukou": 1490,
-    "shozokuno": 20
+    "shozokuno": 20,
+    "centerno": 2
   },
   {
     "kansokutenno": 8255,
@@ -8907,7 +9797,8 @@
     "lat": 29.632,
     "lon": 129.7065,
     "hyoukou": 610,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8256,
@@ -8917,7 +9808,8 @@
     "lat": 30.44883,
     "lon": 130.20183,
     "hyoukou": 185,
-    "shozokuno": 51
+    "shozokuno": 51,
+    "centerno": 5
   },
   {
     "kansokutenno": 8257,
@@ -8927,7 +9819,8 @@
     "lat": 43.60633,
     "lon": 144.445,
     "hyoukou": 244,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8258,
@@ -8937,7 +9830,8 @@
     "lat": 43.618,
     "lon": 144.45683,
     "hyoukou": 158,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 8259,
@@ -8947,7 +9841,8 @@
     "lat": 36.27267,
     "lon": 137.57617,
     "hyoukou": 1179,
-    "shozokuno": 72
+    "shozokuno": 72,
+    "centerno": 3
   },
   {
     "kansokutenno": 8260,
@@ -8957,7 +9852,8 @@
     "lat": 30.44944,
     "lon": 130.20512,
     "hyoukou": 243,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8261,
@@ -8967,7 +9863,8 @@
     "lat": 30.44226,
     "lon": 130.21086,
     "hyoukou": 403,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 8262,
@@ -8977,7 +9874,8 @@
     "lat": 30.43923,
     "lon": 130.21825,
     "hyoukou": 515,
-    "shozokuno": 50
+    "shozokuno": 50,
+    "centerno": 5
   },
   {
     "kansokutenno": 9201,
@@ -8987,7 +9885,8 @@
     "lat": 37.72117,
     "lon": 140.25117,
     "hyoukou": 1579,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 91000,
@@ -8997,7 +9896,8 @@
     "lat": 43.608,
     "lon": 144.5635,
     "hyoukou": 509,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 91001,
@@ -9007,7 +9907,8 @@
     "lat": 43.51333,
     "lon": 144.58983,
     "hyoukou": 282,
-    "shozokuno": 70
+    "shozokuno": 70,
+    "centerno": 1
   },
   {
     "kansokutenno": 92000,
@@ -9017,7 +9918,8 @@
     "lat": 41.326,
     "lon": 141.09767,
     "hyoukou": 219,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 92001,
@@ -9027,7 +9929,8 @@
     "lat": 38.73533,
     "lon": 140.72533,
     "hyoukou": 311,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 92002,
@@ -9037,7 +9940,8 @@
     "lat": 37.44067,
     "lon": 139.54483,
     "hyoukou": 768,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 92003,
@@ -9047,7 +9951,8 @@
     "lat": 37.58383,
     "lon": 140.081,
     "hyoukou": 1000,
-    "shozokuno": 71
+    "shozokuno": 71,
+    "centerno": 2
   },
   {
     "kansokutenno": 95000,
@@ -9057,6 +9962,7 @@
     "lat": 29.95717,
     "lon": 129.93217,
     "hyoukou": 258,
-    "shozokuno": 74
+    "shozokuno": 74,
+    "centerno": 5
   }
 ]
