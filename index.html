@@ -14,10 +14,7 @@
     #panel { padding: 12px; border-right: 1px solid #ddd; overflow: auto; }
     #panel h2 { margin: 0 0 8px; font-size: 18px; display:flex; gap:8px; align-items:center; flex-wrap: wrap; }
     #panel .hint { color: #555; font-size: 12px; margin: 6px 0 10px; }
-    #filters { margin: 8px 0 10px; padding:10px; border:1px solid #eee; border-radius:8px; }
-    #filters .row { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
-    #filters .chips { display:flex; gap:8px; flex-wrap:wrap; margin-top:6px; }
-    #filters .chip { display:flex; align-items:center; gap:6px; padding:6px 8px; border:1px solid #e5e7eb; border-radius:8px; background:#fafafa; }
+    #filters { margin: 8px 0 10px; padding:10px; border:1px solid #eee; border-radius:8px; display:grid; gap:8px; }
     #station-list { display: grid; gap: 6px; max-height: 40vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
     #actions { margin-top: 10px; display: grid; gap: 8px; }
     button { padding: 10px 12px; border: 0; border-radius: 8px; cursor: pointer; font-weight: 600; }
@@ -25,9 +22,11 @@
     #clearBtn { background: #f1f5f9; }
     #map { width: 100%; height: 100%; }
     .badge { display:inline-block; padding:2px 6px; border-radius:6px; background:#eef2ff; color:#3730a3; font-size:11px; }
-    .popup-table { border-collapse: collapse; font-size: 12px; }
+    .popup-table { border-collapse: collapse; font-size: 12px; width:100%; }
     .popup-table td { padding: 2px 6px; border-bottom: 1px solid #eee; }
     .legend { position: absolute; bottom: 12px; left: 12px; background: rgba(255,255,255,0.9); padding: 8px 10px; border-radius: 8px; border:1px solid #ddd; font-size: 12px; }
+    #resultBox { margin-top:10px; padding:10px; border:1px solid #eee; border-radius:8px; background:#fafafa; font-size:13px; }
+    #resultBox .title { font-weight:700; margin-bottom:6px; display:flex; justify-content:space-between; align-items:center; }
   </style>
 </head>
 <body>
@@ -39,17 +38,15 @@
         <span id="countBadge" class="badge" style="display:none"></span>
       </h2>
 
-      <!-- shozokuno フィルタ -->
+      <!-- centerno フィルタ（単一選択） -->
       <div id="filters">
-        <div class="row">
-          <strong>shozokuno フィルタ</strong>
-          <span id="filterCount" class="badge" style="display:none"></span>
-        </div>
-        <div class="chips" id="shozokuChips">読み込み中…</div>
-        <div class="row" style="margin-top:6px">
-          <button id="selectAllBtn" style="background:#e2e8f0">全選択</button>
-          <button id="unselectAllBtn" style="background:#e2e8f0">全解除</button>
-        </div>
+        <label>
+          <strong>センター（centerno）</strong><br/>
+          <select id="centerSelect" style="margin-top:6px; padding:6px; border-radius:8px; border:1px solid #e5e7eb; width:100%">
+            <option value="__all__">(すべて)</option>
+          </select>
+        </label>
+        <span id="filterCount" class="badge" style="display:none"></span>
       </div>
 
       <div id="station-list">読み込み中…</div>
@@ -59,9 +56,19 @@
         <button id="clearBtn">クリア</button>
       </div>
 
+      <!-- 結果表示（左パネルに固定） -->
+      <div id="resultBox">
+        <div class="title">
+          <span>到達時間（クリック地点）</span>
+          <span class="badge" id="resultHint">未計算</span>
+        </div>
+        <div id="resultBody">地図をクリックしてください。</div>
+      </div>
+
       <div class="hint">
         地図をクリックすると、その地点→選択観測点までの<strong>水平距離</strong>と、
-        音速 <b>340 m/s</b> 仮定の到達時間、<b>ch1 − ch2（符号付き）</b> の時間差を表示。
+        音速 <b>340 m/s</b> 仮定の到達時間、<b>ch1 − ch2（符号付き）</b> の時間差を
+        左のこのパネルに表示します。
       </div>
       <div class="hint">タイル: 地理院タイル（淡色） / 距離: Leaflet の球面近似</div>
     </aside>
@@ -86,9 +93,15 @@
 
     // 状態
     let allStations = [];       // 全観測点
-    let filteredStations = [];  // フィルタ後に表示する観測点
+    let filteredStations = [];  // フィルタ後
     let selected = [];          // 2点まで
-    let selectedShozoku = new Set(); // 選択中の shozokuno（数値）
+    let selectedCenter = "__all__"; // centerno 単一
+
+    // 要素
+    const centerSelect = document.getElementById('centerSelect');
+    const filterCount = document.getElementById('filterCount');
+    const resultBody = document.getElementById('resultBody');
+    const resultHint = document.getElementById('resultHint');
 
     // 初期化
     init();
@@ -110,7 +123,8 @@
           latDec: Number(s.lat),
           lonDec: Number(s.lon),
           hyoukou: Number(s.hyoukou),
-          shozokuno: Number(s.shozokuno)
+          shozokuno: Number(s.shozokuno),
+          centerno: Number(s.centerno)
         })).filter(s => Number.isFinite(s.latDec) && Number.isFinite(s.lonDec));
 
         if (allStations.length === 0) {
@@ -118,13 +132,21 @@
           return;
         }
 
-        // shozokuno 値を抽出し、初期は全選択
-        const uniqShozoku = [...new Set(allStations.map(s => s.shozokuno).filter(n => Number.isFinite(n)))].sort((a,b)=>a-b);
-        uniqShozoku.forEach(v => selectedShozoku.add(v));
+        // centerno → セレクト
+        const uniqCenters = [...new Set(allStations.map(s => s.centerno).filter(n => Number.isFinite(n)))].sort((a,b)=>a-b);
+        uniqCenters.forEach(v => {
+          const opt = document.createElement('option');
+          opt.value = String(v);
+          opt.textContent = `centerno: ${v}`;
+          centerSelect.appendChild(opt);
+        });
+        centerSelect.onchange = () => {
+          selectedCenter = centerSelect.value;
+          clearSelectionAndLayers();
+          applyFilterAndRender();
+        };
 
-        buildShozokuFilter(uniqShozoku);
-
-        // 初回フィルタ適用
+        // 初期レンダリング
         applyFilterAndRender();
 
         // 件数バッジ
@@ -140,62 +162,31 @@
         // 地図クリック
         map.on('click', onMapClick);
 
+        // ボタン
+        document.getElementById('showBtn').onclick = onShow;
+        document.getElementById('clearBtn').onclick = clearAll;
+
       } catch (e) {
         document.getElementById('station-list').textContent = '観測点の読み込みに失敗。コンソールを確認してください。';
         console.error(e);
       }
     }
 
-    // === フィルタUI ===
-    function buildShozokuFilter(values) {
-      const wrap = document.getElementById('shozokuChips');
-      wrap.innerHTML = '';
-      values.forEach(v => {
-        const id = `shz-${v}`;
-        const div = document.createElement('label');
-        div.className = 'chip';
-        div.innerHTML = `
-          <input type="checkbox" id="${id}" value="${v}" checked>
-          <span>shozokuno: ${v}</span>
-        `;
-        const cb = div.querySelector('input');
-        cb.addEventListener('change', () => {
-          if (cb.checked) selectedShozoku.add(Number(v));
-          else selectedShozoku.delete(Number(v));
-          // フィルタ変更時は選択をクリア
-          selected = [];
-          stationLayer.clearLayers();
-          linkLayer.clearLayers();
-          applyFilterAndRender();
-        });
-        wrap.appendChild(div);
-      });
-
-      document.getElementById('selectAllBtn').onclick = () => {
-        values.forEach(v => selectedShozoku.add(Number(v)));
-        wrap.querySelectorAll('input[type="checkbox"]').forEach(el => el.checked = true);
-        selected = []; stationLayer.clearLayers(); linkLayer.clearLayers();
-        applyFilterAndRender();
-      };
-      document.getElementById('unselectAllBtn').onclick = () => {
-        selectedShozoku.clear();
-        wrap.querySelectorAll('input[type="checkbox"]').forEach(el => el.checked = false);
-        selected = []; stationLayer.clearLayers(); linkLayer.clearLayers();
-        applyFilterAndRender();
-      };
-    }
-
     function applyFilterAndRender() {
-      filteredStations = allStations.filter(s => selectedShozoku.has(s.shozokuno));
+      if (selectedCenter === "__all__") {
+        filteredStations = allStations.slice();
+      } else {
+        const cno = Number(selectedCenter);
+        filteredStations = allStations.filter(s => s.centerno === cno);
+      }
       renderStationList(filteredStations);
 
-      // フィルタ件数バッジ
-      const fc = document.getElementById('filterCount');
-      fc.textContent = `${filteredStations.length}件`;
-      fc.style.display = 'inline-block';
+      // フィルタ件数
+      filterCount.textContent = `${filteredStations.length}件`;
+      filterCount.style.display = 'inline-block';
     }
 
-    // === 観測点リスト描画 ===
+    // 観測点リスト
     function renderStationList(stations) {
       const wrap = document.getElementById('station-list');
       wrap.innerHTML = '';
@@ -211,17 +202,15 @@
             <input type="checkbox" id="${id}" value="${s.id}">
             <span>${escapeHtml(s.name)}</span>
             <span style="color:#64748b;font-size:11px">(${escapeHtml(s.code)})</span>
-            <span class="badge" title="shozokuno">${Number.isFinite(s.shozokuno) ? s.shozokuno : '-'}</span>
+            <span class="badge" title="centerno">${Number.isFinite(s.centerno) ? s.centerno : '-'}</span>
           </label>`;
         const cb = div.querySelector('input');
         cb.addEventListener('change', () => handleCheckChange(cb, s));
         wrap.appendChild(div);
       });
-      document.getElementById('showBtn').onclick = onShow;
-      document.getElementById('clearBtn').onclick = clearAll;
     }
 
-    // === 選択 ===
+    // 選択
     function handleCheckChange(cb, station) {
       if (cb.checked) {
         if (selected.length >= 2) {
@@ -235,7 +224,7 @@
       }
     }
 
-    // === 表示（マーカー） ===
+    // 表示（マーカー）
     function onShow() {
       if (selected.length !== 2) { alert('観測点をちょうど2つ選択してください。'); return; }
       stationLayer.clearLayers();
@@ -252,15 +241,19 @@
       map.fitBounds(group.getBounds().pad(0.25));
     }
 
-    // === クリア ===
+    // クリア
     function clearAll() {
       document.querySelectorAll('#station-list input[type="checkbox"]').forEach(cb => cb.checked = false);
+      clearSelectionAndLayers();
+      showResultPlaceholder();
+    }
+    function clearSelectionAndLayers() {
       selected = [];
       stationLayer.clearLayers();
       linkLayer.clearLayers();
     }
 
-    // === 地図クリック：距離→時間・差 ===
+    // 地図クリック：距離→時間・差（左パネルに表示）
     function onMapClick(e) {
       if (selected.length !== 2) { return; }
       const p = e.latlng;
@@ -279,18 +272,26 @@
       const dt = r1_time - r2_time; // ch1 - ch2（符号付き）
 
       const html = `
-        <div style="min-width:260px">
-          <div style="font-weight:700;margin-bottom:6px">クリック地点からの到達時間</div>
-          <table class="popup-table">
-            <tr><td>ch1: ${escapeHtml(ch1.name)}</td><td>${(r1_dist/1000).toFixed(3)} km</td><td>${r1_time.toFixed(2)} s</td></tr>
-            <tr><td>ch2: ${escapeHtml(ch2.name)}</td><td>${(r2_dist/1000).toFixed(3)} km</td><td>${r2_time.toFixed(2)} s</td></tr>
-            <tr><td style="font-weight:700">ch1 - ch2</td><td colspan="2" style="font-weight:700">${formatSigned(dt)} s</td></tr>
-          </table>
-        </div>`;
-      L.popup({ closeOnClick: true }).setLatLng(p).setContent(html).openOn(map);
+        <div style="margin-bottom:6px;color:#475569">クリック座標: ${p.lat.toFixed(5)}, ${p.lng.toFixed(5)}</div>
+        <table class="popup-table">
+          <tr><td>ch1: ${escapeHtml(ch1.name)}</td><td style="text-align:right">${(r1_dist/1000).toFixed(3)} km</td><td style="text-align:right">${r1_time.toFixed(2)} s</td></tr>
+          <tr><td>ch2: ${escapeHtml(ch2.name)}</td><td style="text-align:right">${(r2_dist/1000).toFixed(3)} km</td><td style="text-align:right">${r2_time.toFixed(2)} s</td></tr>
+          <tr><td style="font-weight:700">ch1 - ch2</td><td colspan="2" style="font-weight:700; text-align:right">${formatSigned(dt)} s</td></tr>
+        </table>`;
+      showResult(html);
     }
 
-    // === ユーティリティ ===
+    // 結果表示
+    function showResult(html) {
+      resultBody.innerHTML = html;
+      resultHint.textContent = '更新';
+    }
+    function showResultPlaceholder() {
+      resultBody.innerHTML = '地図をクリックしてください。';
+      resultHint.textContent = '未計算';
+    }
+
+    // ユーティリティ
     function formatSigned(x, digits = 2) {
       const v = Number(x);
       if (!Number.isFinite(v)) return String(x);
