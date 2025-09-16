@@ -14,8 +14,8 @@
     #panel { padding: 12px; border-right: 1px solid #ddd; overflow: auto; }
     #panel h2 { margin: 0 0 8px; font-size: 18px; display:flex; gap:8px; align-items:center; flex-wrap: wrap; }
     #panel .hint { color: #555; font-size: 12px; margin: 6px 0 10px; }
-    #filters { margin: 8px 0 10px; padding:10px; border:1px solid #eee; border-radius:8px; display:grid; gap:8px; }
-    #station-list { display: grid; gap: 6px; max-height: 40vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
+    #filters { margin: 8px 0 10px; padding:10px; border:1px solid #eee; border-radius:8px; display:grid; gap:10px; }
+    #station-list { display: grid; gap: 6px; max-height: 25vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
     #actions { margin-top: 10px; display: grid; gap: 8px; }
     button { padding: 10px 12px; border: 0; border-radius: 8px; cursor: pointer; font-weight: 600; }
     #showBtn { background: #2563eb; color: #fff; }
@@ -27,6 +27,7 @@
     .legend { position: absolute; bottom: 12px; left: 12px; background: rgba(255,255,255,0.9); padding: 8px 10px; border-radius: 8px; border:1px solid #ddd; font-size: 12px; }
     #resultBox { margin-top:10px; padding:10px; border:1px solid #eee; border-radius:8px; background:#fafafa; font-size:13px; }
     #resultBox .title { font-weight:700; margin-bottom:6px; display:flex; justify-content:space-between; align-items:center; }
+    select, option { font-size: 14px; }
   </style>
 </head>
 <body>
@@ -38,25 +39,33 @@
         <span id="countBadge" class="badge" style="display:none"></span>
       </h2>
 
-      <!-- centerno フィルタ（単一選択） -->
+      <!-- フィルタ：①センター、②火山（ネット） -->
       <div id="filters">
         <label>
           <strong>センター（centerno）</strong><br/>
           <select id="centerSelect" style="margin-top:6px; padding:6px; border-radius:8px; border:1px solid #e5e7eb; width:100%">
-            <option value="__all__">(すべて)</option>
+            <option value="">（選択してください）</option>
           </select>
         </label>
+
+        <label>
+          <strong>火山（kazannet / netnm）</strong><br/>
+          <select id="volcanoSelect" disabled style="margin-top:6px; padding:6px; border-radius:8px; border:1px solid #e5e7eb; width:100%">
+            <option value="">（センターを先に選択）</option>
+          </select>
+        </label>
+
         <span id="filterCount" class="badge" style="display:none"></span>
       </div>
 
-      <div id="station-list">読み込み中…</div>
+      <div id="station-list">センターと火山を選択してください。</div>
 
       <div id="actions">
         <button id="showBtn">表示</button>
         <button id="clearBtn">クリア</button>
       </div>
 
-      <!-- 結果表示（左パネルに固定） -->
+      <!-- 結果（左パネル） -->
       <div id="resultBox">
         <div class="title">
           <span>到達時間（クリック地点）</span>
@@ -66,16 +75,15 @@
       </div>
 
       <div class="hint">
-        地図をクリックすると、その地点→選択観測点までの<strong>水平距離</strong>と、
-        音速 <b>340 m/s</b> 仮定の到達時間、<b>ch1 − ch2（符号付き）</b> の時間差を
-        左のこのパネルに表示します。
+        地図クリックで、その地点→選択2観測点の<strong>距離</strong>と
+        音速 <b>340 m/s</b> 仮定の到達時間、<b>ch1 − ch2（符号付き）</b> を表示します。
       </div>
       <div class="hint">タイル: 地理院タイル（淡色） / 距離: Leaflet の球面近似</div>
     </aside>
 
     <div style="position:relative">
       <div id="map"></div>
-      <div class="legend">操作: 観測点を2つ選んで「表示」→地図をクリック</div>
+      <div class="legend">操作: センター → 火山 → 観測点を2つ選んで「表示」→ 地図をクリック</div>
     </div>
   </div>
 
@@ -92,32 +100,46 @@
     const linkLayer = L.layerGroup().addTo(map);
 
     // 状態
-    let allStations = [];       // 全観測点
-    let filteredStations = [];  // フィルタ後
-    let selected = [];          // 2点まで
-    let selectedCenter = "__all__"; // centerno 単一
+    let allStations = [];   // station_all.json 正規化
+    let netSansho = [];     // net_sansho.json
+    let kazannet = [];      // kazannet.json
+    let centerLabels = {};  // centerno_labels.json
+
+    let stationsForCenter = [];   // センターで絞った観測点（必要なら使用）
+    let stationsForVolcano = [];  // 火山（netno）で絞った観測点
+    let selected = [];            // 2点まで
 
     // 要素
-    const centerSelect = document.getElementById('centerSelect');
-    const filterCount = document.getElementById('filterCount');
-    const resultBody = document.getElementById('resultBody');
-    const resultHint = document.getElementById('resultHint');
+    const centerSelect  = document.getElementById('centerSelect');
+    const volcanoSelect = document.getElementById('volcanoSelect');
+    const stationListEl = document.getElementById('station-list');
+    const filterCount   = document.getElementById('filterCount');
+    const resultBody    = document.getElementById('resultBody');
+    const resultHint    = document.getElementById('resultHint');
 
     // 初期化
     init();
 
     async function init() {
       try {
-        const res = await fetch('station_all.json');
-        if (!res.ok) throw new Error(`station_all.json の取得に失敗: ${res.status} ${res.statusText}`);
-        const raw = await res.json();
-        if (!Array.isArray(raw)) throw new Error('JSON形式が配列ではありません。');
+        // 4つのJSONを読み込み
+        const [stRes, relRes, volRes, labRes] = await Promise.all([
+          fetch('station_all.json'),
+          fetch('net_sansho.json'),
+          fetch('kazannet.json'),
+          fetch('centerno_labels.json')
+        ]);
+        if (!stRes.ok || !relRes.ok || !volRes.ok || !labRes.ok) throw new Error('JSON読み込みに失敗');
 
-        // 正規化
-        allStations = raw.map((s, idx) => ({
+        const [stRaw, relRaw, volRaw, labRaw] = await Promise.all([
+          stRes.json(), relRes.json(), volRes.json(), labRes.json()
+        ]);
+
+        // 正規化：stations
+        allStations = (Array.isArray(stRaw) ? stRaw : []).map((s, idx) => ({
           id: String(s.kansokutencd ?? s.kansokutenno ?? idx),
           code: s.kansokutencd ?? '',
-          number: Number(s.kansokutenno),
+          number: Number(s.kansokutenno),              // ← リレーションに使う
           name: s.kansokutennm ?? '',
           altName: s.siryoukansokutennm ?? '',
           latDec: Number(s.lat),
@@ -127,27 +149,28 @@
           centerno: Number(s.centerno)
         })).filter(s => Number.isFinite(s.latDec) && Number.isFinite(s.lonDec));
 
-        if (allStations.length === 0) {
-          document.getElementById('station-list').innerHTML = '<span style="color:#b91c1c">取り込み0件。JSONのキー名をご確認ください。</span>';
-          return;
-        }
+        netSansho    = (Array.isArray(relRaw) ? relRaw : []).map(r => ({
+          kansokutenno: Number(r.kansokutenno),
+          netno: Number(r.netno),
+          centerno: Number(r.centerno)
+        }));
+        kazannet     = (Array.isArray(volRaw) ? volRaw : []).map(v => ({
+          netno: Number(v.netno),
+          netnm: String(v.netnm ?? ''),
+          centerno1: Number(v.centerno1)
+        }));
+        centerLabels = labRaw || {};
 
-        // centerno → セレクト
-        const uniqCenters = [...new Set(allStations.map(s => s.centerno).filter(n => Number.isFinite(n)))].sort((a,b)=>a-b);
-        uniqCenters.forEach(v => {
-          const opt = document.createElement('option');
-          opt.value = String(v);
-          opt.textContent = `centerno: ${v}`;
-          centerSelect.appendChild(opt);
-        });
-        centerSelect.onchange = () => {
-          selectedCenter = centerSelect.value;
-          clearSelectionAndLayers();
-          applyFilterAndRender();
-        };
+        // センタープルダウン構築（centerno昇順、日本語ラベル表示）
+        const uniqCenters = [...new Set(allStations.map(s => s.centerno).filter(Number.isFinite))].sort((a,b)=>a-b);
+        centerSelect.innerHTML = '<option value="">（選択してください）</option>' +
+          uniqCenters.map(cno => `<option value="${cno}">${escapeHtml(centerLabels[String(cno)] ?? ('centerno: '+cno))}</option>`).join('');
+        centerSelect.onchange = onCenterChange;
 
-        // 初期レンダリング
-        applyFilterAndRender();
+        // 初期UI
+        document.getElementById('showBtn').onclick  = onShow;
+        document.getElementById('clearBtn').onclick = clearAll;
+        map.on('click', onMapClick);
 
         // 件数バッジ
         const countBadge = document.getElementById('countBadge');
@@ -159,41 +182,82 @@
         const lonAvg = allStations.reduce((a,b)=>a+b.lonDec,0)/allStations.length;
         if (Number.isFinite(latAvg) && Number.isFinite(lonAvg)) map.setView([latAvg, lonAvg], 10);
 
-        // 地図クリック
-        map.on('click', onMapClick);
-
-        // ボタン
-        document.getElementById('showBtn').onclick = onShow;
-        document.getElementById('clearBtn').onclick = clearAll;
-
       } catch (e) {
-        document.getElementById('station-list').textContent = '観測点の読み込みに失敗。コンソールを確認してください。';
+        stationListEl.textContent = '初期化に失敗しました。コンソールを確認してください。';
         console.error(e);
       }
     }
 
-    function applyFilterAndRender() {
-      if (selectedCenter === "__all__") {
-        filteredStations = allStations.slice();
-      } else {
-        const cno = Number(selectedCenter);
-        filteredStations = allStations.filter(s => s.centerno === cno);
-      }
-      renderStationList(filteredStations);
+    // ① センター変更 → そのセンターに属する火山（kazannet.centerno1）でプルダウン②を更新
+    function onCenterChange() {
+      clearSelectionAndLayers();
+      resultPlaceholder();
 
-      // フィルタ件数
-      filterCount.textContent = `${filteredStations.length}件`;
+      const cval = centerSelect.value;
+      volcanoSelect.disabled = true;
+      volcanoSelect.innerHTML = '<option value="">（センターを先に選択）</option>';
+
+      if (!cval) {
+        stationListEl.textContent = 'センターを選んでください。';
+        filterCount.style.display = 'none';
+        return;
+      }
+
+      const cno = Number(cval);
+
+      // センターに属する火山一覧
+      const volcanoes = kazannet.filter(v => v.centerno1 === cno)
+                                .sort((a,b)=>a.netnm.localeCompare(b.netnm, 'ja'));
+      if (volcanoes.length === 0) {
+        stationListEl.innerHTML = '<span style="color:#b91c1c">このセンターに対応する火山が見つかりません。</span>';
+        filterCount.style.display = 'none';
+        return;
+      }
+
+      volcanoSelect.disabled = false;
+      volcanoSelect.innerHTML = '<option value="">（火山を選択）</option>' +
+        volcanoes.map(v => `<option value="${v.netno}">${escapeHtml(v.netnm)}（netno: ${v.netno}）</option>`).join('');
+      volcanoSelect.onchange = () => onVolcanoChange(cno);
+      stationListEl.textContent = '火山（ネット）を選んでください。';
+      filterCount.style.display = 'none';
+    }
+
+    // ② 火山選択 → net_sansho で netno に紐づく kansokutenno を集め、station_all を抽出
+    function onVolcanoChange(selectedCenterNo) {
+      clearSelectionAndLayers();
+      resultPlaceholder();
+
+      const netVal = volcanoSelect.value;
+      if (!netVal) {
+        stationListEl.textContent = '火山（ネット）を選んでください。';
+        filterCount.style.display = 'none';
+        return;
+      }
+      const netno = Number(netVal);
+
+      // 同センターに属する net_sansho のみを対象に（安全側：centerno も一致させる）
+      const kansokutenSet = new Set(
+        netSansho
+          .filter(r => r.netno === netno && r.centerno === selectedCenterNo)
+          .map(r => r.kansokutenno)
+      );
+
+      stationsForVolcano = allStations.filter(s => kansokutenSet.has(s.number));
+
+      if (stationsForVolcano.length === 0) {
+        stationListEl.innerHTML = '<span style="color:#b91c1c">この火山に紐づく観測点が見つかりません。</span>';
+        filterCount.style.display = 'none';
+        return;
+      }
+
+      renderStationList(stationsForVolcano);
+      filterCount.textContent = `${stationsForVolcano.length}件`;
       filterCount.style.display = 'inline-block';
     }
 
-    // 観測点リスト
+    // 観測点リスト描画
     function renderStationList(stations) {
-      const wrap = document.getElementById('station-list');
-      wrap.innerHTML = '';
-      if (stations.length === 0) {
-        wrap.innerHTML = '<span style="color:#b91c1c">このフィルタでは観測点がありません。</span>';
-        return;
-      }
+      stationListEl.innerHTML = '';
       stations.forEach(s => {
         const id = 'st-' + s.id;
         const div = document.createElement('div');
@@ -202,11 +266,11 @@
             <input type="checkbox" id="${id}" value="${s.id}">
             <span>${escapeHtml(s.name)}</span>
             <span style="color:#64748b;font-size:11px">(${escapeHtml(s.code)})</span>
-            <span class="badge" title="centerno">${Number.isFinite(s.centerno) ? s.centerno : '-'}</span>
+            <span class="badge" title="centerno">${centerLabels[String(s.centerno)] ?? s.centerno}</span>
           </label>`;
         const cb = div.querySelector('input');
         cb.addEventListener('change', () => handleCheckChange(cb, s));
-        wrap.appendChild(div);
+        stationListEl.appendChild(div);
       });
     }
 
@@ -245,7 +309,12 @@
     function clearAll() {
       document.querySelectorAll('#station-list input[type="checkbox"]').forEach(cb => cb.checked = false);
       clearSelectionAndLayers();
-      showResultPlaceholder();
+      resultPlaceholder();
+      stationListEl.textContent = 'センターと火山を選択してください。';
+      filterCount.style.display = 'none';
+      centerSelect.value = '';
+      volcanoSelect.innerHTML = '<option value="">（センターを先に選択）</option>';
+      volcanoSelect.disabled = true;
     }
     function clearSelectionAndLayers() {
       selected = [];
@@ -286,7 +355,7 @@
       resultBody.innerHTML = html;
       resultHint.textContent = '更新';
     }
-    function showResultPlaceholder() {
+    function resultPlaceholder() {
       resultBody.innerHTML = '地図をクリックしてください。';
       resultHint.textContent = '未計算';
     }
