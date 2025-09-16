@@ -1,0 +1,5372 @@
+[
+  {
+    "kansokutenno": 507,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 514,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 515,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 515,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 518,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 518,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 677,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1004,
+    "netno": 106,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1005,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1005,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1006,
+    "netno": 101,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1015,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1015,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1037,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1037,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1056,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1056,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1057,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1057,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1060,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1060,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1062,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1062,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1526,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1526,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1540,
+    "netno": 102,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1553,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1553,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1554,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1554,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1571,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1571,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1572,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1577,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1577,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1579,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1591,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1591,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1592,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1597,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1597,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1601,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1604,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1605,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1605,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1607,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1607,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 1611,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4520,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4521,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4522,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4522,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4524,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4527,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4528,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4529,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4530,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4533,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4534,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4535,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4536,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4537,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4538,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4539,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4540,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4541,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4542,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4543,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4544,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4545,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4546,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4547,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4548,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4549,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4550,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4551,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4644,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4646,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4647,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4661,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4662,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4663,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4673,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4674,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4675,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4676,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4677,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4678,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4700,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4701,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4702,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4703,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4706,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4725,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4727,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4728,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4729,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4730,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4733,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4734,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4735,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4740,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4741,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4743,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4744,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4747,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4749,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4751,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4752,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4753,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4754,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4756,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4759,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4760,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4761,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4762,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4763,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4764,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4765,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4768,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4769,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4770,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4770,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4786,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4788,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4802,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4807,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4808,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4809,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4810,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4813,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4814,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4815,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4816,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4817,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4819,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4820,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4821,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4822,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4823,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4824,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4825,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4826,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4827,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4828,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4829,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4830,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 4831,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 5684,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 5684,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8022,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8023,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8066,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8076,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8077,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8080,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8081,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8085,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8086,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8091,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8092,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8092,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8093,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8094,
+    "netno": 109,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8095,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8096,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8097,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8098,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8099,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8122,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8124,
+    "netno": 107,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8125,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8127,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8129,
+    "netno": 113,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8130,
+    "netno": 114,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8188,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8189,
+    "netno": 111,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8198,
+    "netno": 105,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8217,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8225,
+    "netno": 112,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8226,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8227,
+    "netno": 108,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8257,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 8258,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 91000,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 91000,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 91001,
+    "netno": 103,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 91001,
+    "netno": 104,
+    "centerno": 1
+  },
+  {
+    "kansokutenno": 305,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 305,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 384,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 385,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 535,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 547,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 547,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 547,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 547,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 548,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 548,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 548,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 548,
+    "netno": 218,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 1105,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 1105,
+    "netno": 211,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 1155,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 1155,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 1156,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 1156,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 1174,
+    "netno": 218,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2004,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2005,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2031,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2031,
+    "netno": 211,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2033,
+    "netno": 211,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2035,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2036,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2037,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2041,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2046,
+    "netno": 211,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2047,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2050,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2054,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2055,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2060,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2063,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2066,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2068,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2069,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2069,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2069,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2070,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2071,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2073,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2074,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2077,
+    "netno": 201,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2079,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2081,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2081,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2082,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2082,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2083,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2084,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2085,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2085,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2086,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2087,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2088,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2092,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2092,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2092,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2108,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2108,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2108,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 2115,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4513,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4514,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4514,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4515,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4515,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4552,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4553,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4554,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4555,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4556,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4557,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4558,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4559,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4560,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4561,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4562,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4562,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4563,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4564,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4564,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4565,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4565,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4566,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4566,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4566,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4567,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4567,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4567,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4568,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4569,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4570,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4664,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4665,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4666,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4667,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4668,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4771,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4771,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4772,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4773,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4776,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4782,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4787,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4803,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4804,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4805,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4805,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4811,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4812,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4832,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4832,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4833,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4833,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4834,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4835,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4835,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4836,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4837,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4838,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4838,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4839,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4840,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4841,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 4842,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5555,
+    "netno": 201,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5556,
+    "netno": 201,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5694,
+    "netno": 201,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5694,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5695,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5696,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5697,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5708,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5717,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5802,
+    "netno": 201,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5804,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5808,
+    "netno": 211,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5811,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5856,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5856,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5856,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 5856,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8024,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8024,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8025,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8025,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8026,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8026,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8027,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8027,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8027,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8028,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8028,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8029,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8029,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8030,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8031,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8032,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8033,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8034,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8034,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8034,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8035,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8035,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8035,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8035,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8036,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8037,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8058,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8058,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8059,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8059,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8070,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8071,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8072,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8073,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8074,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8075,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8078,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8084,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8087,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8087,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8090,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8100,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8101,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8131,
+    "netno": 202,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8132,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8132,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8133,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8133,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8134,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8134,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8135,
+    "netno": 203,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8135,
+    "netno": 204,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8136,
+    "netno": 205,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8137,
+    "netno": 207,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8138,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8139,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8140,
+    "netno": 210,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8141,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8142,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8143,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8144,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8190,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8203,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8218,
+    "netno": 214,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8235,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8239,
+    "netno": 208,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8240,
+    "netno": 212,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8241,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8247,
+    "netno": 209,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 8254,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 9201,
+    "netno": 213,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 92000,
+    "netno": 201,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 92001,
+    "netno": 211,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 92002,
+    "netno": 218,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 92003,
+    "netno": 215,
+    "centerno": 2
+  },
+  {
+    "kansokutenno": 67,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 67,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 67,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 184,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 338,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 338,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 339,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 339,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 342,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 343,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 349,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 400,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 400,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 402,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 403,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 405,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 412,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 420,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 423,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 432,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 434,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 436,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 439,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 441,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 442,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 443,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 444,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 445,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 446,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 454,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 457,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 459,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 460,
+    "netno": 311,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 460,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 461,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 461,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 462,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 705,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 793,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 800,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 801,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 802,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 803,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 808,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 820,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 821,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 822,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 823,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 829,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 830,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 831,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 832,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 833,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 833,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 834,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 834,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 835,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 835,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 836,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 836,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 837,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 837,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 838,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 838,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 839,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 839,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 840,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 841,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 842,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 843,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 844,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 845,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 846,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 847,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 848,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 855,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 857,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 858,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 859,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 861,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 861,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 863,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 864,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 865,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 866,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 874,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 874,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 876,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 879,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 913,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 915,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 919,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 922,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 925,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 925,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 934,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 936,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 937,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 938,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 939,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 941,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 941,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 943,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 944,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 946,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 956,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 959,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 963,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 966,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 967,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 968,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 969,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 971,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 973,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 974,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 977,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 979,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 980,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 989,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1124,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1232,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1233,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1234,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1235,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1236,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1237,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1238,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1239,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1240,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1241,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1242,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1243,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1244,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1245,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1253,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1254,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1257,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1259,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1260,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1261,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1262,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1315,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 1367,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2095,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2097,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2104,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2504,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2506,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2515,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2529,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2541,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2543,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2543,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2543,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2544,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2544,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2545,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2557,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2568,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2570,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2571,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2571,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2571,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2571,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2577,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2580,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2602,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2650,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2658,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2666,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2667,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2667,
+    "netno": 311,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2670,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2695,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2695,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2695,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2696,
+    "netno": 311,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2714,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2718,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2723,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2732,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2734,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2736,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2736,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2736,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2740,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2751,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2752,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2756,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2775,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2812,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2817,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2818,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2821,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 2950,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 3072,
+    "netno": 401,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 3073,
+    "netno": 401,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 3074,
+    "netno": 401,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4500,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4501,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4502,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4503,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4505,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4505,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4516,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4517,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4518,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4519,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4571,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4572,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4573,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4574,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4575,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4576,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4577,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4578,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4579,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4579,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4580,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4581,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4582,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4583,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4584,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4585,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4586,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4586,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4645,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4679,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4682,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4683,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4684,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4685,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4686,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4687,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4688,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4689,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4690,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4691,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4693,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4694,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4694,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4694,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4695,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4696,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4697,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4709,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4710,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4711,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4712,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4713,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4714,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4715,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4716,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4717,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4718,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4721,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4766,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4774,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4775,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4777,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4778,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4779,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4780,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4781,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4789,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4790,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4797,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4798,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4799,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4800,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4801,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4818,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4843,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4844,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4845,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4846,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4847,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4848,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4849,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4850,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4851,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4852,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4853,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4853,
+    "netno": 311,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4854,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4855,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4856,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4857,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4857,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4858,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4858,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4859,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4860,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4861,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4862,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4862,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4863,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4863,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4863,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4864,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4865,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4866,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4893,
+    "netno": 329,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4894,
+    "netno": 329,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4895,
+    "netno": 329,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 4896,
+    "netno": 329,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5605,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5607,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5608,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5616,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5618,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5628,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5628,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5635,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5635,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5657,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5657,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5658,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5658,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5664,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5731,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5732,
+    "netno": 329,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5782,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5784,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5784,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5818,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5818,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5819,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5819,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5820,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5820,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5821,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5855,
+    "netno": 320,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5862,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 5862,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 7500,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8002,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8003,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8004,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8004,
+    "netno": 311,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8005,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8006,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8007,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8008,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8009,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8010,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8011,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8038,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8042,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8043,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8044,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8045,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8046,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8047,
+    "netno": 314,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8048,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8049,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8050,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8051,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8052,
+    "netno": 317,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8053,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8054,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8056,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8065,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8067,
+    "netno": 401,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8102,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8103,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8104,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8113,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8116,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8117,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8118,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8119,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8120,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8121,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8145,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8146,
+    "netno": 302,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8147,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8148,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8149,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8150,
+    "netno": 309,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8151,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8152,
+    "netno": 311,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8153,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8154,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8155,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8156,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8157,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8158,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8159,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8160,
+    "netno": 313,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8161,
+    "netno": 315,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8162,
+    "netno": 316,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8163,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8163,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8164,
+    "netno": 318,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8164,
+    "netno": 319,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8165,
+    "netno": 321,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8166,
+    "netno": 322,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8167,
+    "netno": 329,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8182,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8183,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8184,
+    "netno": 301,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8187,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8191,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8193,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8201,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8206,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8207,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8211,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8212,
+    "netno": 312,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8213,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8214,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8215,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8216,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8219,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8220,
+    "netno": 307,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8222,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8223,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8224,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8234,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8242,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8243,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8244,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8246,
+    "netno": 305,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8252,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8253,
+    "netno": 306,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 8259,
+    "netno": 310,
+    "centerno": 3
+  },
+  {
+    "kansokutenno": 204,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1412,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1416,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1421,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1427,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1427,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1427,
+    "netno": 510,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1427,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1430,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1430,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1430,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1431,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 1431,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3521,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3524,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3527,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3529,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3530,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3530,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3531,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3536,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3550,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3550,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3550,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3551,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3551,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3555,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3555,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3556,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3556,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3558,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3559,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3559,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3560,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3560,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3561,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3590,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3590,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 3595,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4506,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4511,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4512,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4588,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4589,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4590,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4591,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4592,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4593,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4594,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4595,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4596,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4597,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4598,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4599,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4600,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4601,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4602,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4603,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4604,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4605,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4606,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4607,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4608,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4609,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4610,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4611,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4613,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4614,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4615,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4619,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4620,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4621,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4622,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4623,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4624,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4625,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4626,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4627,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4628,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4629,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4631,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4632,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4634,
+    "netno": 510,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4634,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4635,
+    "netno": 510,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4635,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4638,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4639,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4640,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4641,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4650,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4651,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4652,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4658,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4659,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4660,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4680,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4681,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4704,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4705,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4783,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4784,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4785,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4791,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4792,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4793,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4794,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4795,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4796,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4806,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4867,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4868,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4869,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4870,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4871,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4872,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4873,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4874,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4875,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4876,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4877,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4878,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4879,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4879,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4880,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4882,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4883,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4883,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4884,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4885,
+    "netno": 510,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4885,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4885,
+    "netno": 519,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4886,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4887,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4888,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4889,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4890,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4891,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4892,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4897,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4898,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 4899,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5744,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5752,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5752,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5754,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5756,
+    "netno": 510,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5756,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5785,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5786,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5786,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5786,
+    "netno": 510,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5786,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 5786,
+    "netno": 519,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8000,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8001,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8012,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8013,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8014,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8015,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8016,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8017,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8018,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8019,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8020,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8021,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8039,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8040,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8041,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8060,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8061,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8062,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8063,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8068,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8069,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8079,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8082,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8083,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8088,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8089,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8105,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8106,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8107,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8108,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8109,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8110,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8111,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8112,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8114,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8115,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8168,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8168,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8169,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8169,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8169,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8170,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8171,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8172,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8172,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8173,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8175,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8176,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8177,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8178,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8179,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8180,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8181,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8185,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8186,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8192,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8195,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8196,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8204,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8205,
+    "netno": 510,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8205,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8205,
+    "netno": 519,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8221,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8221,
+    "netno": 508,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8228,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8229,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8230,
+    "netno": 506,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8231,
+    "netno": 507,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8232,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8233,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8236,
+    "netno": 513,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8237,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8238,
+    "netno": 502,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8245,
+    "netno": 503,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8248,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8249,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8250,
+    "netno": 504,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8251,
+    "netno": 505,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8255,
+    "netno": 511,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8256,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8260,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8261,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 8262,
+    "netno": 509,
+    "centerno": 5
+  },
+  {
+    "kansokutenno": 95000,
+    "netno": 519,
+    "centerno": 5
+  }
+]

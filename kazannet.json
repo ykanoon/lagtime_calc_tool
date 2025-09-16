@@ -1,0 +1,1202 @@
+[
+  {
+    "netno": 101,
+    "netcd": "SRI",
+    "netnm": "知床硫黄山",
+    "kazanno": 101,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2021-03-01 00:00:00"
+  },
+  {
+    "netno": 102,
+    "netcd": "RAD",
+    "netnm": "羅臼岳",
+    "kazanno": 102,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2021-03-01 00:00:00"
+  },
+  {
+    "netno": 103,
+    "netcd": "MAS",
+    "netnm": "摩周",
+    "kazanno": 103,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2002-03-01 00:00:00"
+  },
+  {
+    "netno": 104,
+    "netcd": "ATS",
+    "netnm": "アトサヌプリ",
+    "kazanno": 104,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-03-01 00:00:00"
+  },
+  {
+    "netno": 105,
+    "netcd": "MEA",
+    "netnm": "雌阿寒岳",
+    "kazanno": 105,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-01-11 00:00:00"
+  },
+  {
+    "netno": 106,
+    "netcd": "MAR",
+    "netnm": "丸山",
+    "kazanno": 106,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2021-03-01 00:00:00"
+  },
+  {
+    "netno": 107,
+    "netcd": "TAI",
+    "netnm": "大雪山",
+    "kazanno": 107,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2010-04-01 00:00:00"
+  },
+  {
+    "netno": 108,
+    "netcd": "TOK",
+    "netnm": "十勝岳",
+    "kazanno": 108,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-01-11 00:00:00"
+  },
+  {
+    "netno": 109,
+    "netcd": "TAR",
+    "netnm": "樽前山",
+    "kazanno": 109,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-01-11 00:00:00"
+  },
+  {
+    "netno": 110,
+    "netcd": "ENW",
+    "netnm": "恵庭岳",
+    "kazanno": 110,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 111,
+    "netcd": "KUT",
+    "netnm": "倶多楽",
+    "kazanno": 111,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2004-07-13 11:00:00"
+  },
+  {
+    "netno": 112,
+    "netcd": "USU",
+    "netnm": "有珠山",
+    "kazanno": 112,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-01-11 00:00:00"
+  },
+  {
+    "netno": 113,
+    "netcd": "HKM",
+    "netnm": "北海道駒ヶ岳",
+    "kazanno": 113,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-01-11 00:00:00"
+  },
+  {
+    "netno": 114,
+    "netcd": "ESN",
+    "netnm": "恵山",
+    "kazanno": 114,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 1,
+    "kaishinitiji": "2005-07-14 00:00:00"
+  },
+  {
+    "netno": 115,
+    "netcd": "OOS",
+    "netnm": "渡島大島",
+    "kazanno": 115,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 116,
+    "netcd": "RSR",
+    "netnm": "利尻山",
+    "kazanno": 116,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 117,
+    "netcd": "YOT",
+    "netnm": "羊蹄山",
+    "kazanno": 117,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 118,
+    "netcd": "NSK",
+    "netnm": "ニセコ",
+    "kazanno": 118,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 119,
+    "netcd": "TNC",
+    "netnm": "天頂山",
+    "kazanno": 119,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 120,
+    "netcd": "OAK",
+    "netnm": "雄阿寒岳",
+    "kazanno": 120,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 151,
+    "netcd": "MYR",
+    "netnm": "茂世路岳",
+    "kazanno": 151,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 152,
+    "netcd": "CRP",
+    "netnm": "散布山",
+    "kazanno": 152,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 153,
+    "netcd": "SSU",
+    "netnm": "指臼岳",
+    "kazanno": 153,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 154,
+    "netcd": "ODM",
+    "netnm": "小田萌山",
+    "kazanno": 154,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 155,
+    "netcd": "EYK",
+    "netnm": "択捉焼山",
+    "kazanno": 155,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 156,
+    "netcd": "EAS",
+    "netnm": "択捉阿登佐岳",
+    "kazanno": 156,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 157,
+    "netcd": "BTB",
+    "netnm": "ベルタルベ山",
+    "kazanno": 157,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 158,
+    "netcd": "CCD",
+    "netnm": "爺爺岳",
+    "kazanno": 158,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 159,
+    "netcd": "RAS",
+    "netnm": "羅臼山",
+    "kazanno": 159,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 160,
+    "netcd": "TMR",
+    "netnm": "泊山",
+    "kazanno": 160,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 161,
+    "netcd": "RRI",
+    "netnm": "ルルイ岳",
+    "kazanno": 161,
+    "centerno1": 1,
+    "centerno2": 1,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 201,
+    "netcd": "OSR",
+    "netnm": "恐山",
+    "kazanno": 201,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 0,
+    "kaishinitiji": "2018-11-28 00:00:00"
+  },
+  {
+    "netno": 202,
+    "netcd": "IWK",
+    "netnm": "岩木山",
+    "kazanno": 202,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2007-08-02 00:00:00"
+  },
+  {
+    "netno": 203,
+    "netcd": "HKD",
+    "netnm": "八甲田山",
+    "kazanno": 203,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2013-05-14 00:00:00"
+  },
+  {
+    "netno": 204,
+    "netcd": "TWD",
+    "netnm": "十和田",
+    "kazanno": 204,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-10-01 00:00:00"
+  },
+  {
+    "netno": 205,
+    "netcd": "AYK",
+    "netnm": "秋田焼山",
+    "kazanno": 205,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2010-04-01 00:00:00"
+  },
+  {
+    "netno": 206,
+    "netcd": "HMT",
+    "netnm": "八幡平",
+    "kazanno": 206,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 207,
+    "netcd": "IWT",
+    "netnm": "岩手山",
+    "kazanno": 207,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 208,
+    "netcd": "AKM",
+    "netnm": "秋田駒ヶ岳",
+    "kazanno": 208,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2003-06-10 18:00:00"
+  },
+  {
+    "netno": 209,
+    "netcd": "CHK",
+    "netnm": "鳥海山",
+    "kazanno": 209,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2004-07-22 00:00:00"
+  },
+  {
+    "netno": 210,
+    "netcd": "KKM",
+    "netnm": "栗駒山",
+    "kazanno": 210,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2006-10-03 00:00:00"
+  },
+  {
+    "netno": 211,
+    "netcd": "NAR",
+    "netnm": "鳴子",
+    "kazanno": 211,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 0,
+    "kaishinitiji": "2018-11-28 00:00:00"
+  },
+  {
+    "netno": 212,
+    "netcd": "ZAO",
+    "netnm": "蔵王山",
+    "kazanno": 212,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2010-04-01 00:00:00"
+  },
+  {
+    "netno": 213,
+    "netcd": "AZM",
+    "netnm": "吾妻山",
+    "kazanno": 213,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 214,
+    "netcd": "ADT",
+    "netnm": "安達太良山",
+    "kazanno": 214,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 215,
+    "netcd": "BND",
+    "netnm": "磐梯山",
+    "kazanno": 215,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 216,
+    "netcd": "HIU",
+    "netnm": "燧ヶ岳",
+    "kazanno": 216,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 217,
+    "netcd": "HJO",
+    "netnm": "肘折",
+    "kazanno": 217,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 218,
+    "netcd": "NMZ",
+    "netnm": "沼沢",
+    "kazanno": 218,
+    "centerno1": 2,
+    "centerno2": 2,
+    "kanshiflg": 0,
+    "kaishinitiji": "2020-06-01 00:00:00"
+  },
+  {
+    "netno": 301,
+    "netcd": "NAS",
+    "netnm": "那須岳",
+    "kazanno": 301,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 302,
+    "netcd": "NSH",
+    "netnm": "日光白根山",
+    "kazanno": 302,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 303,
+    "netcd": "AKG",
+    "netnm": "赤城山",
+    "kazanno": 303,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 304,
+    "netcd": "HRN",
+    "netnm": "榛名山",
+    "kazanno": 304,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 305,
+    "netcd": "KSH",
+    "netnm": "草津白根山",
+    "kazanno": 305,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 306,
+    "netcd": "ASM",
+    "netnm": "浅間山",
+    "kazanno": 306,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 307,
+    "netcd": "NYK",
+    "netnm": "新潟焼山",
+    "kazanno": 307,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2003-08-01 00:00:00"
+  },
+  {
+    "netno": 308,
+    "netcd": "MKS",
+    "netnm": "妙高山",
+    "kazanno": 308,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 309,
+    "netcd": "MDH",
+    "netnm": "弥陀ヶ原",
+    "kazanno": 309,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2011-11-29 10:00:00"
+  },
+  {
+    "netno": 310,
+    "netcd": "YKD",
+    "netnm": "焼岳",
+    "kazanno": 310,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 311,
+    "netcd": "NOR",
+    "netnm": "乗鞍岳",
+    "kazanno": 311,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2010-04-01 00:00:00"
+  },
+  {
+    "netno": 312,
+    "netcd": "ONT",
+    "netnm": "御嶽山",
+    "kazanno": 312,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 313,
+    "netcd": "HKS",
+    "netnm": "白山",
+    "kazanno": 313,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2004-07-01 00:00:00"
+  },
+  {
+    "netno": 314,
+    "netcd": "FUJ",
+    "netnm": "富士山",
+    "kazanno": 314,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 315,
+    "netcd": "HKN",
+    "netnm": "箱根山",
+    "kazanno": 315,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 316,
+    "netcd": "ITV",
+    "netnm": "伊豆東部火山群",
+    "kazanno": 316,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 317,
+    "netcd": "OSM",
+    "netnm": "伊豆大島",
+    "kazanno": 317,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 318,
+    "netcd": "NIJ",
+    "netnm": "新島",
+    "kazanno": 318,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2010-04-01 00:00:00"
+  },
+  {
+    "netno": 319,
+    "netcd": "KOZ",
+    "netnm": "神津島",
+    "kazanno": 319,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2010-04-01 00:00:00"
+  },
+  {
+    "netno": 320,
+    "netcd": "MKJ",
+    "netnm": "三宅島",
+    "kazanno": 320,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 321,
+    "netcd": "HJJ",
+    "netnm": "八丈島",
+    "kazanno": 321,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 322,
+    "netcd": "AOG",
+    "netnm": "青ヶ島",
+    "kazanno": 322,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2003-09-01 00:00:00"
+  },
+  {
+    "netno": 323,
+    "netcd": "BYO",
+    "netnm": "ベヨネース列岩",
+    "kazanno": 323,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 324,
+    "netcd": "SMT",
+    "netnm": "須美寿島",
+    "kazanno": 324,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 325,
+    "netcd": "TOR",
+    "netnm": "伊豆鳥島",
+    "kazanno": 325,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 326,
+    "netcd": "NIS",
+    "netnm": "西之島",
+    "kazanno": 326,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 327,
+    "netcd": "KTS",
+    "netnm": "海徳海山",
+    "kazanno": 327,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 328,
+    "netcd": "ASN",
+    "netnm": "噴火浅根",
+    "kazanno": 328,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 329,
+    "netcd": "IWO",
+    "netnm": "硫黄島",
+    "kazanno": 329,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 1,
+    "kaishinitiji": "2009-01-01 00:00:00"
+  },
+  {
+    "netno": 330,
+    "netcd": "NFT",
+    "netnm": "北福徳堆",
+    "kazanno": 330,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 331,
+    "netcd": "FTO",
+    "netnm": "福徳岡ノ場",
+    "kazanno": 331,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 333,
+    "netcd": "TKH",
+    "netnm": "高原山",
+    "kazanno": 333,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 334,
+    "netcd": "YOK",
+    "netnm": "横岳",
+    "kazanno": 334,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 335,
+    "netcd": "AKD",
+    "netnm": "アカンダナ山",
+    "kazanno": 335,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 336,
+    "netcd": "TSM",
+    "netnm": "利島",
+    "kazanno": 336,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 337,
+    "netcd": "MKR",
+    "netnm": "御蔵島",
+    "kazanno": 337,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 338,
+    "netcd": "SFG",
+    "netnm": "孀婦岩",
+    "kazanno": 338,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 339,
+    "netcd": "KKS",
+    "netnm": "海形海山",
+    "kazanno": 339,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 340,
+    "netcd": "MHS",
+    "netnm": "南日吉海山",
+    "kazanno": 340,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 341,
+    "netcd": "NKS",
+    "netnm": "日光海山",
+    "kazanno": 341,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 342,
+    "netcd": "NAN",
+    "netnm": "男体山",
+    "kazanno": 342,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 350,
+    "netcd": "KSY",
+    "netnm": "草津白根山（白根山（湯釜付近））",
+    "kazanno": 350,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 351,
+    "netcd": "KSM",
+    "netnm": "草津白根山（本白根山）",
+    "kazanno": 351,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 401,
+    "netcd": "SBS",
+    "netnm": "三瓶山",
+    "kazanno": 401,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2012-12-05 10:00:00"
+  },
+  {
+    "netno": 502,
+    "netcd": "KJU",
+    "netnm": "九重山",
+    "kazanno": 502,
+    "centerno1": 5,
+    "centerno2": 5,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 503,
+    "netcd": "ASO",
+    "netnm": "阿蘇山",
+    "kazanno": 503,
+    "centerno1": 5,
+    "centerno2": 5,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 504,
+    "netcd": "UNZ",
+    "netnm": "雲仙岳",
+    "kazanno": 504,
+    "centerno1": 5,
+    "centerno2": 5,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 505,
+    "netcd": "KIR",
+    "netnm": "霧島山",
+    "kazanno": 505,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 506,
+    "netcd": "SKR",
+    "netnm": "桜島",
+    "kazanno": 506,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 507,
+    "netcd": "KMN",
+    "netnm": "開聞岳",
+    "kazanno": 507,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 508,
+    "netcd": "STI",
+    "netnm": "薩摩硫黄島",
+    "kazanno": 508,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 509,
+    "netcd": "KER",
+    "netnm": "口永良部島",
+    "kazanno": 509,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 510,
+    "netcd": "NKN",
+    "netnm": "中之島",
+    "kazanno": 510,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 511,
+    "netcd": "SWA",
+    "netnm": "諏訪之瀬島",
+    "kazanno": 511,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 1,
+    "kaishinitiji": "2002-02-01 00:00:00"
+  },
+  {
+    "netno": 512,
+    "netcd": "ABV",
+    "netnm": "阿武火山群",
+    "kazanno": 512,
+    "centerno1": 5,
+    "centerno2": 5,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 513,
+    "netcd": "TRG",
+    "netnm": "鶴見岳・伽藍岳",
+    "kazanno": 513,
+    "centerno1": 5,
+    "centerno2": 5,
+    "kanshiflg": 1,
+    "kaishinitiji": "2010-04-01 00:00:00"
+  },
+  {
+    "netno": 514,
+    "netcd": "YUF",
+    "netnm": "由布岳",
+    "kazanno": 514,
+    "centerno1": 5,
+    "centerno2": 5,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 515,
+    "netcd": "FKV",
+    "netnm": "福江火山群",
+    "kazanno": 515,
+    "centerno1": 5,
+    "centerno2": 5,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 516,
+    "netcd": "YNS",
+    "netnm": "米丸・住吉池",
+    "kazanno": 516,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 517,
+    "netcd": "WKM",
+    "netnm": "若尊",
+    "kazanno": 517,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 518,
+    "netcd": "IKY",
+    "netnm": "池田・山川",
+    "kazanno": 518,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 519,
+    "netcd": "KSM",
+    "netnm": "口之島",
+    "kazanno": 519,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2021-03-01 00:00:00"
+  },
+  {
+    "netno": 550,
+    "netcd": "KIO",
+    "netnm": "霧島山（御鉢）",
+    "kazanno": 550,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2010-06-01 00:00:00"
+  },
+  {
+    "netno": 551,
+    "netcd": "KIS",
+    "netnm": "霧島山（新燃岳）",
+    "kazanno": 551,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2010-06-01 00:00:00"
+  },
+  {
+    "netno": 552,
+    "netcd": "KIE",
+    "netnm": "霧島山（えびの高原（硫黄山）周辺）",
+    "kazanno": 552,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2016-11-01 00:00:00"
+  },
+  {
+    "netno": 553,
+    "netcd": "KOH",
+    "netnm": "霧島山（大幡池）",
+    "kazanno": 553,
+    "centerno1": 5,
+    "centerno2": 6,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 601,
+    "netcd": "ITR",
+    "netnm": "硫黄鳥島",
+    "kazanno": 601,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 602,
+    "netcd": "INS",
+    "netnm": "西表島北北東海底火山",
+    "kazanno": 602,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 900,
+    "netcd": "ALL",
+    "netnm": "全国の活火山",
+    "kazanno": 900,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 901,
+    "netcd": "OTH",
+    "netnm": "その他の活火山",
+    "kazanno": 901,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  },
+  {
+    "netno": 902,
+    "netcd": "NEW",
+    "netnm": "新たな活火山",
+    "kazanno": 902,
+    "centerno1": 3,
+    "centerno2": 3,
+    "kanshiflg": 0,
+    "kaishinitiji": "2024-11-01 00:00:00"
+  }
+]
