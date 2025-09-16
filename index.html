@@ -15,7 +15,7 @@
     #panel h2 { margin: 0 0 8px; font-size: 18px; display:flex; gap:8px; align-items:center; flex-wrap: wrap; }
     #panel .hint { color: #555; font-size: 12px; margin: 6px 0 10px; }
     #filters { margin: 8px 0 10px; padding:10px; border:1px solid #eee; border-radius:8px; display:grid; gap:10px; }
-    #station-list { display: grid; gap: 6px; max-height: 40vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
+    #station-list { display: grid; gap: 6px; max-height: 30vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
     #actions { margin-top: 10px; display: grid; gap: 8px; }
     button { padding: 10px 12px; border: 0; border-radius: 8px; cursor: pointer; font-weight: 600; }
     #showBtn { background: #2563eb; color: #fff; }
@@ -43,14 +43,14 @@
       <!-- フィルタ：①センター、②火山（ネット） -->
       <div id="filters">
         <label>
-          <strong>センター（centerno）</strong><br/>
+          <strong>センター名選択</strong><br/>
           <select id="centerSelect" style="margin-top:6px; padding:6px; border-radius:8px; border:1px solid #e5e7eb; width:100%">
             <option value="">（選択してください）</option>
           </select>
         </label>
 
         <label>
-          <strong>火山（kazannet / netnm）</strong><br/>
+          <strong>火山名選択</strong><br/>
           <select id="volcanoSelect" disabled style="margin-top:6px; padding:6px; border-radius:8px; border:1px solid #e5e7eb; width:100%">
             <option value="">（センターを先に選択）</option>
           </select>
