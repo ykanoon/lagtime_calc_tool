@@ -15,7 +15,7 @@
     #panel h2 { margin: 0 0 8px; font-size: 18px; display:flex; gap:8px; align-items:center; flex-wrap: wrap; }
     #panel .hint { color: #555; font-size: 12px; margin: 6px 0 10px; }
     #filters { margin: 8px 0 10px; padding:10px; border:1px solid #eee; border-radius:8px; display:grid; gap:10px; }
-    #station-list { display: grid; gap: 6px; max-height: 25vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
+    #station-list { display: grid; gap: 6px; max-height: 40vh; overflow: auto; padding: 8px; border: 1px solid #eee; border-radius: 8px; }
     #actions { margin-top: 10px; display: grid; gap: 8px; }
     button { padding: 10px 12px; border: 0; border-radius: 8px; cursor: pointer; font-weight: 600; }
     #showBtn { background: #2563eb; color: #fff; }
@@ -26,7 +26,8 @@
     .popup-table td { padding: 2px 6px; border-bottom: 1px solid #eee; }
     .legend { position: absolute; bottom: 12px; left: 12px; background: rgba(255,255,255,0.9); padding: 8px 10px; border-radius: 8px; border:1px solid #ddd; font-size: 12px; }
     #resultBox { margin-top:10px; padding:10px; border:1px solid #eee; border-radius:8px; background:#fafafa; font-size:13px; }
-    #resultBox .title { font-weight:700; margin-bottom:6px; display:flex; justify-content:space-between; align-items:center; }
+    #resultBox .title { font-weight:700; margin-bottom:6px; display:flex; gap:8px; justify-content:space-between; align-items:center; }
+    #swapBtn { background:#e2e8f0; padding:6px 10px; border-radius:8px; border:0; cursor:pointer; font-weight:600; }
     select, option { font-size: 14px; }
   </style>
 </head>
@@ -69,7 +70,10 @@
       <div id="resultBox">
         <div class="title">
           <span>到達時間（クリック地点）</span>
-          <span class="badge" id="resultHint">未計算</span>
+          <div style="display:flex; gap:8px; align-items:center;">
+            <button id="swapBtn" disabled title="ch1 と ch2 を入れ替え">ch1 ↔︎ ch2</button>
+            <span class="badge" id="resultHint">未計算</span>
+          </div>
         </div>
         <div id="resultBody">地図をクリックしてください。</div>
       </div>
@@ -83,7 +87,7 @@
 
     <div style="position:relative">
       <div id="map"></div>
-      <div class="legend">操作: センター → 火山 → 観測点を2つ選んで「表示」→ 地図をクリック</div>
+      <div class="legend">操作: センター → 火山 → 観測点（番号昇順）を2つ選んで「表示」→ 地図をクリック</div>
     </div>
   </div>
 
@@ -105,9 +109,9 @@
     let kazannet = [];      // kazannet.json
     let centerLabels = {};  // centerno_labels.json
 
-    let stationsForCenter = [];   // センターで絞った観測点（必要なら使用）
     let stationsForVolcano = [];  // 火山（netno）で絞った観測点
-    let selected = [];            // 2点まで
+    let selected = [];            // 2点まで（順序＝ch1,ch2）
+    let lastClickLatLng = null;   // 直近クリック位置（入れ替え時に再計算用）
 
     // 要素
     const centerSelect  = document.getElementById('centerSelect');
@@ -116,6 +120,7 @@
     const filterCount   = document.getElementById('filterCount');
     const resultBody    = document.getElementById('resultBody');
     const resultHint    = document.getElementById('resultHint');
+    const swapBtn       = document.getElementById('swapBtn');
 
     // 初期化
     init();
@@ -124,10 +129,10 @@
       try {
         // 4つのJSONを読み込み
         const [stRes, relRes, volRes, labRes] = await Promise.all([
-          fetch('station_all.json'),
-          fetch('net_sansho.json'),
-          fetch('kazannet.json'),
-          fetch('centerno_labels.json')
+          fetch('station_all.json?v=' + Date.now()),
+          fetch('net_sansho.json?v=' + Date.now()),
+          fetch('kazannet.json?v=' + Date.now()),
+          fetch('centerno_labels.json?v=' + Date.now())
         ]);
         if (!stRes.ok || !relRes.ok || !volRes.ok || !labRes.ok) throw new Error('JSON読み込みに失敗');
 
@@ -139,7 +144,7 @@
         allStations = (Array.isArray(stRaw) ? stRaw : []).map((s, idx) => ({
           id: String(s.kansokutencd ?? s.kansokutenno ?? idx),
           code: s.kansokutencd ?? '',
-          number: Number(s.kansokutenno),              // ← リレーションに使う
+          number: Number(s.kansokutenno),              // ← 観測点番号（昇順で並べる）
           name: s.kansokutennm ?? '',
           altName: s.siryoukansokutennm ?? '',
           latDec: Number(s.lat),
@@ -149,16 +154,18 @@
           centerno: Number(s.centerno)
         })).filter(s => Number.isFinite(s.latDec) && Number.isFinite(s.lonDec));
 
-        netSansho    = (Array.isArray(relRaw) ? relRaw : []).map(r => ({
+        netSansho = (Array.isArray(relRaw) ? relRaw : []).map(r => ({
           kansokutenno: Number(r.kansokutenno),
           netno: Number(r.netno),
           centerno: Number(r.centerno)
         }));
-        kazannet     = (Array.isArray(volRaw) ? volRaw : []).map(v => ({
+
+        kazannet = (Array.isArray(volRaw) ? volRaw : []).map(v => ({
           netno: Number(v.netno),
           netnm: String(v.netnm ?? ''),
           centerno1: Number(v.centerno1)
         }));
+
         centerLabels = labRaw || {};
 
         // センタープルダウン構築（centerno昇順、日本語ラベル表示）
@@ -171,6 +178,7 @@
         document.getElementById('showBtn').onclick  = onShow;
         document.getElementById('clearBtn').onclick = clearAll;
         map.on('click', onMapClick);
+        swapBtn.onclick = onSwap;
 
         // 件数バッジ
         const countBadge = document.getElementById('countBadge');
@@ -192,8 +200,11 @@
     function onCenterChange() {
       clearSelectionAndLayers();
       resultPlaceholder();
+      lastClickLatLng = null;
+      swapBtn.disabled = true;
 
       const cval = centerSelect.value;
+      const volcanoSelect = document.getElementById('volcanoSelect');
       volcanoSelect.disabled = true;
       volcanoSelect.innerHTML = '<option value="">（センターを先に選択）</option>';
 
@@ -205,7 +216,7 @@
 
       const cno = Number(cval);
 
-      // センターに属する火山一覧
+      // センターに属する火山一覧（名前順）
       const volcanoes = kazannet.filter(v => v.centerno1 === cno)
                                 .sort((a,b)=>a.netnm.localeCompare(b.netnm, 'ja'));
       if (volcanoes.length === 0) {
@@ -214,9 +225,10 @@
         return;
       }
 
-      volcanoSelect.disabled = false;
+      volcanoSelect.disabled = true; // 選択させる前に UI 準備
       volcanoSelect.innerHTML = '<option value="">（火山を選択）</option>' +
         volcanoes.map(v => `<option value="${v.netno}">${escapeHtml(v.netnm)}（netno: ${v.netno}）</option>`).join('');
+      volcanoSelect.disabled = false;
       volcanoSelect.onchange = () => onVolcanoChange(cno);
       stationListEl.textContent = '火山（ネット）を選んでください。';
       filterCount.style.display = 'none';
@@ -226,8 +238,10 @@
     function onVolcanoChange(selectedCenterNo) {
       clearSelectionAndLayers();
       resultPlaceholder();
+      lastClickLatLng = null;
+      swapBtn.disabled = true;
 
-      const netVal = volcanoSelect.value;
+      const netVal = document.getElementById('volcanoSelect').value;
       if (!netVal) {
         stationListEl.textContent = '火山（ネット）を選んでください。';
         filterCount.style.display = 'none';
@@ -235,14 +249,15 @@
       }
       const netno = Number(netVal);
 
-      // 同センターに属する net_sansho のみを対象に（安全側：centerno も一致させる）
+      // 同センターに属する net_sansho のみ（centernoも一致）
       const kansokutenSet = new Set(
-        netSansho
-          .filter(r => r.netno === netno && r.centerno === selectedCenterNo)
-          .map(r => r.kansokutenno)
+        netSansho.filter(r => r.netno === netno && r.centerno === selectedCenterNo)
+                 .map(r => r.kansokutenno)
       );
 
-      stationsForVolcano = allStations.filter(s => kansokutenSet.has(s.number));
+      stationsForVolcano = allStations
+        .filter(s => kansokutenSet.has(s.number))
+        .sort((a,b) => a.number - b.number); // ★ 観測点番号（kansokutenno）昇順
 
       if (stationsForVolcano.length === 0) {
         stationListEl.innerHTML = '<span style="color:#b91c1c">この火山に紐づく観測点が見つかりません。</span>';
@@ -266,7 +281,7 @@
             <input type="checkbox" id="${id}" value="${s.id}">
             <span>${escapeHtml(s.name)}</span>
             <span style="color:#64748b;font-size:11px">(${escapeHtml(s.code)})</span>
-            <span class="badge" title="centerno">${centerLabels[String(s.centerno)] ?? s.centerno}</span>
+            <span class="badge" title="観測点番号">${Number.isFinite(s.number) ? s.number : '-'}</span>
           </label>`;
         const cb = div.querySelector('input');
         cb.addEventListener('change', () => handleCheckChange(cb, s));
@@ -286,6 +301,8 @@
       } else {
         selected = selected.filter(s => s.id !== station.id);
       }
+      // 2つそろったら swap 可
+      swapBtn.disabled = !(selected.length === 2);
     }
 
     // 表示（マーカー）
@@ -310,11 +327,12 @@
       document.querySelectorAll('#station-list input[type="checkbox"]').forEach(cb => cb.checked = false);
       clearSelectionAndLayers();
       resultPlaceholder();
-      stationListEl.textContent = 'センターと火山を選択してください。';
-      filterCount.style.display = 'none';
+      document.getElementById('volcanoSelect').innerHTML = '<option value="">（センターを先に選択）</option>';
+      document.getElementById('volcanoSelect').disabled = true;
       centerSelect.value = '';
-      volcanoSelect.innerHTML = '<option value="">（センターを先に選択）</option>';
-      volcanoSelect.disabled = true;
+      filterCount.style.display = 'none';
+      lastClickLatLng = null;
+      swapBtn.disabled = true;
     }
     function clearSelectionAndLayers() {
       selected = [];
@@ -322,12 +340,28 @@
       linkLayer.clearLayers();
     }
 
+    // ch1 ↔︎ ch2 入れ替え
+    function onSwap() {
+      if (selected.length !== 2) return;
+      // 入れ替え
+      [selected[0], selected[1]] = [selected[1], selected[0]];
+      // 直近クリックがあれば即再計算
+      if (lastClickLatLng) {
+        recomputeAt(lastClickLatLng);
+      } else {
+        resultHint.textContent = '未計算';
+      }
+    }
+
     // 地図クリック：距離→時間・差（左パネルに表示）
     function onMapClick(e) {
       if (selected.length !== 2) { return; }
-      const p = e.latlng;
-      linkLayer.clearLayers();
+      lastClickLatLng = e.latlng; // 記録
+      recomputeAt(lastClickLatLng);
+    }
 
+    function recomputeAt(p) {
+      linkLayer.clearLayers();
       const [ch1, ch2] = selected;
 
       const r1_dist = L.latLng(p.lat, p.lng).distanceTo([ch1.latDec, ch1.lonDec]);
